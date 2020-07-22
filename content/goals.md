@@ -15,5 +15,17 @@ To effectively engage with the following communities:
 + Policy makers with influence on research software
 + Publishers
 
+## Goal 2: To Share best practices and case studies to cultivate cross-pollination of ideas and approaches in the research community.
+
+### Associated objecties
+To:
+
++ Enable best practices presented at the workshop to be shared
++ Enable Case studies presented at the workshop to be sharedble 
++ Collected evidence to show that the cross pollination of ideas is happening
+  + e.g. via a Longer term survey e.g. 6 months after workshop iterations
+  + Tracaingk how the workshops reports are being used/cited
+
+
 
 
