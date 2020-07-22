@@ -3,6 +3,9 @@
 ## What is WOSSS 
 The Workshop on Sustainable Software Sustainability (WOSSS) is a series of international workshops on the topic of software sustainability; it has a particular focus on bringing together different research communities and provisions for the long term.
 
+## Upcoming events
+[WOSSS21](content/wosss21) is the next WOSSS event being organised for late 2021. [sign up](https://bit.ly/wosss21-expression-of-interest) to hear when more information is available.
+
 ## Reports
 Reports from previous WOSSS workshops:
 
@@ -28,9 +31,13 @@ Read about the [character](content/character) of the WOSSS meeting.
 ## History
 The first WOSSS related meeting ran in 2015 in Berlin, read about the [history of WOSSS](content/history).
 
+## Partners
+Find out more about the [partners](content/partners) backing the WOSSS effort.
 
-## Pages
-- [Upcoming events: WoSSS 21](content/wosss21)
-- [Partners](content/partners)
-- [Team](content/team)
-- [Contact](content/contact)
+## Team
+Find out more about the [team members](content/team) working on WOSSS.
+
+## Contact 
+Please see the ways of contacting the team and taking part in the WOSSS conversation on the [contact](contents/contact) page.
+
+
