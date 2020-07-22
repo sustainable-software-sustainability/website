@@ -2,7 +2,7 @@
 
 ## Goal 1: To bring together a broad range of research communities affected by the issues of software sustainability
 
-### Associated objectives
+### Objectives
 To effectively engage with the following communities:
 
 + Research Software Engineering 
@@ -17,14 +17,53 @@ To effectively engage with the following communities:
 
 ## Goal 2: To Share best practices and case studies to cultivate cross-pollination of ideas and approaches in the research community.
 
-### Associated objecties
+### Objectives
 To:
 
-+ Enable best practices presented at the workshop to be shared
-+ Enable Case studies presented at the workshop to be sharedble 
-+ Collected evidence to show that the cross pollination of ideas is happening
++ enable best practices presented at the workshop to be shared
++ enable Case studies presented at the workshop to be sharedble 
++ collected evidence to show that the cross pollination of ideas is happening
   + e.g. via a Longer term survey e.g. 6 months after workshop iterations
-  + Tracaingk how the workshops reports are being used/cited
+  + tracking how the workshops reports are being used/cited
+
+## Goal 3: To Identify current hurdles and problems the research community is facing to make their software sustainable
+
+### Objectives
+To:
+
++ Tackle problems as a community
+  + Identify joint strategies to tackle problems identified
++ Identify gaps where funding and/or activity is needed
+
+## Goal 4: To inform policy related to sustainable software
+
+### Objectives
+To influence and inform:
+
++ the formulation of funding calls to allow the exploration of problems and the implementation of best practices identified
++ organisational policies to implement/mandate best practices identified
+
+## Goal 5: To share terminology and definitions in the software sustainability space.
+
+### Objectives
+To share definitions and conceptualisations of software related matter. This is to guide the applicability of ideas from one area to another. This includes (but not limited to) the following areas: 
+
++ Research software
++ Software preservation and convervancy
++ Cultural heritage
+
+## Goal 6: To become a sustainable activity
+This is an internal objective of WOSSS, whereas goals 1-5 are outward facing objectives.
+
+### Objectives
+To:
+
++ ensure efforts and results are balanced.
++ develop a website for the WOSSS efforts and associated workshops 
++ develop a way to onboard/offboard the delivery team and the oversigh team at WOSSS
++ to have relevant governance documents and processes in place
+  + e.g. A code of conduct
+
 
 
 
