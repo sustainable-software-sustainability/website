@@ -14,7 +14,7 @@ WOSSS is focused on the following goals:
 6. To become a sustainable activity.
 
 
-to read more about our goals and associated objectives read more about our [goals](contents/goals).
+to read more about our goals and associated objectives read more about our [goals](content/goals).
 
 ## Pages
 - [History](content/history)
