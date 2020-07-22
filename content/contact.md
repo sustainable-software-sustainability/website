@@ -2,4 +2,4 @@
 ## Slack group
 TODO: Coming soon...
 
-Follow the [WoSSS official twitter](https://twitter.com/WOSSS21).
+Follow the [WOSSS official twitter](https://twitter.com/WOSSS_team).

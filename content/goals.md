@@ -5,10 +5,10 @@
 ### Objectives
 To effectively engage with the following communities:
 
-+ Research Software Engineering 
++ Research Software Engineering
 + Researchers who use, write or advocate for research software
 + Data Stewards
-+ The cultural heritage sector 
++ The cultural heritage sector
 + HPC service providers
 + Those who represent large codes used in science
 + Research funding agencies
@@ -21,7 +21,7 @@ To effectively engage with the following communities:
 To:
 
 + enable best practices presented at the workshop to be shared
-+ enable Case studies presented at the workshop to be sharedble 
++ enable Case studies presented at the workshop to be shareable
 + collected evidence to show that the cross pollination of ideas is happening
   + e.g. via a Longer term survey e.g. 6 months after workshop iterations
   + tracking how the workshops reports are being used/cited
@@ -46,10 +46,10 @@ To influence and inform:
 ## Goal 5: To share terminology and definitions in the software sustainability space.
 
 ### Objectives
-To share definitions and conceptualisations of software related matter. This is to guide the applicability of ideas from one area to another. This includes (but not limited to) the following areas: 
+To share definitions and conceptualisations of software related matter. This is to guide the applicability of ideas from one area to another. This includes (but not limited to) the following areas:
 
 + Research software
-+ Software preservation and convervancy
++ Software preservation and conservation
 + Cultural heritage
 
 ## Goal 6: To become a sustainable activity
@@ -59,12 +59,7 @@ This is an internal objective of WOSSS, whereas goals 1-5 are outward facing obj
 To:
 
 + ensure efforts and results are balanced.
-+ develop a website for the WOSSS efforts and associated workshops 
-+ develop a way to onboard/offboard the delivery team and the oversigh team at WOSSS
++ develop a website for the WOSSS efforts and associated workshops
++ develop a way to onboard/offboard the delivery team and the oversight team at WOSSS
 + to have relevant governance documents and processes in place
   + e.g. A code of conduct
-
-
-
-
-
