@@ -37,7 +37,10 @@ Find out more about the [partners](content/partners) backing the WOSSS effort.
 ## Team
 Find out more about the [team members](content/team) working on WOSSS.
 
+## Join the conversation
+You can [request access](https://bit.ly/wosss-slack-request) to the WoSSS Slack group to join the conversation on software sustainability.
+
 ## Contact 
-Please see the ways of contacting the team and taking part in the WOSSS conversation on the [contact](contents/contact) page.
+Please see the ways of contacting the team on the [contact](contents/contact) page.
 
 
