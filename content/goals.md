@@ -1,4 +1,4 @@
-# WOSSS Goals
+# WoSSS Goals
 
 ## Goal 1: To bring together a broad range of research communities affected by the issues of software sustainability
 
@@ -53,13 +53,13 @@ To share definitions and conceptualisations of software related matter. This is 
 + Cultural heritage
 
 ## Goal 6: To become a sustainable activity
-This is an internal objective of WOSSS, whereas goals 1-5 are outward facing objectives.
+This is an internal objective of WoSSS, whereas goals 1-5 are outward facing objectives.
 
 ### Objectives
 To:
 
 + ensure efforts and results are balanced.
-+ develop a website for the WOSSS efforts and associated workshops
-+ develop a way to onboard/offboard the delivery team and the oversight team at WOSSS
++ develop a website for the WoSSS efforts and associated workshops
++ develop a way to onboard/offboard the delivery team and the oversight team at WoSSS
 + to have relevant governance documents and processes in place
   + e.g. A code of conduct
