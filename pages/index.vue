@@ -3,7 +3,6 @@
     <header>
       <top-bar />
     </header>
-    <mobile-menu />
 
     <section></section>
     <main-section />

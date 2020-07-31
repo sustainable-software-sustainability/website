@@ -4,7 +4,7 @@
       <div class="header-data" id="header">
         <logo />
         <div class="mobile-menu-btn">
-          <a href="#" title=""><i class="fa fa-bars"></i></a>
+          <a style="cursor: pointer;" @click="mobileMenu = !mobileMenu"><i class="fa fa-bars"></i></a>
         </div>
         <div class="up-social-links">
           <ul>
@@ -16,12 +16,27 @@
         </nav>
       </div>
     </div>
+    <div class="responsive-mobile-menu" :class="{ active: mobileMenu }" style="height: 100vh;">
+      <span class="close-menu" @click="mobileMenu = !mobileMenu"><i class="mdi mdi-close"></i></span>
+      <div class="mobile-menu">
+        <navigation-items v-on:menuItemClicked="mobileMenu = false" />
+      </div>
+      <ul class="mb-social-links">
+        <social-links />
+      </ul>
+      <div class="mb-copyright-text">
+        <copyright />
+      </div>
+    </div>
   </header>
 </template>
 <script>
 export default {
   data() {
-    return { offset: 0 }
+    return {
+      offset: 0,
+      mobileMenu: false,
+    }
   },
   // a beforeMount call to add a listener to the window
   beforeMount() {

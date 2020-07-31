@@ -1,6 +1,6 @@
 ---
 reports:
-  - title: WoSSSoo
+  - title: WoSSS
     year: 2015
     description: Computer manufacturer is in hot water this week after pre-installing. software that tracks your Internet.
     link: https://

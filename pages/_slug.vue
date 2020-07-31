@@ -2,8 +2,6 @@
   <div class="wrapper">
     <top-bar />
 
-    <mobile-menu />
-
     <section class="main-section">
       <div class="custom-container">
         <div class="main-section-data">

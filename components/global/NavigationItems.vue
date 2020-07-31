@@ -1,6 +1,6 @@
 <template>
   <ul>
-    <li v-for="item in navigation" :key="item.path">
+    <li v-for="item in navigation" :key="item.path" @click="$emit('menuItemClicked')">
       <a v-if="item.path.includes('#') && $route.path === '/'" href="/" v-scroll-to="item.path">{{ item.title }}</a>
 
       <div v-else>
@@ -17,6 +17,5 @@ export default {
       navigation,
     }
   },
-  methods(path) {},
 }
 </script>
