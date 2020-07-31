@@ -20,7 +20,8 @@ To effectively engage with the following communities:
 ### Objectives
 To:
 
-+ enable best practices presented at the workshop to be shared
++ enable best practices pre
+sented at the workshop to be shared
 + enable Case studies presented at the workshop to be shareable
 + collected evidence to show that the cross pollination of ideas is happening
   + e.g. via a Longer term survey e.g. 6 months after workshop iterations
@@ -53,7 +54,7 @@ To share definitions and conceptualisations of software related matter. This is 
 + Cultural heritage
 
 ## Goal 6: To become a sustainable activity
-This is an internal objective of WOSSS, whereas goals 1-5 are outward facing objectives.
+This is an internal objective of WoSSS, whereas goals 1-5 are outward facing objectives.
 
 ### Objectives
 To:

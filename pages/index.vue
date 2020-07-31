@@ -1,15 +1,80 @@
 <template>
-  <div class="container">
-    <article>
-      <nuxt-content :document="character" />
-      <nuxt-content :document="contact" />
-      <nuxt-content :document="goals" />
-      <nuxt-content :document="history" />
-      <nuxt-content :document="partners" />
-      <nuxt-content :document="team" />
-      <nuxt-content :document="wosss21" />
-    </article>
+  <div class="wrapper">
+    <header>
+      <top-bar />
+    </header>
+    <mobile-menu />
+
+    <section></section>
+    <main-section />
+
+    <next-event />
+
+    <features />
+
+    <goals />
+
+    <reports />
+    <!--    <services />-->
+
+    <!--    <news />-->
+
+    <!--    <testimonial />-->
+
+    <footer>
+      <div class="top-footer">
+        <div class="fixed-bg footer-bg"></div>
+        <div class="custom-container">
+          <div class="top-footer-data">
+            <div class="row">
+              <div class="col-lg-6">
+                <div class="widget widget-about">
+                  <h3 class="widget-title">Join the conversation</h3>
+                  <p>
+                    You can
+                    <a
+                      target="_blank"
+                      href="https://docs.google.com/forms/d/e/1FAIpQLSdtav44lE1wi3VJXybDfAtPZ2q3Lfe20s0oGijP3Q1xj-q2ow/viewform"
+                    >
+                      request access
+                    </a>
+                    to the WoSSS Slack group to join the conversation on software sustainability.
+                  </p>
+                </div>
+                <!--widget-about end-->
+              </div>
+              <div class="col-lg-6">
+                <div class="widget widget-contact">
+                  <h3 class="widget-title">Contact</h3>
+                  <ul>
+                    <li>
+                      <a href="mailto:info@wosss.org">info@wosss.org</a>
+                    </li>
+                  </ul>
+                </div>
+                <!--widget-contact end-->
+              </div>
+            </div>
+          </div>
+          <!--top-footer-data end-->
+        </div>
+      </div>
+      <!--top-footer end-->
+      <div class="bottom-footer">
+        <div class="custom-container">
+          <div class="bottom-footer-data">
+            <copyright />
+            <ul class="social-links">
+              <social-links />
+            </ul>
+          </div>
+          <!-- bottom-footer-data end-->
+        </div>
+      </div>
+      <!--bottom-footer end-->
+    </footer>
   </div>
+  <!--wrapper end-->
 </template>
 
 <script>
@@ -27,18 +92,6 @@ export default {
       ],
     }
   },
-
-  async asyncData({ $content, params }) {
-    const character = await $content('character').fetch()
-    const contact = await $content('contact').fetch()
-    const goals = await $content('goals').fetch()
-    const history = await $content('history').fetch()
-    const partners = await $content('partners').fetch()
-    const team = await $content('team').fetch()
-    const wosss21 = await $content('wosss21').fetch()
-
-    return { character, contact, goals, history, partners, team, wosss21 }
-  },
 }
 </script>
 
@@ -51,15 +104,15 @@ export default {
   align-items: center;
   text-align: center;
 }
-.nuxt-content h2 {
-  font-weight: bold;
-  font-size: 28px;
-}
-.nuxt-content h3 {
-  font-weight: bold;
-  font-size: 22px;
-}
-.nuxt-content p {
-  margin-bottom: 20px;
-}
+/*.nuxt-content h2 {*/
+/*  font-weight: bold;*/
+/*  font-size: 28px;*/
+/*}*/
+/*.nuxt-content h3 {*/
+/*  font-weight: bold;*/
+/*  font-size: 22px;*/
+/*}*/
+/*.nuxt-content p {*/
+/*  margin-bottom: 20px;*/
+/*}*/
 </style>
