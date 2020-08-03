@@ -3,7 +3,8 @@
     <div class="custom-container">
       <div class="wait-sec">
         <h3>{{ wosss21.title }}</h3>
-        <a href="#" title="">{{ wosss21.description }}</a>
+        <nuxt-content :document="wosss21" />
+        <a :href="wosss21.link" title="">{{ wosss21.linkText }}</a>
       </div>
     </div>
   </section>
