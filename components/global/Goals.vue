@@ -6,119 +6,72 @@
         <div class="heading">
           <h3>Our goals</h3>
         </div>
-        <div class="row">
-          <!--          <div class="col-lg-4">-->
-          <!--            <div class="about-img">-->
-          <!--              <img src="http://via.placeholder.com/486x854" alt="" />-->
-          <!--            </div>-->
-          <!--            &lt;!&ndash;srvc-img end&ndash;&gt;-->
-          <!--          </div>-->
-          <!--          <nuxt-content :document="content" />-->
-
-          <div class="col-lg-6">
-            <div class="about-list">
-              <div class="about-info">
-                <div class="about-num"><span>01.</span></div>
-                <!--service-num end-->
-                <div class="abt-info">
-                  <h3>Simple & easy</h3>
-                  <p>
-                    Bring together a broad range of research communities affected by the issues of software sustainability
-                  </p>
-                </div>
-                <!--srvc-info end-->
+        <div class="row grid">
+          <div v-for="goal in goals" :key="goal.n" class="about-list">
+            <div class="about-info">
+              <div class="about-num">
+                <span>{{ goal.n }}</span>
               </div>
-              <!--service-info end-->
-              <div class="about-info">
-                <div class="about-num st2"><span>02.</span></div>
-                <!--service-num end-->
-                <div class="abt-info">
-                  <h3>Powerfull</h3>
-                  <p>
-                    Sed non ipsum ultricies, vestibulum sapien at, tincidunt enim. Sed porttitor dui et ligula rhoncus hendrerit. Duis
-                    sodales varius justo at hendrerit. Cras vestibulum quam a justo convallis, nec vulputate purus ullamcorper.
-                  </p>
-                </div>
-                <!--srvc-info end-->
-              </div>
-              <!--service-info end-->
-              <div class="about-info">
-                <div class="about-num st3"><span>03.</span></div>
-                <!--service-num end-->
-                <div class="abt-info">
-                  <h3>Deliver Results</h3>
-                  <p>
-                    Sed non ipsum ultricies, vestibulum sapien at, tincidunt enim. Sed porttitor dui et ligula rhoncus hendrerit. Duis
-                    sodales varius justo at hendrerit. Cras vestibulum quam a justo convallis, nec vulputate purus ullamcorper.
-                  </p>
-                </div>
-                <!--srvc-info end-->
+              <!--service-num end-->
+              <div class="abt-info">
+                <h3>{{ goal.title }}</h3>
+                <p>
+                  {{ goal.description }}
+                </p>
               </div>
             </div>
-            <!--services-list end-->
           </div>
-          <div class="col-lg-6">
-            <div class="about-list">
-              <div class="about-info">
-                <div class="about-num"><span>04.</span></div>
-                <!--service-num end-->
-                <div class="abt-info">
-                  <h3>Simple & easy</h3>
-                  <p>
-                    Sed non ipsum ultricies, vestibulum sapien at, tincidunt enim. Sed porttitor dui et ligula rhoncus hendrerit. Duis
-                    sodales varius justo at hendrerit. Cras vestibulum quam a justo convallis, nec vulputate purus ullamcorper.
-                  </p>
-                </div>
-                <!--srvc-info end-->
-              </div>
-              <!--service-info end-->
-              <div class="about-info">
-                <div class="about-num st2"><span>05.</span></div>
-                <!--service-num end-->
-                <div class="abt-info">
-                  <h3>Powerfull</h3>
-                  <p>
-                    Sed non ipsum ultricies, vestibulum sapien at, tincidunt enim. Sed porttitor dui et ligula rhoncus hendrerit. Duis
-                    sodales varius justo at hendrerit. Cras vestibulum quam a justo convallis, nec vulputate purus ullamcorper.
-                  </p>
-                </div>
-                <!--srvc-info end-->
-              </div>
-              <!--service-info end-->
-              <div class="about-info">
-                <div class="about-num st3"><span>06.</span></div>
-                <!--service-num end-->
-                <div class="abt-info">
-                  <h3>Deliver Results</h3>
-                  <p>
-                    Sed non ipsum ultricies, vestibulum sapien at, tincidunt enim. Sed porttitor dui et ligula rhoncus hendrerit. Duis
-                    sodales varius justo at hendrerit. Cras vestibulum quam a justo convallis, nec vulputate purus ullamcorper.
-                  </p>
-                </div>
-                <!--srvc-info end-->
-              </div>
-              <!--service-info end-->
-            </div>
-            <!--services-list end-->
-          </div>
-
-          <a href="#" class="btn-sbmt">More about our goals</a>
         </div>
       </div>
       <!--services-sec end-->
+      <nuxt-link to="/goals" class="btn-sbmt">More about our goals</nuxt-link>
     </div>
   </section>
 </template>
 <script>
 export default {
-  props: { content: { type: Object, default: null } },
+  async fetch() {
+    const data = await this.$content('sections', 'goals-section').fetch()
+    this.goals = Object.values(data).filter((n) => !!n.n)
+  },
+  data() {
+    return {
+      goals: [],
+    }
+  },
 }
 </script>
 
 <style scoped>
+.grid {
+  width: 100%;
+  margin: 0 auto;
+  max-width: 1200px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+.about-list {
+  padding: 100px 35px 0 35px;
+}
 .btn-sbmt {
   margin: 0 auto;
   align-items: center;
   display: flex;
+  width: fit-content;
+  float: none;
+}
+@media (max-width: 770px) {
+  .grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media (max-width: 480px) {
+  .grid {
+    grid-template-columns: 1fr;
+  }
+  .about-list {
+    padding-top: 10px;
+  }
 }
 </style>

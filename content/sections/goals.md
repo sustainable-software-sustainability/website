@@ -1,4 +1,4 @@
-# WOSSS Goals
+# WoSSS Goals
 
 ## Goal 1: To bring together a broad range of research communities affected by the issues of software sustainability
 
@@ -20,12 +20,11 @@ To effectively engage with the following communities:
 ### Objectives
 To:
 
-+ enable best practices pre
-sented at the workshop to be shared
++ enable best practices presented at the workshop to be shared
 + enable Case studies presented at the workshop to be shareable
 + collected evidence to show that the cross pollination of ideas is happening
-  + e.g. via a Longer term survey e.g. 6 months after workshop iterations
-  + tracking how the workshops reports are being used/cited
++ e.g. via a Longer term survey e.g. 6 months after workshop iterations
++ tracking how the workshops reports are being used/cited
 
 ## Goal 3: To Identify current hurdles and problems the research community is facing to make their software sustainable
 
@@ -33,7 +32,7 @@ sented at the workshop to be shared
 To:
 
 + Tackle problems as a community
-  + Identify joint strategies to tackle problems identified
++ Identify joint strategies to tackle problems identified
 + Identify gaps where funding and/or activity is needed
 
 ## Goal 4: To inform policy related to sustainable software
@@ -63,4 +62,4 @@ To:
 + develop a website for the WOSSS efforts and associated workshops
 + develop a way to onboard/offboard the delivery team and the oversight team at WOSSS
 + to have relevant governance documents and processes in place
-  + e.g. A code of conduct
++ e.g. A code of conduct

@@ -1,9 +1,19 @@
-# Core partnerssss
+# Core partners
 WoSSS is brought to you by:
 
-[![SSI](/img/SSILogo4Citations.png){: width="250px"}](https://www.software.ac.uk/)
-[![DANS](/img/dans_logo.png){: width="250px"}](https://dans.knaw.nl/en)
-[![eScience center](/img/ESCIENCE_logo_C_nl_cyanblack.png){: width="250px"}](https://www.esciencecenter.nl/)
+<div class="partners">
+<a href="https://www.software.ac.uk/">
+    <img src="/img/SSILogo4Citations.png" width="250px" />
+</a> 
+           
+<a href="https://dans.knaw.nl/en">
+    <img src="/img/dans_logo.png" width="250px" />
+</a>
+<a href="https://www.esciencecenter.nl/">
+    <img src="/img/ESCIENCE_logo_C_nl_cyanblack.png" width="250px" />
+</a>
+</div>
+
 
 The three founding partners are responsible for the organization and collective funding of the WoSSS workshops. On topics in domains that are shared with the associate members, explicitly cooperation if sought on the contents of those topics and the speakers to be invited.
 

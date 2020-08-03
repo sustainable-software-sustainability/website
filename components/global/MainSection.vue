@@ -12,19 +12,16 @@
                 sustainability; it has a particular focus on bringing together different research communities and provisions for the long
                 term.
               </p>
-              <a href="#features" title="">explore</a>
+              <a href="#" v-scroll-to="'#features'" title="">explore</a>
             </div>
-            <!--banner-text end-->
           </div>
           <div class="col-lg-6">
             <div class="banner-imgs">
-              <img src="img/look.png" />
+              <img src="img/look.webp" />
             </div>
-            <!--banner-imgs end-->
           </div>
         </div>
       </div>
-      <!--main-section-data end-->
     </div>
   </section>
 </template>
