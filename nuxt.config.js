@@ -24,12 +24,29 @@ export default {
         content: process.env.npm_package_description || '',
       },
     ],
-    link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
+    link: [
+      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+      {
+        rel: 'stylesheet',
+        href: 'https://fonts.googleapis.com/css?family=Work+Sans:ital,wght@0,700;1,400&display=swap',
+      },
+    ],
   },
   /*
    ** Global CSS
    */
-  css: [],
+  css: [
+    '@/assets/css/animate.css',
+    '@/assets/css/bootstrap.min.css',
+    '@/assets/css/font-awesome.min.css',
+    '@/assets/css/materialdesignicons.min.css',
+    '@/assets/lib/slick/slick.css',
+    '@/assets/lib/slick/slick-theme.css',
+    '@/assets/css/light-color.css',
+    '@/assets/css/style.css',
+    '@/assets/css/responsive.css',
+  ],
+
   /*
    ** Plugins to load before mounting the App
    ** https://nuxtjs.org/guide/plugins
@@ -57,16 +74,19 @@ export default {
     ['vue-scrollto/nuxt', { duration: 2000 }],
   ],
   generate: {
-    async routes() {
-      const { $content } = require('@nuxt/content')
-      const files = await $content().only(['path']).fetch()
-
-      return files.map((file) => (file.path === '/index' ? '/' : file.path))
-    },
+    fallback: '404.html', // for Netlify
+    // routes: ['/'], // give the first url to start crawling
+    // async routes() {
+    //   const { $content } = require('@nuxt/content')
+    //   const files = await $content().only(['sections']).fetch()
+    //   console.log(files)
+    //
+    //   return files.map((file) => (file.path === '/index' ? '/' : file.path))
+    // },
 
     // async ready() {
     //   const { $content } = require('@nuxt/content')
-    //   const files = await $content().only(['slug']).fetch()
+    //   const files = await $content().only(['sections']).fetch()
     //   console.log(files)
     // },
   },
