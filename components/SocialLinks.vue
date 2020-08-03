@@ -1,7 +1,7 @@
 <template>
   <div>
     <li>
-      <a target="_blank" href="https://wosss.slack.com" title=""><i class="fa fa-slack"></i></a>
+      <a target="_blank" href="https://bit.ly/wosss-slack" title=""><i class="fa fa-slack"></i></a>
     </li>
     <li>
       <a target="_blank" href="https://twitter.com/WOSSS_team" title=""><i class="fa fa-twitter"></i></a>

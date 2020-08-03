@@ -31,10 +31,7 @@
                   <h3 class="widget-title">Join the conversation</h3>
                   <p>
                     You can
-                    <a
-                      target="_blank"
-                      href="https://docs.google.com/forms/d/e/1FAIpQLSdtav44lE1wi3VJXybDfAtPZ2q3Lfe20s0oGijP3Q1xj-q2ow/viewform"
-                    >
+                    <a target="_blank" href="https://bit.ly/wosss-slack" title="">
                       request access
                     </a>
                     to the WoSSS Slack group to join the conversation on software sustainability.
