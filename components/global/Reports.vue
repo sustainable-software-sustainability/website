@@ -1,11 +1,9 @@
 <template>
-  <section id="allReports" class="pricing">
+  <section id="reports" class="pricing">
     <div class="fixed-bg bg5"></div>
     <div class="custom-container">
       <div class="heading st2">
         <h3>{{ reports.title }}</h3>
-      </div>
-      <div class="custom-container">
         <p>
           <nuxt-content :document="reports" />
         </p>

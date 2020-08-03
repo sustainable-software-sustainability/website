@@ -12,7 +12,7 @@
                 sustainability; it has a particular focus on bringing together different research communities and provisions for the long
                 term.
               </p>
-              <a href="#" v-scroll-to="'#features'" title="">explore</a>
+              <a href="#" v-scroll-to="'#reports'" title="">explore</a>
             </div>
           </div>
           <div class="col-lg-6">
