@@ -1,5 +1,14 @@
 # Workshop on Sustainable Software Sustainability (WoSSS)
 
+
+### 📝 New website under development 📝
+A complete redesign of the WoSSS portal is going on under the ['new-web' branch](https://github.com/sustainable-software-sustainability/sustainable-software-sustainability.github.io/tree/new-web). Future changes and modification can be done from there. 
+
+You can also check and download the lastest status of the [WoSSS Logo](https://github.com/sustainable-software-sustainability/sustainable-software-sustainability.github.io/tree/new-web/Logo)
+
+
+------
+
 ## What is WoSSS
 The Workshop on Sustainable Software Sustainability (WoSSS) is a series of international workshops on the topic of software sustainability; it has a particular focus on bringing together different research communities and provisions for the long term.
 
