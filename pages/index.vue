@@ -40,14 +40,14 @@
                 <!--widget-about end-->
               </div>
               <div class="col-lg-6">
-                <div class="widget widget-contact">
+                <!--<div class="widget widget-contact">
                   <h3 class="widget-title">Contact</h3>
                   <ul>
                     <li>
                       <a href="mailto:info@wosss.org">info@wosss.org</a>
                     </li>
                   </ul>
-                </div>
+                </div>-->
                 <!--widget-contact end-->
               </div>
             </div>
