@@ -1,9 +1,14 @@
 <template>
-  <section id="reports" class="pricing">
+  <section id="allReports" class="pricing">
     <div class="fixed-bg bg5"></div>
     <div class="custom-container">
       <div class="heading st2">
-        <h3>Workshops Reports</h3>
+        <h3>{{ reports.title }}</h3>
+      </div>
+      <div class="custom-container">
+        <p>
+          <nuxt-content :document="reports" />
+        </p>
       </div>
       <div class="pricing-plan">
         <div class="row">
@@ -31,14 +36,14 @@
 <script>
 export default {
   async fetch() {
-    const data = await this.$content('sections', 'reports').fetch()
-    this.content = data.reports.filter((r) => {
+    this.reports = await this.$content('sections', 'reports').fetch()
+    this.content = this.reports.allReports.filter((r) => {
       return r.title
     })
   },
   data() {
     return {
-      content: {},
+      reports: {},
     }
   },
 }

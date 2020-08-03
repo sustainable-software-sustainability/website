@@ -10,10 +10,10 @@
     <next-event />
 
     <!--<features />-->
+    <reports />
 
     <goals />
 
-    <reports />
     <!--    <services />-->
 
     <!--    <news />-->
