@@ -9,7 +9,7 @@
 
     <next-event />
 
-    <features />
+    <!--<features />-->
 
     <goals />
 
