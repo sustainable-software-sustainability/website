@@ -59,6 +59,7 @@ export default {
 }
 .slug .main-section {
   height: 100vh;
+  padding-bottom: 60px;
 }
 .slug .custom-container {
   display: flex;
