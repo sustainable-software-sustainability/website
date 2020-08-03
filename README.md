@@ -2,7 +2,7 @@
 
 
 ### 📝 New website under development 📝
-A complete redesign of the WoSSS portal is going on under the ['new-web' branch](https://github.com/sustainable-software-sustainability/sustainable-software-sustainability.github.io/tree/new-web). Future changes and modification can be done from there. 
+A complete redesign of the WoSSS portal is going on under the ['new-web' branch](https://github.com/sustainable-software-sustainability/sustainable-software-sustainability.github.io/tree/new-web). Future changes and modifications can be done from there. 
 
 You can also check and download the lastest status of the [WoSSS Logo](https://github.com/sustainable-software-sustainability/sustainable-software-sustainability.github.io/tree/new-web/Logo)
 
