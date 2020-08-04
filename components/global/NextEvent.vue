@@ -22,3 +22,14 @@ export default {
   },
 }
 </script>
+<style>
+.wait-sec {
+  padding: 120px 0;
+}
+.wait-sec h3 {
+  margin-bottom: 30px;
+}
+.wait-sec .nuxt-content {
+  margin-bottom: 30px;
+}
+</style>
