@@ -1,6 +1,6 @@
 ---
   - path: "#get-started"
-    title: "Next Event" 
+    title: "WoSSS '21" 
     
   - path: "#reports"
     title: "Reports" 

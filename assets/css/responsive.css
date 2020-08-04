@@ -17,7 +17,7 @@
 	.abt-info {width: 70%;}
 	.service-info h3 {font-size: 24px;}
 	.service-main-info h3 {font-size: 45px;line-height: 45px;}
-	.pricing {padding: 120px 0 340px 0;}
+	.reporting {padding: 120px 0 120px 0;}
 	.heading.st2 {margin-bottom: 20px;}
 	.user-info h3 {font-size: 20px;}
 	.news {padding: 110px 0 110px 0;}
@@ -49,8 +49,8 @@
 	.services {padding: 60px 0;}
 	.mg-top-minus {margin-top: 0;}
 	.bg5 {display: none;}
-	.price:hover .price-head {padding-top: 28px;}
-	.pricing {padding: 40px 0 340px 0;}
+	.report:hover .report-head {padding-top: 28px;}
+	.reporting {padding: 40px 0 340px 0;}
 	.heading h3 {font-size: 40px;}
 	.testimonial-slider {float: left;width: 100%;}
 	.user-comment p {font-size: 30px;line-height: 36px;}
@@ -70,7 +70,7 @@
 	.banner-imgs {text-align: center;margin-top: 30px;}
 	/*.main-section {padding: 125px 0 200px 0;}*/
 	.services {margin-top: 0;}
-	.pricing {margin-top: 0;}
+	.reporting {margin-top: 0;}
 	.banner-text p {padding: 0 100px;}
 }
 
@@ -83,7 +83,7 @@
 	.services-list {padding-top: 0;}
 	.about {padding-bottom: 50px;}
 	.service-main-info {position: static;float: left;width: 100%;transform: inherit;}
-	.price:hover .price-head {padding-top: 50px;}
+	.report:hover .report-head {padding-top: 50px;}
 	.service-img {width: 100%;text-align: center;}
 	.heading h3 {font-size: 34px;}
 	.user-comment {padding: 25px 10px;}
@@ -112,8 +112,8 @@
 	.service-main-info h3 {font-size: 32px;line-height: 34px;}
 	.service-main-info {padding-top: 50px;}
 	.service-info h3 {font-size: 20px;}
-	.price:hover .price-head {padding-top: inherit;}
-	.price:hover {background: inherit;transform: inherit;padding: 40px 15px;}
+	.report:hover .report-head {padding-top: inherit;}
+	.report:hover {background: inherit;transform: inherit;padding: 40px 15px;}
 	.user-comment p {font-size: 20px;line-height: 27px;}
 	.user-info h3 {font-size: 15px;}
 	.testimonial-nav {margin-top: 30px;}

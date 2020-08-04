@@ -14,10 +14,10 @@ p,
 .service-details > span,
 .service-info h3,
 .service-main-info h3,
-.price-head h4,
-.price-head ul li h3,
-.price-head ul li > span,
-.price > a,
+.report-head h4,
+.report-head ul li h3,
+.report-head ul li > span,
+.report > a,
 .heading h3,
 .user-comment p,
 .user-info h3,
@@ -76,8 +76,8 @@ a:hover {
 .bg5 {
 	background-image: url(../images/bg5_2.png);
 }
-.price:hover {
-	background-image: url(../images/price-bg2.png);
+.report:hover {
+	background-image: url(../images/report-bg2.png);
 }
 .user-comment:before {
 	background-image: url(../images/comm2.png);

@@ -1,5 +1,3 @@
-
-
 body {
     background-color: #fff;
 }
@@ -12,10 +10,10 @@ p,
 .about-list > a,
 .service-info h3,
 .service-main-info h3,
-.price-head h4,
-.price-head ul li h3,
-.price-head ul li > span,
-.price > a,
+.report-head h4,
+.report-head ul li h3,
+.report-head ul li > span,
+.report > a,
 .heading h3,
 .user-comment p,
 .user-info h3,
@@ -40,7 +38,7 @@ p,
 }
 .lyr4,
 .about-list > a,
-.price > a,
+.report > a,
 .btn-sbmt {
 	border-color: #333333;
 }
@@ -69,8 +67,8 @@ p,
 .service-details > span {
 	color: #b6e5e6;
 }
-.price:hover {
-	background-image: url(../images/price-bg.png);
+.report:hover {
+	background-image: url(../images/report-bg.png);
 }
 .user-comment:before {
 	background-image: url(../images/comm.png);
