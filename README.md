@@ -9,6 +9,12 @@ You can check and download the lastest status of the [WoSSS Logo](https://github
 <img width="796" alt="new-website" src="https://user-images.githubusercontent.com/4195550/89177852-9c248c00-d58c-11ea-9225-37e9cc86879e.png">
 
 
+## Updating content
+
+To update the page content, you need to modify the corresponding `*.md` file in `content/sections/`
+
+To update the navigation menu, you need to modify `assets/navigation.json`
+
 ### Running locally
 ```
 # clone the repo.
