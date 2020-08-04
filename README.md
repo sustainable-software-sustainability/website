@@ -1,3 +1,33 @@
+## 📝 Under development
+
+#### Open [Preview website ](https://wosss.netlify.app)
+
+Edit content: you can modify the content files directly on github from the [content](https://github.com/sustainable-software-sustainability/sustainable-software-sustainability.github.io/tree/new-web/content) folder.
+
+You can check and download the lastest status of the [WoSSS Logo](https://github.com/sustainable-software-sustainability/sustainable-software-sustainability.github.io/tree/new-web/Logo).
+
+<img width="796" alt="new-website" src="https://user-images.githubusercontent.com/4195550/89177852-9c248c00-d58c-11ea-9225-37e9cc86879e.png">
+
+
+### Running locally
+```
+# clone the repo.
+
+# Install dependencies:
+yarn install
+
+# Run locally:
+yarn dev
+
+# Run locally production version:
+yarn generate && yarn start
+
+# Deploy:
+commit and push changes to master branch will trigger CD automatically
+```
+
+-----
+
 # Workshop on Sustainable Software Sustainability (WOSSS)
 
 ## What is WOSSS 
