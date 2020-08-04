@@ -2,12 +2,12 @@
   - path: "#get-started"
     title: "Next Event" 
     
-  - path: "#goals"
-    title: "Goals" 
-  
   - path: "#reports"
     title: "Reports" 
-  
+
+  - path: "#goals"
+    title: "Goals" 
+    
   - path: "/character"
     title: "Character" 
   
