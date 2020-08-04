@@ -5,14 +5,10 @@
         <div class="row">
           <div class="col-lg-5">
             <div class="banner-text">
-              <h3>Introducing</h3>
-              <h2 style="text-transform: initial;">WoSSS</h2>
-              <p>
-                Workshop on Sustainable Software Sustainability (WoSSS), is a series of international workshops on the topic of software
-                sustainability; it has a particular focus on bringing together different research communities and provisions for the long
-                term.
-              </p>
-              <a href="#" v-scroll-to="'#reports'" title="">explore</a>
+              <h3>{{ content.subtitle }}</h3>
+              <h2 style="text-transform: initial;">{{ content.title }}</h2>
+              <nuxt-content :document="content" />
+              <a href="#" v-scroll-to="content.link" title="">{{ content.linkText }}</a>
             </div>
           </div>
           <div class="col-lg-6">
@@ -27,6 +23,13 @@
 </template>
 <script>
 export default {
-  name: 'MainSection',
+  async fetch() {
+    this.content = await this.$content('main-section').fetch()
+  },
+  data() {
+    return {
+      content: {},
+    }
+  },
 }
 </script>
