@@ -10,11 +10,14 @@
   </ul>
 </template>
 <script>
-import navigation from '~/assets/navigation.json'
 export default {
+  async fetch() {
+    const navigation = await this.$content('navigation').fetch()
+    this.navigation = Object.values(navigation).filter((n) => !!n.path)
+  },
   data() {
     return {
-      navigation,
+      navigation: [],
     }
   },
 }

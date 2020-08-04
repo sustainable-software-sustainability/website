@@ -1,0 +1,19 @@
+---
+  - path: "#get-started"
+    title: "Next Event" 
+    
+  - path: "#goals"
+    title: "Goals" 
+  
+  - path: "#reports"
+    title: "Reports" 
+  
+  - path: "/character"
+    title: "Character" 
+  
+  - path: "/history"
+    title: "History" 
+  
+  - path: "/partners"
+    title: "Partners"
+---
