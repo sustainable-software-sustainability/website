@@ -6,14 +6,13 @@ Edit content: you can modify the content files directly on github from the [cont
 
 You can check and download the lastest status of the [WoSSS Logo](https://github.com/sustainable-software-sustainability/sustainable-software-sustainability.github.io/tree/new-web/Logo).
 
-<img width="796" alt="new-website" src="https://user-images.githubusercontent.com/4195550/89177852-9c248c00-d58c-11ea-9225-37e9cc86879e.png">
-
+Made with:
+ - [Nuxt content](https://content.nuxtjs.org/), Allowing md style, html and Vue components inside the content files. 
 
 ## Updating content
 
-To update the page content, you need to modify the corresponding `*.md` file in `content/sections/`
+To update the page content, you need to modify the corresponding `*.md` file in `content/` and `content/sections/`.
 
-To update the navigation menu, you need to modify `assets/navigation.json`
 
 ### Running locally
 ```
@@ -32,6 +31,7 @@ yarn generate && yarn start
 commit and push changes to master branch will trigger CD automatically
 ```
 
+<img width="796" alt="new-website" src="https://user-images.githubusercontent.com/4195550/89177852-9c248c00-d58c-11ea-9225-37e9cc86879e.png">
 -----
 
 # Workshop on Sustainable Software Sustainability (WOSSS)
