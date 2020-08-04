@@ -1,7 +1,7 @@
 <template>
   <ul>
     <li v-for="item in navigation" :key="item.path" @click="$emit('menuItemClicked')">
-      <a v-if="item.path.includes('#') && $route.path === '/'" href="/" v-scroll-to="item.path">{{ item.title }}</a>
+      <a v-if="item.path.includes('#') && $route.path === '/'" v-scroll-to="item.path" href="/">{{ item.title }}</a>
 
       <div v-else>
         <nuxt-link :to="item.path.includes('#') ? '/' + item.path : item.path">{{ item.title }}</nuxt-link>

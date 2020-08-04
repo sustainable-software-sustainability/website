@@ -1,7 +1,7 @@
 <template>
   <header :class="{ 'sticky animated slideInDown': offset }">
     <div class="custom-container">
-      <div class="header-data" id="header">
+      <div id="header" class="header-data">
         <logo />
         <div class="mobile-menu-btn">
           <a style="cursor: pointer;" @click="mobileMenu = !mobileMenu"><i class="fa fa-bars"></i></a>
@@ -19,7 +19,7 @@
     <div class="responsive-mobile-menu" :class="{ active: mobileMenu }" style="height: 100vh;">
       <span class="close-menu" @click="mobileMenu = !mobileMenu"><i class="mdi mdi-close"></i></span>
       <div class="mobile-menu">
-        <navigation-items v-on:menuItemClicked="mobileMenu = false" />
+        <navigation-items @menuItemClicked="mobileMenu = false" />
       </div>
       <ul class="mb-social-links">
         <social-links />

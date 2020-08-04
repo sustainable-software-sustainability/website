@@ -8,7 +8,7 @@
               <h3>{{ content.subtitle }}</h3>
               <h2 style="text-transform: initial;">{{ content.title }}</h2>
               <nuxt-content :document="content" />
-              <a href="#" v-scroll-to="content.link" title="">{{ content.linkText }}</a>
+              <a v-scroll-to="content.link" href="#" title="">{{ content.linkText }}</a>
             </div>
           </div>
           <div class="col-lg-6">
