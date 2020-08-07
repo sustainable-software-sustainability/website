@@ -1,24 +1,6 @@
 <template>
   <div>
-    <header>
-      <top-bar />
-    </header>
-
-    <section></section>
-    <main-section />
-
-    <next-event />
-
-    <!--<features />-->
-    <reports />
-
-    <goals />
-
-    <!--    <services />-->
-
-    <!--    <news />-->
-
-    <!--    <testimonial />-->
+    <nuxt-content :document="content" />
 
     <footer>
       <div class="top-footer">
@@ -37,7 +19,6 @@
                     to the WoSSS Slack group to join the conversation on software sustainability.
                   </p>
                 </div>
-                <!--widget-about end-->
               </div>
               <div class="col-lg-6">
                 <!--<div class="widget widget-contact">
@@ -48,14 +29,11 @@
                     </li>
                   </ul>
                 </div>-->
-                <!--widget-contact end-->
               </div>
             </div>
           </div>
-          <!--top-footer-data end-->
         </div>
       </div>
-      <!--top-footer end-->
       <div class="bottom-footer">
         <div class="custom-container">
           <div class="bottom-footer-data">
@@ -70,7 +48,6 @@
       <!--bottom-footer end-->
     </footer>
   </div>
-  <!--wrapper end-->
 </template>
 
 <script>
@@ -88,10 +65,21 @@ export default {
       ],
     }
   },
+  async fetch() {
+    this.content = await this.$content('home').fetch()
+  },
+  data() {
+    return {
+      content: {},
+    }
+  },
 }
 </script>
 
 <style>
+.nuxt-content-container.is-editing {
+  margin-top: 100px;
+}
 .container {
   margin: 0 auto;
   min-height: 100vh;
@@ -100,6 +88,7 @@ export default {
   align-items: center;
   text-align: center;
 }
+
 /*.nuxt-content h2 {*/
 /*  font-weight: bold;*/
 /*  font-size: 28px;*/

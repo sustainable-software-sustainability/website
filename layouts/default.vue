@@ -1,5 +1,6 @@
 <template>
   <div>
+    <app-navigation />
     <Nuxt />
   </div>
 </template>

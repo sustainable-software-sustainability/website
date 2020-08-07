@@ -31,7 +31,7 @@
 <script>
 export default {
   async fetch() {
-    this.reports = await this.$content('reports').fetch()
+    this.reports = await this.$content('sections/reports').fetch()
     this.content = this.reports.allReports.filter((r) => {
       return r.title
     })

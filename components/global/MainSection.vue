@@ -24,7 +24,7 @@
 <script>
 export default {
   async fetch() {
-    this.content = await this.$content('main-section').fetch()
+    this.content = await this.$content('sections/main-section').fetch()
   },
   data() {
     return {

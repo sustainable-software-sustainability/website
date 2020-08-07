@@ -36,15 +36,16 @@ export default {
    ** Global CSS
    */
   css: [
-    '@/assets/css/animate.css',
-    '@/assets/css/bootstrap.min.css',
-    '@/assets/css/font-awesome.min.css',
-    '@/assets/css/materialdesignicons.min.css',
-    '@/assets/lib/slick/slick.css',
-    '@/assets/lib/slick/slick-theme.css',
-    '@/assets/css/light-color.css',
-    '@/assets/css/style.css',
-    '@/assets/css/responsive.css',
+    '~/assets/css/animate.css',
+    '~/assets/css/bootstrap.min.css',
+    '~/assets/css/font-awesome.min.css',
+    '~/assets/css/materialdesignicons.min.css',
+    '~/assets/lib/slick/slick.css',
+    '~/assets/lib/slick/slick-theme.css',
+    '~/assets/css/light-color.css',
+    '~/assets/css/style.css',
+    '~/assets/css/responsive.css',
+    '~/assets/main.css',
   ],
 
   /*
@@ -75,20 +76,6 @@ export default {
   ],
   generate: {
     fallback: '404.html', // for Netlify
-    // routes: ['/'], // give the first url to start crawling
-    // async routes() {
-    //   const { $content } = require('@nuxt/content')
-    //   const files = await $content().only(['sections']).fetch()
-    //   console.log(files)
-    //
-    //   return files.map((file) => (file.path === '/index' ? '/' : file.path))
-    // },
-
-    // async ready() {
-    //   const { $content } = require('@nuxt/content')
-    //   const files = await $content().only(['sections']).fetch()
-    //   console.log(files)
-    // },
   },
 
   /*

@@ -1,8 +1,6 @@
 <template>
   <div class="slug">
     <div>
-      <top-bar />
-
       <section class="main-section">
         <div class="custom-container">
           <div class="main-section-data">
@@ -32,6 +30,7 @@
 
 <script>
 export default {
+  transition: 'fade',
   async asyncData({ $content, params }) {
     const section = await $content('sections', params.slug).fetch()
     return {
@@ -41,9 +40,10 @@ export default {
 }
 </script>
 <style>
-.nuxt-content {
+.slug .nuxt-content {
   display: flex;
   flex-direction: column;
+  padding-bottom: 60px;
 }
 .nuxt-content .partners {
   margin-bottom: 16px;
@@ -59,7 +59,6 @@ export default {
 }
 .slug .main-section {
   height: 100vh;
-  padding-bottom: 60px;
 }
 .slug .custom-container {
   display: flex;
