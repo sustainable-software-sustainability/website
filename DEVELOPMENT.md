@@ -11,7 +11,7 @@ Check and downlaod the the logo files in the [WoSSS logo](Logo) folder.
 ## Platform
 The WoSSS site uses the [Nuxt.js](https://nuxtjs.org/) platform.
 
-In addition it uses the [Nut content](https://content.nuxtjs.org/) module to allow markdown, html and [Vue components](https://vuejs.org/v2/guide/components.html) inside the content files.
+In addition it uses the [Nuxt content](https://content.nuxtjs.org/) module to allow markdown, html and [Vue components](https://vuejs.org/v2/guide/components.html) inside the content files.
 
 ## Adding and updating content
 To add or modify content, modify and existing `*.md` file in [content](content) and [content/sections](content/sections) or add one.

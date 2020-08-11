@@ -1,26 +1,26 @@
 ---
 - n: 01.
-  title: Together
-  description: Bring together a broad range of research communities affected by the issues of software sustainability
+  title: Broadness
+  description: To bring together a broad range of research communities with a focus on the long term software sustainability of existing, new and future code.
   
 - n: 02.
-  title: Share
+  title: Cross-pollination
   description: Share best practices and case studies to cultivate cross-pollination of ideas and approaches in the research community   
 
 - n: 03.
-  title: Problems
+  title: Identify Issues
   description: Identify current hurdles and problems the research community is facing to make their software sustainable   
 
 - n: 04.
-  title: Policy
+  title: Inform policy
   description: Inform policy related to sustainable software
    
 
 - n: 05.
-  title: Terminology
+  title: Shared Terminology
   description: Share terminology and definitions in the software space   
 
 - n: 06.
-  title: Become
+  title: Sustainable activity
   description: To become a sustainable activity.   
 ---

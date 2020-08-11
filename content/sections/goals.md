@@ -1,6 +1,6 @@
 # WoSSS Goals
 
-## Goal 1: To bring together a broad range of research communities affected by the issues of software sustainability
+## Goal 1: To bring together a broad range of research communities with a focus on the long term software sustainability of existing, new and future code.
 
 ### Objectives
 To effectively engage with the following communities:
@@ -8,7 +8,7 @@ To effectively engage with the following communities:
 + Research Software Engineering
 + Researchers who use, write or advocate for research software
 + Data Stewards
-+ The cultural heritage sector
++ The cultural heritage sector (e.g. national libraries, archives and broadcasters)
 + HPC service providers
 + Those who represent large codes used in science
 + Research funding agencies
@@ -23,7 +23,7 @@ To:
 + enable best practices presented at the workshop to be shared
 + enable Case studies presented at the workshop to be shareable
 + collected evidence to show that the cross pollination of ideas is happening
-+ e.g. via a Longer term survey e.g. 6 months after workshop iterations
+   + e.g. via a Longer term survey e.g. 6 months after workshop iterations
 + tracking how the workshops reports are being used/cited
 
 ## Goal 3: To Identify current hurdles and problems the research community is facing to make their software sustainable
