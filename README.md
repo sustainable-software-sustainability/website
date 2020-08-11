@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d286fb09-75f2-4a9b-a53b-9110d3b6bfd4/deploy-status)](https://app.netlify.com/sites/zen-ramanujan-19df89/deploys)
+
 # Workshop on Sustainable Software Sustainability (WOSSS)
 
 ## What is WOSSS 
