@@ -1,32 +1,27 @@
 # Developing on the website
 
 ## Website location
-
 The WoSSS website is available at [wosss.org](http://wosss.org).
 
+Is it served via [Netlify](https://wosss.netlify.app).
 
+## Logo files
+Check and downlaod the the logo files in the [WoSSS logo](Logo) folder. 
 
-#### Open [Preview website ](https://wosss.netlify.app)
+## Platform
+The WoSSS site uses the [Nuxt.js](https://nuxtjs.org/) platform.
 
-Edit content: you can modify the content files directly on github from the [content](https://github.com/sustainable-software-sustainability/sustainable-software-sustainability.github.io/tree/new-web/content) folder.
+In addition it uses the [Nut content](https://content.nuxtjs.org/) module to allow markdown, html and [Vue components](https://vuejs.org/v2/guide/components.html) inside the content files.
 
-You can check and download the lastest status of the [WoSSS Logo](https://github.com/sustainable-software-sustainability/sustainable-software-sustainability.github.io/tree/new-web/Logo).
+## Adding and updating content
+To add or modify content, modify and existing `*.md` file in [content](content) and [content/sections](content/sections) or add one.
 
-Made with:
- - [Nuxt content](https://content.nuxtjs.org/), Allowing md style, html and Vue components inside the content files. 
+## Using  Vue components inside .md files. 
 
-## Updating content
-
-To update the page content, you need to modify the corresponding `*.md` file in `content/` and `content/sections/`.
-
-## Writing Vue components inside md files. 
-
-**Important considerations**: 
+The following are some important consideratins when using Vue components in the .md files:
 - All components included in the folder `/components/global` can be shown inside any `*.md` file.  
 - Self-closing tags like <goals/> don't work, instead use `<goals></goals>`. 
-- Surround with line spaces the components in order to the parser to understand that it is a Vue component.
-
-It is important to know that self-closed tags are not allowed, and the Vue components must have a  
+- Surround the tags specifying a Vue components with newline. This is needed in order for the parser to understand that it is a Vue component.
 
 Example:
 ```
@@ -42,9 +37,23 @@ I can continue writting between the components in md style.
 ...
 ```
 
-### Running locally
+## Running locally
+
+### Installation requirements
+
+Install [npm](https://www.npmjs.com/get-npm).
+
+Install [yarn](https://yarnpkg.com/getting-started/install).
+
+### Steps for building locally
+This should be done to test changes locally before e.g. issuing a pull request for changes to be integrated into the main repository.
+
 ```
 # clone the repo.
+git clone https://github.com/sustainable-software-sustainability/sustainable-software-sustainability.github.io.git
+
+# move to the right directory
+cd sustainable-software-sustainability.github.io.git
 
 # Install dependencies:
 yarn install
@@ -54,11 +63,8 @@ yarn dev
 
 # Run locally production version:
 yarn generate && yarn start
-
-# Deploy:
-commit and push changes to master branch will trigger CD automatically
 ```
 
-<img width="796" alt="new-website" src="https://user-images.githubusercontent.com/4195550/89177852-9c248c00-d58c-11ea-9225-37e9cc86879e.png">
------
+## Deploy:
+pushing changes to the main branch will trigger an update on the main website via the use use of a webhook.
 
