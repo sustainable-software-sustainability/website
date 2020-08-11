@@ -1,4 +1,10 @@
-## 📝 Under development
+# Developing on the website
+
+## Website location
+
+The WoSSS website is available at [wosss.org](http://wosss.org).
+
+
 
 #### Open [Preview website ](https://wosss.netlify.app)
 
