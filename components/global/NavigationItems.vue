@@ -4,7 +4,7 @@
       <a v-if="item.path.includes('#') && $route.path === '/'" v-scroll-to="item.path" href="/">{{ item.title }}</a>
 
       <div v-else>
-        <nuxt-link :to="item.path.includes('#') ? '/' + item.path : item.path">{{ item.title }}</nuxt-link>
+        <nuxt-link :to="{ path: item.path, hash: item.section }">{{ item.title }}</nuxt-link>
       </div>
     </li>
   </ul>
