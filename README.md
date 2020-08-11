@@ -41,7 +41,7 @@ Find out more about the [team members](content/team) working on WOSSS.
 You can [request access](https://bit.ly/wosss-slack-request) to the WoSSS Slack group to join the conversation on software sustainability.
 
 ## Development on the wosss.org website
-Information about how to add content for the [wosss.org](http://wosss.org) website can be found on the (development)[DEVELOPMENT.md] page.
+Information about how to add content for the [wosss.org](http://wosss.org) website can be found on the [development](DEVELOPMENT.md) page.
 This is primarily of interest to the founding partners and workshop organisers but we are sharing it here for transparency reasons.
 
 ## Contact 
