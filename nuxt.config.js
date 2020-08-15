@@ -14,14 +14,15 @@ export default {
    ** See https://nuxtjs.org/api/configuration-head
    */
   head: {
-    title: process.env.npm_package_name || '',
+    title: 'WoSSS',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       {
         hid: 'description',
         name: 'description',
-        content: process.env.npm_package_description || '',
+        content:
+          'Workshop on Sustainable Software Sustainability (WoSSS), is a series of international workshops on the topic of software sustainability; it has a particular focus on bringing together different research communities and provisions for the long term.',
       },
     ],
     link: [
