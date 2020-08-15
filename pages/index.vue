@@ -4,7 +4,6 @@
 
     <footer>
       <div class="top-footer">
-        <div class="fixed-bg footer-bg"></div>
         <div class="custom-container">
           <div class="top-footer-data">
             <div class="row">
@@ -20,16 +19,6 @@
                   </p>
                 </div>
               </div>
-              <div class="col-lg-6">
-                <!--<div class="widget widget-contact">
-                  <h3 class="widget-title">Contact</h3>
-                  <ul>
-                    <li>
-                      <a href="mailto:info@wosss.org">info@wosss.org</a>
-                    </li>
-                  </ul>
-                </div>-->
-              </div>
             </div>
           </div>
         </div>
@@ -42,10 +31,8 @@
               <social-links />
             </ul>
           </div>
-          <!-- bottom-footer-data end-->
         </div>
       </div>
-      <!--bottom-footer end-->
     </footer>
   </div>
 </template>
