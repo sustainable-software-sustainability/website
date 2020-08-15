@@ -52,12 +52,10 @@
 
 <script>
 export default {
-  async fetch() {
-    this.content = await this.$content('home').fetch()
-  },
-  data() {
+  async asyncData({ $content, params }) {
+    const content = await $content('home').fetch()
     return {
-      content: {},
+      content,
     }
   },
   head() {
