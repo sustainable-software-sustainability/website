@@ -1,11 +1,14 @@
 ---
-  - path: "#get-started"
+  - path: "/"
+    section: "#get-started"
     title: "WoSSS '21" 
     
-  - path: "#reports"
+  - path: "/"
+    section: "#reports" 
     title: "Reports" 
 
-  - path: "#goals"
+  - path: "/"
+    section: "#goals" 
     title: "Goals" 
     
   - path: "/character"

@@ -4,7 +4,6 @@
 
     <footer>
       <div class="top-footer">
-        <div class="fixed-bg footer-bg"></div>
         <div class="custom-container">
           <div class="top-footer-data">
             <div class="row">
@@ -20,16 +19,6 @@
                   </p>
                 </div>
               </div>
-              <div class="col-lg-6">
-                <!--<div class="widget widget-contact">
-                  <h3 class="widget-title">Contact</h3>
-                  <ul>
-                    <li>
-                      <a href="mailto:info@wosss.org">info@wosss.org</a>
-                    </li>
-                  </ul>
-                </div>-->
-              </div>
             </div>
           </div>
         </div>
@@ -42,16 +31,37 @@
               <social-links />
             </ul>
           </div>
-          <!-- bottom-footer-data end-->
         </div>
       </div>
-      <!--bottom-footer end-->
     </footer>
   </div>
 </template>
 
 <script>
+// import VueScrollTo from 'vue-scrollto/src/scrollTo'
 export default {
+  async asyncData({ $content, params }) {
+    const content = await $content('home').fetch()
+    return {
+      content,
+    }
+  },
+
+  methods: {
+    scrollToElement() {
+      if (this.$route.hash) {
+        const el = this.$el.querySelector(this.$route.hash)
+        if (el) {
+          el.scrollIntoView({ behavior: 'smooth', block: 'center', currentTime: 2000 })
+        }
+      }
+    },
+  },
+
+  mounted() {
+    this.scrollToElement()
+  },
+
   head() {
     return {
       title: this.title,
@@ -65,14 +75,6 @@ export default {
       ],
     }
   },
-  async fetch() {
-    this.content = await this.$content('home').fetch()
-  },
-  data() {
-    return {
-      content: {},
-    }
-  },
 }
 </script>
 
@@ -80,6 +82,7 @@ export default {
 .nuxt-content-container.is-editing {
   margin-top: 100px;
 }
+
 .container {
   margin: 0 auto;
   min-height: 100vh;
