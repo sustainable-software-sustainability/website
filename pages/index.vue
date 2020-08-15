@@ -52,6 +52,14 @@
 
 <script>
 export default {
+  async fetch() {
+    this.content = await this.$content('home').fetch()
+  },
+  data() {
+    return {
+      content: {},
+    }
+  },
   head() {
     return {
       title: this.title,
@@ -65,14 +73,6 @@ export default {
       ],
     }
   },
-  async fetch() {
-    this.content = await this.$content('home').fetch()
-  },
-  data() {
-    return {
-      content: {},
-    }
-  },
 }
 </script>
 
@@ -80,6 +80,7 @@ export default {
 .nuxt-content-container.is-editing {
   margin-top: 100px;
 }
+
 .container {
   margin: 0 auto;
   min-height: 100vh;

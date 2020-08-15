@@ -1,11 +1,7 @@
 <template>
   <ul>
     <li v-for="item in navigation" :key="item.path" @click="$emit('menuItemClicked')">
-      <a v-if="item.path.includes('#') && $route.path === '/'" v-scroll-to="item.path" href="/">{{ item.title }}</a>
-
-      <div v-else>
-        <nuxt-link :to="{ path: item.path, hash: item.section }">{{ item.title }}</nuxt-link>
-      </div>
+      <nuxt-link :to="{ path: item.path, hash: item.section }" v-scroll-to="item.section">{{ item.title }}</nuxt-link>
     </li>
   </ul>
 </template>
