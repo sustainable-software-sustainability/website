@@ -38,6 +38,7 @@
 </template>
 
 <script>
+// import VueScrollTo from 'vue-scrollto/src/scrollTo'
 export default {
   async asyncData({ $content, params }) {
     const content = await $content('home').fetch()
@@ -45,6 +46,22 @@ export default {
       content,
     }
   },
+
+  methods: {
+    scrollToElement() {
+      if (this.$route.hash) {
+        const el = this.$el.querySelector(this.$route.hash)
+        if (el) {
+          el.scrollIntoView({ behavior: 'smooth', block: 'center', currentTime: 2000 })
+        }
+      }
+    },
+  },
+
+  mounted() {
+    this.scrollToElement()
+  },
+
   head() {
     return {
       title: this.title,
