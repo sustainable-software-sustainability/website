@@ -11,8 +11,8 @@ The Workshop on Sustainable Software Sustainability (WOSSS) is a series of inter
 ## Reports
 Reports from previous WOSSS workshops:
 
- + WOSSS19 - Den Hague 2019 report: [Sustainable Software Sustainability - Workshop report](https://zenodo.org/record/3922155)
- + WOSSS17 - Den Hague 2017 report: [Sustainable Software Sustainability - Workshop report](https://doi.org/10.17026/dans-xfe-rn2w)
+ + WOSSS19 - The Hague 2019 report: [Sustainable Software Sustainability - Workshop report](https://zenodo.org/record/3922155)
+ + WOSSS17 - The Hague 2017 report: [Sustainable Software Sustainability - Workshop report](https://doi.org/10.17026/dans-xfe-rn2w)
  + Berlin 2015 report: [Research software sustainability: Report on a Knowledge Exchange workshop](https://www.knowledge-exchange.info/event/software-sustainability)
 
 ## Goals
