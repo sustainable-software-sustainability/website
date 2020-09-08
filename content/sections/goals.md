@@ -59,7 +59,7 @@ This is an internal objective of WoSSS, whereas goals 1-5 are outward facing obj
 To:
 
 + ensure efforts and results are balanced.
-+ develop a website for the WOSSS efforts and associated workshops
-+ develop a way to onboard/offboard the delivery team and the oversight team at WOSSS
++ develop a website for the WoSSS efforts and associated workshops
++ develop a way to onboard/offboard the delivery team and the oversight team at WoSSS
 + to have relevant governance documents and processes in place
 + e.g. A code of conduct
