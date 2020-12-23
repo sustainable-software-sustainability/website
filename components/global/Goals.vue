@@ -48,7 +48,7 @@ export default {
   margin: 0 auto;
   max-width: 1200px;
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
 }
 .about-list {
   padding: 100px 35px 0 35px;
