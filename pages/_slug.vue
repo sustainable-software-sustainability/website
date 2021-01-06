@@ -3,7 +3,7 @@
     <div>
       <section class="main-section">
         <div class="custom-container">
-          <div class="main-section-data">
+          <div class="prose">
             <nuxt-content :document="section" />
           </div>
         </div>
@@ -40,6 +40,17 @@ export default {
 }
 </script>
 <style>
+.prose {
+  max-width: 85ch;
+  margin-bottom: 60px;
+  color: #333;
+}
+.prose p {
+  margin-bottom: 0;
+}
+.prose ul {
+  margin: 1em 0;
+}
 .slug .nuxt-content {
   display: flex;
   flex-direction: column;
@@ -80,48 +91,6 @@ footer.slug {
 footer.slug .bottom-footer {
   padding: 5px 0;
 }
-.slug p {
-  font-size: 1rem;
-  margin-bottom: 1.3rem;
-}
-.slug h1,
-.slug h2,
-.slug h3,
-.slug h4 {
-  font-family: 'Work Sans';
-  font-weight: 700;
-  margin: 1.414rem 0 0.5rem;
-  line-height: 1.42;
-}
-
-.slug h1 {
-  font-size: 3rem;
-}
-
-.slug h2 {
-  font-size: 2.5rem;
-}
-
-.slug h3 {
-  font-size: 2rem;
-}
-
-.slug h4 {
-  font-size: 1.5rem;
-}
-
-.slug h5 {
-  font-size: 1rem;
-}
-
-.slug h6 {
-  font-size: 0.88rem;
-}
-
-.slug small {
-  font-size: 0.707em;
-}
-
 .slug img,
 .slug canvas,
 .slug iframe,

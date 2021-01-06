@@ -1,3 +1,5 @@
+import tailwindTypography from '@tailwindcss/typography'
+
 export default {
   /*
    ** Nuxt rendering mode
@@ -65,6 +67,7 @@ export default {
   buildModules: [
     // Doc: https://github.com/nuxt-community/eslint-module
     '@nuxtjs/eslint-module',
+    '@nuxtjs/tailwindcss',
   ],
   /*
    ** Nuxt.js modules
@@ -89,4 +92,10 @@ export default {
    ** See https://nuxtjs.org/api/configuration-build/
    */
   build: {},
+
+  tailwindcss: {
+    config: {
+      plugins: [tailwindTypography],
+    },
+  },
 }
