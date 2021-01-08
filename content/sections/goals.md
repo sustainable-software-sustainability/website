@@ -21,7 +21,7 @@ WoSSS will provide the opportunity to share best practices and to present case s
 
 It should be recognized that a cross fertilization of ideas among such a broad range of communities is only possible by aiming at shared terms and concepts on software sustainability. The WoSSS initiative will facilitate the formulation of common challenges and the reaching of agreement on possible solutions.
 
-# 2: To identity and specify the issues at stake
+## 2: To identity and specify the issues at stake
 WoSSS provides a meeting place to identify and discuss the hurdles and challenges the participants are facing to make their software sustainable. Questions to be asked are:
 
 - What are the problems you are facing to sustain your software?
@@ -35,7 +35,7 @@ WoSSS provides a meeting place to identify and discuss the hurdles and challenge
 - What legal impediments (licenses, copyrights) are preventing software to be sustained, preserved and shared?
 - What other questions should we explore?
 
-# 3: To inform policy makers and funders
+## 3: To inform policy makers and funders
 After Open Access and FAIR data, software as a research output worthy and in need of preservation and sharing, is only recently receiving more attention from policy makers and research funding organisations, partly thanks to activities such as those by the WoSSS communities (workshops and reports). WoSSS offers further opportunities to:
 
 - Discuss funding opportunities and to promote consortia for the preparation of proposals related to software sustainability
@@ -43,7 +43,7 @@ After Open Access and FAIR data, software as a research output worthy and in nee
 - To advocate the need for infrastructures and services to sustain software, and to discuss how these can be most efficiently organised and delivered, across countries and domains/communities.
 - Is software sustainability represented well enough in the initiatives for a European Open Science Cloud?
 
-# 4: Supporting activities to sustain software sustainability
+## 4: Supporting activities to sustain software sustainability
 It seems almost a play of words, but without an active movement software sustainability cannot be accomplished. This is why WoSSS pays attention to how to sustain and organise itself in the future:
 
 - How can WoSSS best organise (or contribute to) future workshops that meet the needs of the software sustainability movement.
