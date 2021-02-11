@@ -1,6 +1,9 @@
 import tailwindTypography from '@tailwindcss/typography'
 
 export default {
+  env: {
+    googleAnalyticsId: process.env.GOOGLE_ANALYTICS_ID,
+  },
   /*
    ** Nuxt rendering mode
    ** See https://nuxtjs.org/api/configuration-mode
@@ -55,7 +58,7 @@ export default {
    ** Plugins to load before mounting the App
    ** https://nuxtjs.org/guide/plugins
    */
-  plugins: [],
+  plugins: ['@/plugins/gtag'],
   /*
    ** Auto import components
    ** See https://nuxtjs.org/api/configuration-components
@@ -68,7 +71,6 @@ export default {
     // Doc: https://github.com/nuxt-community/eslint-module
     '@nuxtjs/eslint-module',
     '@nuxtjs/tailwindcss',
-    '@nuxtjs/google-analytics',
   ],
   /*
    ** Nuxt.js modules
@@ -98,9 +100,5 @@ export default {
     config: {
       plugins: [tailwindTypography],
     },
-  },
-
-  googleAnalytics: {
-    id: process.env.GOOGLE_ANALYTICS_ID,
   },
 }
