@@ -68,6 +68,7 @@ export default {
     // Doc: https://github.com/nuxt-community/eslint-module
     '@nuxtjs/eslint-module',
     '@nuxtjs/tailwindcss',
+    '@nuxtjs/google-analytics',
   ],
   /*
    ** Nuxt.js modules
@@ -97,5 +98,9 @@ export default {
     config: {
       plugins: [tailwindTypography],
     },
+  },
+
+  googleAnalytics: {
+    id: process.env.GOOGLE_ANALYTICS_ID,
   },
 }
