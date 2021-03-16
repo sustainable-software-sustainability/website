@@ -47,6 +47,10 @@ export default {
     }
   },
 
+  mounted() {
+    this.scrollToElement()
+  },
+
   methods: {
     scrollToElement() {
       if (this.$route.hash) {
@@ -56,10 +60,6 @@ export default {
         }
       }
     },
-  },
-
-  mounted() {
-    this.scrollToElement()
   },
 
   head() {

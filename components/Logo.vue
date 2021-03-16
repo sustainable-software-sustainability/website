@@ -50,7 +50,6 @@
 #gear {
   animation: ckw 15s infinite linear;
   transform-origin: center center;
-  filter: drop-shadow(3px 3px 2px rgba(0, 0, 0, 0.7));
 }
 
 @keyframes ckw {
