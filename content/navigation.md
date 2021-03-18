@@ -1,7 +1,7 @@
 ---
   - path: "/"
     section: "#get-started"
-    title: "WoSSS '21"
+    title: "WoSSS21"
 
   - path: "/"
     section: "#reports"
