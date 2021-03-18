@@ -1,5 +1,5 @@
 # WoSSS21 programme
-
+All times stated are in BST which is UTC+1
 ## September 15, afternoon
 **Session 1: Sustaining software in Cultural Heritage**
 
