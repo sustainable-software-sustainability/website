@@ -1,4 +1,4 @@
-# WoSSS Audience and Goals 
+# WoSSS Audience and Goals   
 
 The Workshop on Sustainable Software Sustainability (WoSSS) is a series of international workshops addressing the challenges of preserving, sustaining and sharing software for research.
 
