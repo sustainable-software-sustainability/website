@@ -13,4 +13,4 @@
 
 - n: 04.
   title: Sustain Software Sustainability
-  description: To supports the active movement of software sustainability and growing and adapting the WoSSS effort to its changing needs. 
+  description: To supports the active movement of software sustainability; growing and adapting the WoSSS effort to its changing needs. 
