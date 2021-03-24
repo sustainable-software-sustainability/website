@@ -61,9 +61,7 @@
               <!--feature-icon end-->
               <div class="feature-info">
                 <h3>Reusable</h3>
-                <p>
-                  The ultimate goal of FAIR is to optimise the reuse of data.
-                </p>
+                <p>The ultimate goal of FAIR is to optimise the reuse of data.</p>
               </div>
               <!--feature-info end-->
             </div>

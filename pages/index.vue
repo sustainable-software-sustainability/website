@@ -12,9 +12,7 @@
                   <h3 class="widget-title">Join the conversation</h3>
                   <p>
                     You can
-                    <a target="_blank" href="https://bit.ly/wosss-slack" title="">
-                      request access
-                    </a>
+                    <a target="_blank" href="https://bit.ly/wosss-slack" title=""> request access </a>
                     to the WoSSS Slack group to join the conversation on software sustainability.
                   </p>
                 </div>

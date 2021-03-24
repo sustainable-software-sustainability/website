@@ -10,20 +10,17 @@
                 <span><i class="mdi mdi-checkbox-marked-circle-outline"></i></span>
                 <div class="service-info">
                   <h3>Morbi purus diam</h3>
-                  <p>
-                    In ipsum nisl, congue et diam eu, suscipit pulvinar nisl. Suspendisse accumsan ultricies mi gravida hendrerit.
-                  </p>
+                  <p>In ipsum nisl, congue et diam eu, suscipit pulvinar nisl. Suspendisse accumsan ultricies mi gravida hendrerit.</p>
                 </div>
                 <!--service-info end-->
               </div>
+
               <!--service-details end-->
               <div class="service-details">
                 <span><i class="mdi mdi-checkbox-marked-circle-outline"></i></span>
                 <div class="service-info">
                   <h3>Vestibulum sceleri</h3>
-                  <p>
-                    In ipsum nisl, congue et diam eu, suscipit pulvinar nisl. Suspendisse accumsan ultricies mi gravida hendrerit.
-                  </p>
+                  <p>In ipsum nisl, congue et diam eu, suscipit pulvinar nisl. Suspendisse accumsan ultricies mi gravida hendrerit.</p>
                 </div>
                 <!--service-info end-->
               </div>
@@ -32,9 +29,7 @@
                 <span><i class="mdi mdi-checkbox-marked-circle-outline"></i></span>
                 <div class="service-info">
                   <h3>Morbi purus diam</h3>
-                  <p>
-                    In ipsum nisl, congue et diam eu, suscipit pulvinar nisl. Suspendisse accumsan ultricies mi gravida hendrerit.
-                  </p>
+                  <p>In ipsum nisl, congue et diam eu, suscipit pulvinar nisl. Suspendisse accumsan ultricies mi gravida hendrerit.</p>
                 </div>
                 <!--service-info end-->
               </div>
@@ -43,9 +38,7 @@
                 <span><i class="mdi mdi-checkbox-marked-circle-outline"></i></span>
                 <div class="service-info">
                   <h3>Vestibulum sceleri</h3>
-                  <p>
-                    In ipsum nisl, congue et diam eu, suscipit pulvinar nisl. Suspendisse accumsan ultricies mi gravida hendrerit.
-                  </p>
+                  <p>In ipsum nisl, congue et diam eu, suscipit pulvinar nisl. Suspendisse accumsan ultricies mi gravida hendrerit.</p>
                 </div>
                 <!--service-info end-->
               </div>

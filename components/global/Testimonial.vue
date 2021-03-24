@@ -15,11 +15,10 @@
             leo, cibus. Nam dignissim neque ut neque pretium, id posuere dui fringilla.
           </p>
         </div>
+
         <!--user-comment end-->
         <div class="user-comment">
-          <p>
-            Vestibulum scelerisqus leo, faucibus. Nam dignissim neque ut neque pretium, id posuere dui fringilla.
-          </p>
+          <p>Vestibulum scelerisqus leo, faucibus. Nam dignissim neque ut neque pretium, id posuere dui fringilla.</p>
         </div>
         <!--user-comment end-->
         <div class="user-comment">

@@ -4,7 +4,7 @@
       <div id="header" class="header-data">
         <logo />
         <div class="mobile-menu-btn">
-          <a style="cursor: pointer;" @click="mobileMenu = !mobileMenu"><i class="fa fa-bars"></i></a>
+          <a style="cursor: pointer" @click="mobileMenu = !mobileMenu"><i class="fa fa-bars"></i></a>
         </div>
         <div class="up-social-links">
           <ul>
@@ -16,7 +16,7 @@
         </nav>
       </div>
     </div>
-    <div class="responsive-mobile-menu" :class="{ active: mobileMenu }" style="height: 100vh;">
+    <div class="responsive-mobile-menu" :class="{ active: mobileMenu }" style="height: 100vh">
       <span class="close-menu" @click="mobileMenu = !mobileMenu"><i class="mdi mdi-close"></i></span>
       <div class="mobile-menu">
         <navigation-items @menuItemClicked="mobileMenu = false" />
