@@ -18,12 +18,10 @@ Reports from previous WoSSS workshops:
 ## Goals
 WoSSS is focused on the following goals:
 
-1. Bring together a broad range of research communities affected by the issues of software sustainability
-2. Share best practices and case studies to cultivate cross-pollination of ideas and approaches in the research community
-3. Identify current hurdles and problems the research community is facing to make their software sustainable
-4. Inform policy related to sustainable software
-5. Share terminology and definitions in the software space
-6. To become a sustainable activity.
+1. To provide the opportunity to share best practices and to exchange ideas for preserving, sustaining and sharing research software.
+2. To be a place to identify and discuss the hurdles and challenges the community are facing to make their software sustainable.
+3. To offers further opportunities to highlight aspects of research software sustainability to funders and policy makers.
+4. To supports the active movement of software sustainability; growing and adapting the WoSSS effort to its changing needs.
 
 to read more about our goals and associated objectives read more about our [goals](content/goals).
 
