@@ -13,7 +13,7 @@
           </div>
           <div class="col-lg-6">
             <div class="banner-imgs">
-              <img src="img/look.webp" />
+              <img src="~/assets/img/look.webp" />
             </div>
           </div>
         </div>

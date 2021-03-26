@@ -5,15 +5,11 @@ export default {
     googleAnalyticsId: process.env.GOOGLE_ANALYTICS_ID,
   },
   /*
-   ** Nuxt rendering mode
-   ** See https://nuxtjs.org/api/configuration-mode
-   */
-  mode: 'universal',
-  /*
    ** Nuxt target
    ** See https://nuxtjs.org/api/configuration-target
    */
   target: 'static',
+  ssr: false,
   /*
    ** Headers of the page
    ** See https://nuxtjs.org/api/configuration-head
@@ -45,7 +41,7 @@ export default {
     '~/assets/css/animate.css',
     '~/assets/css/bootstrap.min.css',
     '~/assets/css/font-awesome.min.css',
-    '~/assets/css/materialdesignicons.min.css',
+    // '~/assets/css/materialdesignicons.min.css',
     '~/assets/lib/slick/slick.css',
     '~/assets/lib/slick/slick-theme.css',
     '~/assets/css/light-color.css',
@@ -71,6 +67,7 @@ export default {
     // Doc: https://github.com/nuxt-community/eslint-module
     '@nuxtjs/eslint-module',
     '@nuxtjs/tailwindcss',
+    'nuxt-vite',
   ],
   /*
    ** Nuxt.js modules

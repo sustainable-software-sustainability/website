@@ -1,5 +1,5 @@
 <template>
-  <header :class="{ 'sticky animated slideInDown': offset }">
+  <header :class="{ 'sticky animated slideInDown translucent': offset }">
     <div class="custom-container">
       <div id="header" class="header-data">
         <logo />
@@ -51,3 +51,8 @@ export default {
   },
 }
 </script>
+<style>
+.translucent {
+  backdrop-filter: blur(10px);
+}
+</style>

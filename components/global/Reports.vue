@@ -12,7 +12,7 @@
               <div class="report-head">
                 <h4 style="text-transform: none">{{ report.title }}</h4>
                 <ul>
-                  <li>
+                  <li style="width: 100%; text-align: center">
                     <h3>{{ report.year }}</h3>
                   </li>
                 </ul>

@@ -1,5 +1,5 @@
 <template>
-  <a href="/">
+  <nuxt-link to="/">
     <div class="logo">
       <svg width="60" height="60" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
         <path
@@ -39,7 +39,7 @@
         />
       </svg>
     </div>
-  </a>
+  </nuxt-link>
 </template>
 
 <style scoped>
