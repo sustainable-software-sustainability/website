@@ -29,7 +29,7 @@ Taking into consideration the event will be online, we intend to limit the numbe
 [Shoaib Sufi](https://www.software.ac.uk/about/staff/person/shoaib-sufi), Software Sustainability Institute (SSI), Manchester   
 [Peter Doorn](https://pure.knaw.nl/portal/en/persons/peter-doorn), Data Archiving and Networked Services (DANS-KNAW), The Hague   
 
-### Programme Committee:
+###  WoSSS21 Programme Committee:
 [Michelle Barker](https://www.researchsoft.org/people/), Research Software Alliance (ReSA), Australia  
 [Daniel Katz](https://danielskatz.org/), National Center for Supercomputing Applications (NCSA), University of Illinois  
 [Jessica Farrell](https://educopia.org/jessica-Farrell/), Educopia Institute  
