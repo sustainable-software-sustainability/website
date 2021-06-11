@@ -5,7 +5,7 @@
 [Draft programme](/wosss21-agenda)
 
 ### Introduction and scope
-The Workshop on Sustainable Software Sustainability 2021 will be held online from Wednesday 6th October to Friday 9th October 2021. It is the 4thworkshop in a series that started in Berlin in 2015. In 2017 and 2019 the event took place in The Hague. Reports on the previous workshops are available here: https://wosss.org
+The Workshop on Sustainable Software Sustainability 2021 will be held online from Wednesday 6th October to Friday 9th October 2021. It is the 4th workshop in a series that started in Berlin in 2015. In 2017 and 2019 the event took place in The Hague. Reports on the previous workshops are available here: https://wosss.org
 
 The overall aim of the series is to bring together participants from a broad range of communities that are interested in how to deal with software sustainability, primarily from the perspective of scholarly and scientific research. WoSSS provides a meeting place to identify and discuss the hurdles and challenges we are facing. After Open Access to publications and FAIR data, software as a research output worthy and in need of preserving and sharing is only recently receiving more attention from policy makers and research funding organisations. With the new Horizon Europe programme just starting, during WoSSS21 we will discuss how we can best organise and support the community and emerging infrastructure for software sustainability. This year we will pay special attention to software as heritage and compare the challenges of sustaining software in the domains of cultural heritage and research.
 
