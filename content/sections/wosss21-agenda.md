@@ -8,9 +8,9 @@ All times stated are in BST which is UTC+1
 | [14:30-14:35](https://arewemeetingyet.com/London/2021-10-06/14:30)| Welcome to WoSSS21 |
 | [14:35-14:40](https://arewemeetingyet.com/London/2021-10-06/14:35)| Icebreaker |
 | [14:40-14:45](https://arewemeetingyet.com/London/2021-10-06/14:40)| WoSSS initiative and aims for WoSSS21  |
-| [14:45-15:15](https://arewemeetingyet.com/London/2021-10-06/14:45)| Plenary session 1A |
+| [14:45-15:15](https://arewemeetingyet.com/London/2021-10-06/14:45)| Plenary session 1A <br> **Speakers**: Jessica Meyerson (EaaSI, SPN, Maintainers) |
 | [15:15-15:25](https://arewemeetingyet.com/London/2021-10-06/15:15)| Break |
-| [15:25-15:55](https://arewemeetingyet.com/London/2021-10-06/15:25)| Plenary session 1B |
+| [15:25-15:55](https://arewemeetingyet.com/London/2021-10-06/15:25)| Plenary session 1B <br> **Speakers**: Patricia Falcao |
 | [15:55-16:05](https://arewemeetingyet.com/London/2021-10-06/15:55)| Break  |
 | [16:05-16:10](https://arewemeetingyet.com/London/2021-10-06/16:05)| Plenary session 1C |
 | [16:10-16:40](https://arewemeetingyet.com/London/2021-10-06/16:10)| Introduction to breakout sessions  |
@@ -25,9 +25,9 @@ All times stated are in BST which is UTC+1
 |   |   |
 |--:|---|
 | [08:00-08:05](https://arewemeetingyet.com/London/2021-10-07/08:00)| Welcome to WoSSS21 day 2, part 1 |
-| [08:05-08:35](https://arewemeetingyet.com/London/2021-10-07/08:05)| Plenary session 2A |
+| [08:05-08:35](https://arewemeetingyet.com/London/2021-10-07/08:05)| Plenary session 2A <br> **Speakers**: Fakhereh (Sarah) Alidoost |
 | [08:35-08:45](https://arewemeetingyet.com/London/2021-10-07/08:35)| Break |
-| [08:45-09:15](https://arewemeetingyet.com/London/2021-10-07/08:45)| Plenary session 2B |
+| [08:45-09:15](https://arewemeetingyet.com/London/2021-10-07/08:45)| Plenary session 2B <br> **Speakers**: Tom Honeyman |
 | [09:15-09:25](https://arewemeetingyet.com/London/2021-10-07/09:15)| Break  |
 | [09:25-09:55](https://arewemeetingyet.com/London/2021-10-07/09:25)| Plenary session 2C |
 | [09:55-10:25](https://arewemeetingyet.com/London/2021-10-07/09:55)| Break-out discussions & note taking |
@@ -41,11 +41,11 @@ All times stated are in BST which is UTC+1
 |   |   |
 |--:|---|
 | [14:30-14:35](https://arewemeetingyet.com/London/2021-10-07/14:30)| Welcome to WoSSS21 day 2, part 2 |
-| [14:35-15:05](https://arewemeetingyet.com/London/2021-10-07/14:35)| Plenary session 3A |
+| [14:35-15:05](https://arewemeetingyet.com/London/2021-10-07/14:35)| Plenary session 3A <br> **Speakers**: Colin Venters |
 | [15:05-15:15](https://arewemeetingyet.com/London/2021-10-07/15:05)| Break |
-| [15:15-15:45](https://arewemeetingyet.com/London/2021-10-07/15:15)| Plenary session 3B |
+| [15:15-15:45](https://arewemeetingyet.com/London/2021-10-07/15:15)| Plenary session 3B <br> **Speakers**: Vicky Rampin |
 | [15:45-15:55](https://arewemeetingyet.com/London/2021-10-07/15:45)| Break  |
-| [15:55-16:25](https://arewemeetingyet.com/London/2021-10-07/15:55)| Plenary session 3C |
+| [15:55-16:25](https://arewemeetingyet.com/London/2021-10-07/15:55)| Plenary session 3C <br> **Speakers**: Christina Von Flach Garcia Chavez |
 | [16:25-16:55](https://arewemeetingyet.com/London/2021-10-07/16:25)| Break-out discussions & note taking |
 | [16:55-17:10](https://arewemeetingyet.com/London/2021-10-07/16:55)| Brief report back from break-outs |
 | [17:10-17:15](https://arewemeetingyet.com/London/2021-10-07/17:10)| Wrap up and close day 2, part 2 |
