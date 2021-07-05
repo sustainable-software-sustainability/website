@@ -1,6 +1,5 @@
 ---
-  - path: "/"
-    section: "#get-started"
+  - path: "/wosss21-home"
     title: "WoSSS21"
 
   - path: "/"
