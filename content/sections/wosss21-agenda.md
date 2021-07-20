@@ -36,7 +36,7 @@ All times stated are in BST which is UTC+1
 | [10:45-11:30](https://arewemeetingyet.com/London/2021-10-07/10:45)| Connecting and Social/Networking |
 
 ## Session 3
-**October 7, afternoon - New developments in preserving and sustaining research software**
+**October 7, afternoon - [New developments in preserving and sustaining research software](/wosss21/abstracts#session-3)**
 
 |   |   |
 |--:|---|
