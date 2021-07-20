@@ -36,14 +36,14 @@ All times stated are in BST which is UTC+1
 | [10:45-11:30](https://arewemeetingyet.com/London/2021-10-07/10:45)| Connecting and Social/Networking |
 
 ## Session 3
-**October 7, afternoon - New developments in preserving and sustaining research software**
+**October 7, afternoon - [New developments in preserving and sustaining research software](/wosss21/abstracts#session-3)**
 
 |   |   |
 |--:|---|
 | [14:30-14:35](https://arewemeetingyet.com/London/2021-10-07/14:30)| Welcome to WoSSS21 day 2, part 2 |
 | [14:35-15:05](https://arewemeetingyet.com/London/2021-10-07/14:35)| Plenary session 3A <br> **Speakers**: Colin Venters |
 | [15:05-15:15](https://arewemeetingyet.com/London/2021-10-07/15:05)| Break |
-| [15:15-15:45](https://arewemeetingyet.com/London/2021-10-07/15:15)| Plenary session 3B <br> **Speakers**: Vicky Rampin |
+| [15:15-15:45](https://arewemeetingyet.com/London/2021-10-07/15:15)| Plenary session 3B <br> **Speakers**: Vicky Rampin, Stian Soiland-Reyes |
 | [15:45-15:55](https://arewemeetingyet.com/London/2021-10-07/15:45)| Break  |
 | [15:55-16:25](https://arewemeetingyet.com/London/2021-10-07/15:55)| Plenary session 3C <br> **Speakers**: Christina Von Flach Garcia Chavez |
 | [16:25-16:55](https://arewemeetingyet.com/London/2021-10-07/16:25)| Break-out discussions & note taking |
