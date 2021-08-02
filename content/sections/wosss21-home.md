@@ -4,6 +4,8 @@
 
 [Draft programme](/wosss21-agenda)
 
+[Registration is open](https://www.eventbrite.co.uk/e/workshop-on-sustainable-software-sustainability-2021-wosss21-wosss21-tickets-165250271009)
+
 ### Introduction and scope
 The Workshop on Sustainable Software Sustainability 2021 will be held online from Wednesday 6th October to Friday 9th October 2021. It is the 4th workshop in a series that started in Berlin in 2015. In 2017 and 2019 the event took place in The Hague. Reports on the previous workshops are available here: https://wosss.org
 

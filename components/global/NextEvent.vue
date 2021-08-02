@@ -2,9 +2,9 @@
   <section id="get-started" class="get-started">
     <div class="custom-container">
       <div class="wait-sec">
-        <h3>{{ wosss21.title }}</h3>
-        <nuxt-content :document="wosss21" />
-        <a :href="wosss21.link" title="">{{ wosss21.linkText }}</a>
+        <h3>{{ upcoming.title }}</h3>
+        <nuxt-content :document="upcoming" />
+        <a :href="upcoming.link" title="">{{ upcoming.linkText }}</a>
       </div>
     </div>
   </section>
@@ -13,11 +13,11 @@
 <script>
 export default {
   async fetch() {
-    this.wosss21 = await this.$content('sections', 'wosss21').fetch()
+    this.upcoming = await this.$content('sections', 'upcoming').fetch()
   },
   data() {
     return {
-      wosss21: {},
+      upcoming: {},
     }
   },
 }
