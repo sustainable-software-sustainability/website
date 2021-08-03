@@ -66,3 +66,5 @@ All times stated are in BST which is UTC+1
 | [10:25-10:40](https://arewemeetingyet.com/London/2021-10-08/10:25)| Brief report back from break-outs |
 | [10:40-10:45](https://arewemeetingyet.com/London/2021-10-08/10:40)| Workshop conclusions and next steps |
 | [10:45-11:30](https://arewemeetingyet.com/London/2021-10-08/10:45)| Wrap up and close WoSSS21 |
+
+<schedule></schedule>
