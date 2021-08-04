@@ -5,7 +5,7 @@
 Coming soon
 
 ## Session 2
-### [Applying the FAIR principles to software](/wosss21-agenda#session-2)  
+### [Open Science & applying the FAIR principles to software](/wosss21-agenda#session-2)  
 Coming soon
 
 ## Session 3
