@@ -21,7 +21,7 @@ All times stated are in BST which is UTC+1
 | [17:55-17:55](https://arewemeetingyet.com/London/2021-10-06/17:55)| Wrap up and close day 1 |
 
 ## Session 2
-**October 7, morning - Open Science & applying the FAIR principles to software**
+**October 7, morning - [Open Science & applying the FAIR principles to software](/wosss21/abstracts#session-2)**
 
 |   |   |
 |--:|---|
