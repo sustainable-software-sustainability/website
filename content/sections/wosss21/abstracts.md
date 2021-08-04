@@ -5,7 +5,8 @@
 Coming soon
 
 ## Session 2
-### [Applying the FAIR principles to software](/wosss21-agenda#session-2)  
+### [Open Science & applying the FAIR principles to software](/wosss21-agenda#session-2)  
+### [Open Science & applying the FAIR principles to software](/wosss21-agenda#session-2)  
 
 #### Research software and beyond - ESMValTool: a community and FAIR software for evaluations of Earth system models
 **by Fakhereh (Sarah) Alidoost**  
