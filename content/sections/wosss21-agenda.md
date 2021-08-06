@@ -14,11 +14,11 @@ All times stated are in BST which is UTC+1
 | [15:45-15:50](https://arewemeetingyet.com/London/2021-10-06/15:45)| Break  |
 | [15:50-16:15](https://arewemeetingyet.com/London/2021-10-06/15:50)| Plenary session 1C |
 | [16:15-16:20](https://arewemeetingyet.com/London/2021-10-06/16:15)| Break  |
-| [16:20-17:05](https://arewemeetingyet.com/London/2021-10-06/16:20)| Introduction to breakout sessions  |
-| [17:05-17:35](https://arewemeetingyet.com/London/2021-10-06/17:05)| Break-out discussions & note taking |
-| [17:35-17:50](https://arewemeetingyet.com/London/2021-10-06/17:35)| Networking |
-| [17:50-17:55](https://arewemeetingyet.com/London/2021-10-06/17:50)| Brief report back from break-outs |
-| [17:55-17:55](https://arewemeetingyet.com/London/2021-10-06/17:55)| Wrap up and close day 1 |
+| [16:20-16:25](https://arewemeetingyet.com/London/2021-10-06/16:20)| Introduction to breakout sessions  |
+| [16:25-17:10](https://arewemeetingyet.com/London/2021-10-06/16:25)| Break-out discussions & note taking |
+| [17:10-17:40](https://arewemeetingyet.com/London/2021-10-06/17:10)| Networking |
+| [17:40-17:55](https://arewemeetingyet.com/London/2021-10-06/17:40)| Brief report back from break-outs |
+| [17:55-18:00](https://arewemeetingyet.com/London/2021-10-06/17:55)| Wrap up and close day 1 |
 
 ## Session 2
 **October 7, morning - [Open Science & applying the FAIR principles to software](/wosss21/abstracts#session-2)**
@@ -31,19 +31,19 @@ All times stated are in BST which is UTC+1
 | [08:40-09:05](https://arewemeetingyet.com/London/2021-10-06/08:40)| Plenary session 2B<br> **Speakers**: Tom Honeyman |
 | [09:05-09:10](https://arewemeetingyet.com/London/2021-10-06/09:05)| Break  |
 | [09:10-09:35](https://arewemeetingyet.com/London/2021-10-06/09:10)| Plenary session 2C<br> **Speakers**: Carole Goble |
-| [09:35-10:20](https://arewemeetingyet.com/London/2021-10-06/09:35)| Break  |
-| [10:20-10:35](https://arewemeetingyet.com/London/2021-10-06/10:20)| Break-out discussions & note taking |
-| [10:35-10:40](https://arewemeetingyet.com/London/2021-10-06/10:35)| Brief report back from break-outs |
-| [10:40-11:25](https://arewemeetingyet.com/London/2021-10-06/10:40)| Wrap up and close day 2, part 1 |
-| [11:25-11:25](https://arewemeetingyet.com/London/2021-10-06/11:25)| Connecting and Social/Networking |
+| [09:35-09:40](https://arewemeetingyet.com/London/2021-10-06/09:35)| Break  |
+| [09:40-10:25](https://arewemeetingyet.com/London/2021-10-06/09:40)| Break-out discussions & note taking |
+| [10:25-10:40](https://arewemeetingyet.com/London/2021-10-06/10:25)| Brief report back from break-outs |
+| [10:40-10:45](https://arewemeetingyet.com/London/2021-10-06/10:40)| Wrap up and close day 2, part 1 |
+| [10:45-11:30](https://arewemeetingyet.com/London/2021-10-06/10:45)| Connecting and Social/Networking |
 
 ## Session 3
-**October 7, afternoon - [New developments in preserving and sustaining research software](/wosss21/abstracts#session-3)**
+**October 7, afternoon - [Human factors and new development in preserving and sustaining research software](/wosss21/abstracts#session-3)**
 
 |   |   |
 |--:|---|
 | [14:30-14:35](https://arewemeetingyet.com/London/2021-10-06/14:30)| Welcome to WoSSS21 day 2, part 2 |
-| [14:35-15:00](https://arewemeetingyet.com/London/2021-10-06/14:35)| Plenary session 3A<br> **Speakers**: Colin Venters |
+| [14:35-15:00](https://arewemeetingyet.com/London/2021-10-06/14:35)| Plenary session 3A<br> **Speakers**: Emma Irwin, Colin Venters |
 | [15:00-15:10](https://arewemeetingyet.com/London/2021-10-06/15:00)| Break |
 | [15:10-15:35](https://arewemeetingyet.com/London/2021-10-06/15:10)| Plenary session 3B<br> **Speakers**: Vicky Rampin, Stian Soiland-Reyes |
 | [15:35-15:45](https://arewemeetingyet.com/London/2021-10-06/15:35)| Break  |
@@ -51,8 +51,8 @@ All times stated are in BST which is UTC+1
 | [16:10-16:15](https://arewemeetingyet.com/London/2021-10-06/16:10)| Break  |
 | [16:15-17:00](https://arewemeetingyet.com/London/2021-10-06/16:15)| Break-out discussions & note taking |
 | [17:00-17:15](https://arewemeetingyet.com/London/2021-10-06/17:00)| Brief report back from break-outs |
-| [17:15-18:00](https://arewemeetingyet.com/London/2021-10-06/17:15)| Wrap up and close day 2, part 2 |
-| [18:00-18:05](https://arewemeetingyet.com/London/2021-10-06/18:00)| Connecting and Social/Networking |
+| [17:15-17:55](https://arewemeetingyet.com/London/2021-10-06/17:15)| Wrap up and close day 2, part 2 |
+| [17:55-18:00](https://arewemeetingyet.com/London/2021-10-06/17:55)| Connecting and Social/Networking |
 
 ## Session 4
 **October 8, morning - Sustaining the community and promoting (human) infrastructures for software sustainability**

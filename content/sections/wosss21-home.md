@@ -18,7 +18,7 @@ There will be four sessions taking place of PM, AM, PM, AM slots , divided over 
 
 **Session 1**: [Sustaining software in cultural heritage](/wosss21-agenda#session-1) (October 6, [14:30 BST](https://arewemeetingyet.com/London/2021-10-06/14:30))  
 **Session 2**: [Open Science & applying the FAIR principles to software](/wosss21-agenda#session-2) (October 7, [08:00 BST](https://arewemeetingyet.com/London/2021-10-07/08:00))  
-**Session 3**: [New developments in preserving and sustaining research software](/wosss21-agenda#session-3) (October 7, [14:30 BST](https://arewemeetingyet.com/London/2021-10-07/14:30))  
+**Session 3**: [Human factors and new development in preserving and sustaining research software](/wosss21-agenda#session-3) (October 7, [14:30 BST](https://arewemeetingyet.com/London/2021-10-07/14:30))  
 **Session 4**: [Sustaining the community and promoting (human) infrastructures for software sustainability](/wosss21-agenda#session-4) (October 8, [08:00 BST](https://arewemeetingyet.com/London/2021-10-08/08:00))     
 
 <!--

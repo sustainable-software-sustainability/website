@@ -6,7 +6,6 @@ Coming soon
 
 ## Session 2
 ### [Open Science & applying the FAIR principles to software](/wosss21-agenda#session-2)  
-### [Open Science & applying the FAIR principles to software](/wosss21-agenda#session-2)  
 
 #### Research software and beyond - ESMValTool: a community and FAIR software for evaluations of Earth system models
 **by Fakhereh (Sarah) Alidoost**  
@@ -19,7 +18,7 @@ In my talk, I will introduce a community-driven software: Earth System Model Eva
 The World Climate Research Programme (WCRP) provides a platform for international collaborations to better understand climate phenomena and develop useful climate information. The core projects of WCPR explore models that show how our climate system works, how it changes, and what impacts are. Climate and Earth system models are very complex codes that project future climate. Outputs of the models are used as the basis for climate research around the world. To analyze the output collectively, WCRP organizes and leads the activities in the Coupled Model Intercomparison Project (CMIP) involving thousands of researchers. CMIP sets standards and experimental protocols and facilitates sharing codes and comparing models’ results. ESMValTool is a software that facilitates the assessments of Earth system models in CMIP. The software is built and maintained by a community of scientists and software engineers. The community includes technical and scientific teams that review contributions mainly in the form of codes in climate-related domains. Also, the community is supported by principal investigators and a user engagement team. Discussions, developments, maintenance and collaborations mostly take place in public on GitHub https://github.com/esmvalgroup. The software processes data and runs analyses efficiently regarding computational resources. It also stores provenance and citation information in a user-friendly way. Automated testing through unit tests and review processes safeguards the quality of research data, codes and publications. In addition, the software is a collection of publicly available scripts with extensive documentation. Moreover, there is an online tutorial that shows not only how to run an experiment but also how to develop your own scripts. In this way, ESMValTool helps others to understand our analyses, makes the results reproducible and facilitates collaborations.
 
 ## Session 3
-### [New developments in preserving and sustaining research software](/wosss21-agenda#session-3)  
+### [Human factors and new development in preserving and sustaining research software](/wosss21-agenda#session-3)  
 
 #### Reproducibility; Research Objects (RO-Crate) and Common Workflow Language (CWL)
 **by Stian Soiland-Reyes**  
