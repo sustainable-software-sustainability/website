@@ -12,7 +12,7 @@ All times stated are in BST which is UTC+1
 | [15:10-15:20](https://arewemeetingyet.com/London/2021-10-06/15:10)| Break |
 | [15:20-15:45](https://arewemeetingyet.com/London/2021-10-06/15:20)| Plenary session 1B<br> **Speakers**: Patricia Falcao |
 | [15:45-15:50](https://arewemeetingyet.com/London/2021-10-06/15:45)| Break  |
-| [15:50-16:15](https://arewemeetingyet.com/London/2021-10-06/15:50)| Plenary session 1C |
+| [15:50-16:15](https://arewemeetingyet.com/London/2021-10-06/15:50)| Plenary session 1C<br> **Speakers**: Morane Gruenpeter |
 | [16:15-16:20](https://arewemeetingyet.com/London/2021-10-06/16:15)| Break  |
 | [16:20-16:25](https://arewemeetingyet.com/London/2021-10-06/16:20)| Introduction to breakout sessions  |
 | [16:25-17:10](https://arewemeetingyet.com/London/2021-10-06/16:25)| Break-out discussions & note taking |
@@ -60,7 +60,7 @@ All times stated are in BST which is UTC+1
 |   |   |
 |--:|---|
 | [08:00-08:05](https://arewemeetingyet.com/London/2021-10-06/08:00)| Welcome to WoSSS21 day 3 |
-| [08:05-08:30](https://arewemeetingyet.com/London/2021-10-06/08:05)| Plenary session 4A<br> **Speakers**: EuSSI consortium (TBC) |
+| [08:05-08:30](https://arewemeetingyet.com/London/2021-10-06/08:05)| Plenary session 4A<br> **Speakers**: Martin Hammitzsch |
 | [08:30-08:40](https://arewemeetingyet.com/London/2021-10-06/08:30)| Break |
 | [08:40-09:05](https://arewemeetingyet.com/London/2021-10-06/08:40)| Plenary session 4B<br> **Speakers**: Kostas Repanas and Prof. Ignacio Blanquer |
 | [09:05-09:15](https://arewemeetingyet.com/London/2021-10-06/09:05)| Break  |
