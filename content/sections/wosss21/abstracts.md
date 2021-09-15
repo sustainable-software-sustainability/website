@@ -2,7 +2,15 @@
 
 ## Session 1
 ### [Sustaining software in cultural heritage](/wosss21-agenda#session-1)  
-Coming soon
+#### Title TBC
+**by Morane Gruenpeter**
+Software is a significant and vital component of research. It is integral to all stages of research and can play the role of a tool, a research result, or a research object. Since software source code has been recently recognised as an important asset also in the field of scientific research, complementing publications and research data, it is essential to collect and preserve it.
+
+Software Heritage (SWH) is the universal source code archive, collecting, preserving and sharing the largest collection of source code.  Software Heritage is now providing the infrastructure for depositing and referencing software source code, in collaboration with national and international open access portals.
+
+In parallel, the RDA & ReSA and FORCE11 working group FAIR for Research Software has identified divergences between software and data and the crucial need to translate the FAIR data principles to be relevant for software artifacts. In September 2021 the working group published [the first version of the FAIR for Research Software principles](https://doi.org/10.15497/RDA00065) after a community review.
+
+Finally, the importance of [archiving, referencing, describing and citing software](https://doi.org/10.2777/28598) is a common goal to have better recognition and interoperability of software in a FAIR ecosystem.
 
 ## Session 2
 ### [Open Science & applying the FAIR principles to software](/wosss21-agenda#session-2)  
@@ -26,6 +34,13 @@ The use of digital methods and computational analysis is now ubiquitous across s
 
 [RO-Crate](https://www.researchobject.org/ro-crate/) is a realization of Research Objects using off the shelf Web standards (JSON-LD) and vocabularies  (schema.org), with a developer-friendly lightweight approach and a set of best-practice guides for capturing “just enough” structured metadata, being interoperable with Linked Data technologies, and extensible for domain-specific needs.  RO-Crate is being developed as a community-led project, supported by open source tools, and is being adapted for a wide range of different scientific domains and use cases.
 
+#### Changing our ways - Making Inclusion a Core Feature
+**by Emma Irwin**
+As we look to technology to solve some of the world's biggest challenges it's critically important that we understand how the history of  racism, sexism, ableism, casteism and other biases has shaped the technology we use today; that while the small steps being made to increase diversity, to address hate and harm online are encouraging, the true potential lies in our ability to move from 'having good intentions' to systemically evaluating, evolving and changing how we build software.
+
+Open source software, which is less diverse than tech overall (despite the notion of  openness) sadly,  has as many stories of toxicity, exclusion and harm as it does innovative success stories. There is plenty of research, and storytelling that tells us why . We even have a set of metrics being developed both by a cross-community effort called CHAOSS and work by the U.N's to define a framework for digital inclusion. What's still lacking is a way to apply this knowledge and associated actions into our every day engineering and community practices.
+
+ In this talk, I'll share some of the my research, the CHAOSS project metrics and early work to embed metrics for inclusion into the every day with the hope to inspire new ideas to ensure that the solutions we're building for the world, reflect the challenges and potential of everyone in it.
 
 ## Session 4
 ### [Sustaining the community and promoting (human) infrastructures for software sustainability](/wosss21-agenda#session-4)  
