@@ -42,6 +42,14 @@ Open source software, which is less diverse than tech overall (despite the notio
 
  In this talk, I'll share some of the my research, the CHAOSS project metrics and early work to embed metrics for inclusion into the every day with the hope to inspire new ideas to ensure that the solutions we're building for the world, reflect the challenges and potential of everyone in it.
 
+#### On the Sustainability of Academic Software in Software Engineering
+**by Christina Von Flach Garcia Chavez**
+The increasing adoption of academic software has made modern Science dependent on the technical sustainability of software. Unsustainable development of academic software hinders reproducibility, one of the Science pillars. In addition, according to Howison and colleagues, the non-sustainable development of academic software can lead to a “dysfunctional chaotic churn”, characterized by the existence of several similar projects, with disconnected communities, few users and a short life cycle, among other anomalies.
+
+There are few studies on the technical sustainability of academic software in Software Engineering, especially in the field of static analysis, with a long tradition in the development of tools to support research in different areas.
+
+In this mini-talk, we present the results of an exploratory study on the technical sustainability of academic software in the Software Engineering field. We analyzed 60 static analysis software projects with the purpose of characterizing its technical sustainability, with respect to publicity (or availability), recognition and life cycle, from the perspective of the scientist (developer or user) of academic software in the context of two important software engineering conferences.
+
 ## Session 4
 ### [Sustaining the community and promoting (human) infrastructures for software sustainability](/wosss21-agenda#session-4)  
 Coming soon
