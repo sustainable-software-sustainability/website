@@ -49,20 +49,6 @@ export default {
     }
   },
 
-  head () {
-    return {
-      title: this.title,
-      meta: [
-        // hid is used as unique identifier. Do not use `vmid` for it as it will not work
-        {
-          hid: 'wosss',
-          name: 'WoSSS',
-          content: 'Workshop on Sustainable Software Sustainability'
-        }
-      ]
-    }
-  },
-
   mounted () {
     this.scrollToElement()
   },
@@ -75,6 +61,20 @@ export default {
           el.scrollIntoView({ behavior: 'smooth', block: 'center', currentTime: 2000 })
         }
       }
+    }
+  },
+
+  head () {
+    return {
+      title: this.title,
+      meta: [
+        // hid is used as unique identifier. Do not use `vmid` for it as it will not work
+        {
+          hid: 'wosss',
+          name: 'WoSSS',
+          content: 'Workshop on Sustainable Software Sustainability'
+        }
+      ]
     }
   }
 }

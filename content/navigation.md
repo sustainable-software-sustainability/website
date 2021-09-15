@@ -4,9 +4,9 @@
     subitems:
     - path: "/wosss21-agenda"
       title: "Agenda"
-    - path: "/wosss21-home"
-      title: "Abstract"
-    - path: "/wosss21-home"
+    - path: "/wosss21/abstracts"
+      title: "Abstracts"
+    - path: "/wosss21/calendar"
       title: "Calendar"
     
   - path: "/"

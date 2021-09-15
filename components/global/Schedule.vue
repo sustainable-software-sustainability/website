@@ -5,20 +5,20 @@ import timeGridPlugin from '@fullcalendar/timegrid'
 
 export default {
   components: {
-    FullCalendar, // make the <FullCalendar> tag available
+    FullCalendar // make the <FullCalendar> tag available
   },
-  data() {
+  data () {
     return {
       calendarOptions: {
         plugins: [timeGridPlugin],
         initialView: 'timeGrid',
         headerToolbar: {
           center: '',
-          right: '',
+          right: ''
         },
         visibleRange: {
           start: '2021-10-06',
-          end: '2021-10-09',
+          end: '2021-10-09'
         },
         allDaySlot: false,
         slotMinTime: '08:00',
@@ -75,11 +75,11 @@ export default {
           { title: 'Panel Q & A', start: '2021-10-08 09:45', end: '2021-10-08 10:30' },
           { title: 'Brief report back from break-outs', start: '2021-10-08 10:30', end: '2021-10-08 10:45' },
           { title: 'Workshop conclusions and next steps', start: '2021-10-08 10:45', end: '2021-10-08 10:50' },
-          { title: 'Wrap up and close WoSSS21', start: '2021-10-08 10:50', end: '2021-10-08 11:30' },
-        ],
-      },
+          { title: 'Wrap up and close WoSSS21', start: '2021-10-08 10:50', end: '2021-10-08 11:30' }
+        ]
+      }
     }
-  },
+  }
 }
 </script>
 <template>

@@ -45,14 +45,14 @@
 </template>
 <script>
 export default {
+  async fetch () {
+    const navigation = await this.$content('navigation').fetch()
+    this.navigation = Object.values(navigation).filter(n => !!n.path)
+  },
   data () {
     return {
       navigation: []
     }
-  },
-  async fetch () {
-    const navigation = await this.$content('navigation').fetch()
-    this.navigation = Object.values(navigation).filter(n => !!n.path)
   }
 }
 </script>
