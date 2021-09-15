@@ -9,7 +9,9 @@
             <div class="row">
               <div class="col-lg-6">
                 <div class="widget widget-about">
-                  <h3 class="widget-title">Join the conversation</h3>
+                  <h3 class="widget-title">
+                    Join the conversation
+                  </h3>
                   <p>
                     You can
                     <a target="_blank" href="https://bit.ly/wosss-slack" title="">
@@ -40,29 +42,14 @@
 <script>
 // import VueScrollTo from 'vue-scrollto/src/scrollTo'
 export default {
-  async asyncData({ $content, params }) {
+  async asyncData ({ $content, params }) {
     const content = await $content('home').fetch()
     return {
-      content,
+      content
     }
   },
 
-  mounted() {
-    this.scrollToElement()
-  },
-
-  methods: {
-    scrollToElement() {
-      if (this.$route.hash) {
-        const el = this.$el.querySelector(this.$route.hash)
-        if (el) {
-          el.scrollIntoView({ behavior: 'smooth', block: 'center', currentTime: 2000 })
-        }
-      }
-    },
-  },
-
-  head() {
+  head () {
     return {
       title: this.title,
       meta: [
@@ -70,11 +57,26 @@ export default {
         {
           hid: 'wosss',
           name: 'WoSSS',
-          content: 'Workshop on Sustainable Software Sustainability',
-        },
-      ],
+          content: 'Workshop on Sustainable Software Sustainability'
+        }
+      ]
     }
   },
+
+  mounted () {
+    this.scrollToElement()
+  },
+
+  methods: {
+    scrollToElement () {
+      if (this.$route.hash) {
+        const el = this.$el.querySelector(this.$route.hash)
+        if (el) {
+          el.scrollIntoView({ behavior: 'smooth', block: 'center', currentTime: 2000 })
+        }
+      }
+    }
+  }
 }
 </script>
 

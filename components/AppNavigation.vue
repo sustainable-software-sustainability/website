@@ -4,7 +4,7 @@
       <div id="header" class="header-data">
         <logo />
         <div class="mobile-menu-btn">
-          <a style="cursor: pointer;" @click="mobileMenu = !mobileMenu"><i class="fa fa-bars"></i></a>
+          <a style="cursor: pointer;" @click="mobileMenu = !mobileMenu"><i class="fa fa-bars" /></a>
         </div>
         <div class="up-social-links">
           <ul>
@@ -17,7 +17,7 @@
       </div>
     </div>
     <div class="responsive-mobile-menu" :class="{ active: mobileMenu }" style="height: 100vh;">
-      <span class="close-menu" @click="mobileMenu = !mobileMenu"><i class="mdi mdi-close"></i></span>
+      <span class="close-menu" @click="mobileMenu = !mobileMenu"><i class="mdi mdi-close" /></span>
       <div class="mobile-menu">
         <navigation-items @menuItemClicked="mobileMenu = false" />
       </div>
@@ -32,22 +32,22 @@
 </template>
 <script>
 export default {
-  data() {
+  data () {
     return {
       offset: 0,
-      mobileMenu: false,
+      mobileMenu: false
     }
   },
   // a beforeMount call to add a listener to the window
-  beforeMount() {
+  beforeMount () {
     window.addEventListener('scroll', this.handleScroll)
   },
 
   methods: {
     // the function to call when the user scrolls, added as a method
-    handleScroll() {
+    handleScroll () {
       this.offset = window.pageYOffset > 1
-    },
-  },
+    }
+  }
 }
 </script>
