@@ -2,7 +2,7 @@ import tailwindTypography from '@tailwindcss/typography'
 
 export default {
   env: {
-    googleAnalyticsId: process.env.GOOGLE_ANALYTICS_ID,
+    googleAnalyticsId: process.env.GOOGLE_ANALYTICS_ID
   },
   /*
    ** Nuxt rendering mode
@@ -14,6 +14,7 @@ export default {
    ** See https://nuxtjs.org/api/configuration-target
    */
   target: 'static',
+  ssr: false,
   /*
    ** Headers of the page
    ** See https://nuxtjs.org/api/configuration-head
@@ -27,16 +28,16 @@ export default {
         hid: 'description',
         name: 'description',
         content:
-          'Workshop on Sustainable Software Sustainability (WoSSS), is a series of international workshops on the topic of software sustainability; it has a particular focus on bringing together different research communities and provisions for the long term.',
-      },
+          'Workshop on Sustainable Software Sustainability (WoSSS), is a series of international workshops on the topic of software sustainability; it has a particular focus on bringing together different research communities and provisions for the long term.'
+      }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
       {
         rel: 'stylesheet',
-        href: 'https://fonts.googleapis.com/css?family=Work+Sans:ital,wght@0,700;1,400,1,500&display=swap',
-      },
-    ],
+        href: 'https://fonts.googleapis.com/css?family=Work+Sans:ital,wght@0,700;1,400,1,500&display=swap'
+      }
+    ]
   },
   /*
    ** Global CSS
@@ -51,7 +52,7 @@ export default {
     '~/assets/css/light-color.css',
     '~/assets/css/style.css',
     '~/assets/css/responsive.css',
-    '~/assets/main.css',
+    '~/assets/main.css'
   ],
 
   /*
@@ -70,7 +71,7 @@ export default {
   buildModules: [
     // Doc: https://github.com/nuxt-community/eslint-module
     '@nuxtjs/eslint-module',
-    '@nuxtjs/tailwindcss',
+    '@nuxtjs/tailwindcss'
   ],
   /*
    ** Nuxt.js modules
@@ -79,10 +80,10 @@ export default {
     '@nuxtjs/pwa',
     // Doc: https://github.com/nuxt/content
     '@nuxt/content',
-    ['vue-scrollto/nuxt', { duration: 2000 }],
+    ['vue-scrollto/nuxt', { duration: 2000 }]
   ],
   generate: {
-    fallback: '404.html', // for Netlify
+    fallback: '404.html' // for Netlify
   },
 
   /*
@@ -98,7 +99,7 @@ export default {
 
   tailwindcss: {
     config: {
-      plugins: [tailwindTypography],
-    },
-  },
+      plugins: [tailwindTypography]
+    }
+  }
 }
