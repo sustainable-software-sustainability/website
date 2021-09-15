@@ -1,5 +1,3 @@
-import tailwindTypography from '@tailwindcss/typography'
-
 export default {
   env: {
     googleAnalyticsId: process.env.GOOGLE_ANALYTICS_ID

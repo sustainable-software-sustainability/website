@@ -1,1 +1,1 @@
-# This is the calendar page
+<schedule></schedule>
