@@ -60,4 +60,10 @@
     transform: rotate(360deg);
   }
 }
+
+@media (prefers-reduced-motion) {
+  #gear {
+    animation: none;
+  }
+}
 </style>
