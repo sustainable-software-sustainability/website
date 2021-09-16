@@ -6,7 +6,7 @@
           <div class="col-lg-3 col-md-4 col-sm-6 col-12">
             <div class="feature">
               <div class="feature-icon">
-                <span><i class="mdi mdi-file-find"></i></span>
+                <span><i class="mdi mdi-file-find" /></span>
               </div>
               <!--feature-icon end-->
               <div class="feature-info">
@@ -22,7 +22,7 @@
           <div class="col-lg-3 col-md-4 col-sm-6 col-12">
             <div class="feature">
               <div class="feature-icon">
-                <span><i class="mdi mdi-account-convert"></i></span>
+                <span><i class="mdi mdi-account-convert" /></span>
               </div>
               <!--feature-icon end-->
               <div class="feature-info">
@@ -39,7 +39,7 @@
           <div class="col-lg-3 col-md-4 col-sm-6 col-12">
             <div class="feature">
               <div class="feature-icon">
-                <span><i class="mdi mdi-alarm-bell"></i></span>
+                <span><i class="mdi mdi-alarm-bell" /></span>
               </div>
               <!--feature-icon end-->
               <div class="feature-info">
@@ -56,7 +56,7 @@
           <div class="col-lg-3 col-md-4 col-sm-6 col-12">
             <div class="feature">
               <div class="feature-icon">
-                <span><i class="mdi mdi-puzzle"></i></span>
+                <span><i class="mdi mdi-puzzle" /></span>
               </div>
               <!--feature-icon end-->
               <div class="feature-info">
@@ -77,6 +77,6 @@
 </template>
 <script>
 export default {
-  name: 'Features',
+  name: 'Features'
 }
 </script>

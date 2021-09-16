@@ -1,5 +1,3 @@
-import tailwindTypography from '@tailwindcss/typography'
-
 export default {
   env: {
     googleAnalyticsId: process.env.GOOGLE_ANALYTICS_ID
@@ -94,11 +92,19 @@ export default {
    ** Build configuration
    ** See https://nuxtjs.org/api/configuration-build/
    */
-  build: {},
-
-  tailwindcss: {
-    config: {
-      plugins: [tailwindTypography]
+  build: {
+    // transpile: /@fullcalendar.*/,
+    postcss: {
+      plugins: {
+        'cssnano': {
+          preset: [
+            "default",
+            {
+              "calc": false
+            }
+          ]
+        }
+      }
     }
   }
 }

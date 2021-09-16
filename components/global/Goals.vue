@@ -1,6 +1,6 @@
 <template>
   <section id="goals" class="about">
-    <div class="fixed-bg bg3"></div>
+    <div class="fixed-bg bg3" />
     <div class="custom-container">
       <div class="about-sec">
         <div class="heading">
@@ -24,21 +24,23 @@
         </div>
       </div>
       <!--services-sec end-->
-      <nuxt-link to="/goals" class="btn-sbmt">More about our goals</nuxt-link>
+      <nuxt-link to="/goals" class="btn-sbmt">
+        More about our goals
+      </nuxt-link>
     </div>
   </section>
 </template>
 <script>
 export default {
-  async fetch() {
+  async fetch () {
     const data = await this.$content('sections', 'goals-section').fetch()
-    this.goals = Object.values(data).filter((n) => !!n.n)
+    this.goals = Object.values(data).filter(n => !!n.n)
   },
-  data() {
+  data () {
     return {
-      goals: [],
+      goals: []
     }
-  },
+  }
 }
 </script>
 

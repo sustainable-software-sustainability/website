@@ -32,61 +32,61 @@
       </div>
       <div class="testimonial-nav">
         <div class="user-info">
-          <img src="http://via.placeholder.com/65x65" alt="" />
+          <img src="http://via.placeholder.com/65x65" alt="">
           <h3>Omar Hampton</h3>
           <span>Designer</span>
         </div>
         <!--user-info end-->
         <div class="user-info">
-          <img src="http://via.placeholder.com/65x65" alt="" />
+          <img src="http://via.placeholder.com/65x65" alt="">
           <h3>Omar Hampton</h3>
           <span>Designer</span>
         </div>
         <!--user-info end-->
         <div class="user-info">
-          <img src="http://via.placeholder.com/65x65" alt="" />
+          <img src="http://via.placeholder.com/65x65" alt="">
           <h3>Omar Hampton</h3>
           <span>Designer</span>
         </div>
         <!--user-info end-->
         <div class="user-info">
-          <img src="http://via.placeholder.com/65x65" alt="" />
+          <img src="http://via.placeholder.com/65x65" alt="">
           <h3>Omar Hampton</h3>
           <span>Designer</span>
         </div>
         <!--user-info end-->
         <div class="user-info">
-          <img src="http://via.placeholder.com/65x65" alt="" />
+          <img src="http://via.placeholder.com/65x65" alt="">
           <h3>Omar Hampton</h3>
           <span>Designer</span>
         </div>
         <!--user-info end-->
         <div class="user-info">
-          <img src="http://via.placeholder.com/65x65" alt="" />
+          <img src="http://via.placeholder.com/65x65" alt="">
           <h3>Omar Hampton</h3>
           <span>Designer</span>
         </div>
         <!--user-info end-->
         <div class="user-info">
-          <img src="http://via.placeholder.com/65x65" alt="" />
+          <img src="http://via.placeholder.com/65x65" alt="">
           <h3>Omar Hampton</h3>
           <span>Designer</span>
         </div>
         <!--user-info end-->
         <div class="user-info">
-          <img src="http://via.placeholder.com/65x65" alt="" />
+          <img src="http://via.placeholder.com/65x65" alt="">
           <h3>Omar Hampton</h3>
           <span>Designer</span>
         </div>
         <!--user-info end-->
         <div class="user-info">
-          <img src="http://via.placeholder.com/65x65" alt="" />
+          <img src="http://via.placeholder.com/65x65" alt="">
           <h3>Omar Hampton</h3>
           <span>Designer</span>
         </div>
         <!--user-info end-->
         <div class="user-info">
-          <img src="http://via.placeholder.com/65x65" alt="" />
+          <img src="http://via.placeholder.com/65x65" alt="">
           <h3>Omar Hampton</h3>
           <span>Designer</span>
         </div>
@@ -98,6 +98,6 @@
 </template>
 <script>
 export default {
-  name: 'Testimonial',
+  name: 'Testimonial'
 }
 </script>

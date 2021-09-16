@@ -12,14 +12,14 @@
 
 <script>
 export default {
-  async fetch() {
+  async fetch () {
     this.upcoming = await this.$content('sections', 'upcoming').fetch()
   },
-  data() {
+  data () {
     return {
-      upcoming: {},
+      upcoming: {}
     }
-  },
+  }
 }
 </script>
 <style>

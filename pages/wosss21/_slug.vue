@@ -31,12 +31,12 @@
 <script>
 export default {
   transition: 'fade',
-  async asyncData({ $content, params }) {
+  async asyncData ({ $content, params }) {
     const section = await $content('sections/wosss21', params.slug).fetch()
     return {
-      section,
+      section
     }
-  },
+  }
 }
 </script>
 <style>
