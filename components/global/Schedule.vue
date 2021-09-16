@@ -1,3 +1,7 @@
+<template>
+  <FullCalendar :options="calendarOptions" />
+</template>
+
 <script>
 import '@fullcalendar/core/vdom' // solves problem with Vite
 import FullCalendar from '@fullcalendar/vue'
@@ -82,6 +86,14 @@ export default {
   }
 }
 </script>
-<template>
-  <FullCalendar :options="calendarOptions" />
-</template>
+<style>
+:global {
+/*@import '~/node_modules/@fullcalendar/core/main.css';*/
+/*@import '~/node_modules/@fullcalendar/daygrid/main.css';*/
+@import '~/node_modules/@fullcalendar/common/main.css';
+@import '~/node_modules/@fullcalendar/daygrid/main.css';
+
+@import '~/node_modules/@fullcalendar/timegrid/main.css';
+}
+
+</style>

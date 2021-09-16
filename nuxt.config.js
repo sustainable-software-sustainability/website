@@ -92,6 +92,19 @@ export default {
    ** Build configuration
    ** See https://nuxtjs.org/api/configuration-build/
    */
-  build: {}
-
+  build: {
+    // transpile: /@fullcalendar.*/,
+    postcss: {
+      plugins: {
+        'cssnano': {
+          preset: [
+            "default",
+            {
+              "calc": false
+            }
+          ]
+        }
+      }
+    }
+  }
 }

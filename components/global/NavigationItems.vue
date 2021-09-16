@@ -21,7 +21,7 @@
             />
           </svg>
         </div>
-        <ul class="absolute hidden group-hover:block bg-[#9C84E1]">
+        <ul class="absolute hidden group-hover:block bg-[#9C84E1] shadow-xl rounded">
           <nuxt-link
             v-for="subitem in item.subitems"
             :key="subitem.title"
