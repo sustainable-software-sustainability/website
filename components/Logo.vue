@@ -48,7 +48,7 @@
   align-items: center;
 }
 #gear {
-  animation: ckw 15s infinite linear;
+  animation: ckw 45s infinite linear;
   transform-origin: center center;
 }
 
@@ -58,6 +58,12 @@
   }
   100% {
     transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion) {
+  #gear {
+    animation: none;
   }
 }
 </style>
