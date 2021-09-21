@@ -33,7 +33,7 @@ Taking into consideration the event will be online, we intend to limit the numbe
 
 ###  WoSSS21 Programme Committee:
 [Michelle Barker](https://www.researchsoft.org/people/), Research Software Alliance (ReSA), Australia  
-[Daniel Katz](https://danielskatz.org/), National Center for Supercomputing Applications (NCSA), University of Illinois  
+[Daniel S. Katz](https://danielskatz.org/), National Center for Supercomputing Applications (NCSA), University of Illinois  
 [Jessica Farrell](https://educopia.org/jessica-Farrell/), Educopia Institute  
 [Jesse de Vos](https://www.beeldengeluid.nl/en/knowledge/experts/jesse-de-vos), Beeld en Geluid  
 \+ the members of the Organising Committee  

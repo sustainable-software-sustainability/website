@@ -26,11 +26,11 @@ All times stated are in BST which is UTC+1
 |   |   |
 |--:|---|
 | [08:00-08:05](https://arewemeetingyet.com/London/2021-10-06/08:00)| Welcome to WoSSS21 day 2, part 1 |
-| [08:05-08:30](https://arewemeetingyet.com/London/2021-10-06/08:05)| Plenary session 2A<br> **Speakers**: Fakhereh (Sarah) Alidoost, Nicolas Thiery |
+| [08:05-08:30](https://arewemeetingyet.com/London/2021-10-06/08:05)| Plenary session 2A<br> **Speakers**: Nicolas Thiery, Tom Honeyman |
 | [08:30-08:40](https://arewemeetingyet.com/London/2021-10-06/08:30)| Break |
-| [08:40-09:05](https://arewemeetingyet.com/London/2021-10-06/08:40)| Plenary session 2B<br> **Speakers**: Tom Honeyman |
+| [08:40-09:05](https://arewemeetingyet.com/London/2021-10-06/08:40)| Plenary session 2B<br> **Speakers**: Carole Goble, Fakhereh (Sarah) Alidoost |
 | [09:05-09:10](https://arewemeetingyet.com/London/2021-10-06/09:05)| Break  |
-| [09:10-09:35](https://arewemeetingyet.com/London/2021-10-06/09:10)| Plenary session 2C<br> **Speakers**: Carole Goble |
+| [09:10-09:35](https://arewemeetingyet.com/London/2021-10-06/09:10)| Plenary session 2C<br> **Speakers**: Fotis Psomopoulos |
 | [09:35-09:40](https://arewemeetingyet.com/London/2021-10-06/09:35)| Break  |
 | [09:40-10:25](https://arewemeetingyet.com/London/2021-10-06/09:40)| Break-out discussions & note taking |
 | [10:25-10:40](https://arewemeetingyet.com/London/2021-10-06/10:25)| Brief report back from break-outs |
