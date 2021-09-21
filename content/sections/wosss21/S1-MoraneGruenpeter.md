@@ -1,4 +1,4 @@
-# Title TBC
+# Software as a first class research output in a FAIR ecosystem
 **by Morane Gruenpeter**  
 
 ## From session 1 - [Sustaining software in cultural heritage](/wosss21-agenda#session-1)  
