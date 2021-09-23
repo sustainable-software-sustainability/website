@@ -1,7 +1,7 @@
 # Software as a first class research output in a FAIR ecosystem
 **by Morane Gruenpeter**  
 
-## From session 1 - [Sustaining software in cultural heritage](/wosss21-agenda#session-1)  
+## From session 1 - [Sustaining software in cultural heritage](/wosss21/agenda#session-1)  
 Software is a significant and vital component of research. It is integral to all stages of research and can play the role of a tool, a research result, or a research object. Since software source code has been recently recognised as an important asset also in the field of scientific research, complementing publications and research data, it is essential to collect and preserve it.
 
 Software Heritage (SWH) is the universal source code archive, collecting, preserving and sharing the largest collection of source code.  Software Heritage is now providing the infrastructure for depositing and referencing software source code, in collaboration with national and international open access portals.

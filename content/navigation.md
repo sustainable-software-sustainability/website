@@ -1,10 +1,10 @@
 ---
-  - path: "/wosss21-home"
+  - path: "/wosss21/home"
     title: "WoSSS21"
     subitems:
-    - path: "/wosss21-home"
+    - path: "/wosss21/home"
       title: "Event"
-    - path: "/wosss21-agenda"
+    - path: "/wosss21/agenda"
       title: "Agenda"
     - path: "/wosss21/abstracts"
       title: "Abstracts"

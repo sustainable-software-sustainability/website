@@ -1,7 +1,7 @@
 # Software Sustainability in the context of Software-based Art Conservation
 **by Patricia Falcão**  
 
-## From session 1 - [Sustaining software in cultural heritage](/wosss21-agenda#session-1)  
+## From session 1 - [Sustaining software in cultural heritage](/wosss21/agenda#session-1)  
 Software sustainability and Conservation of software-based art have many similarities and some key differences. This talk will provide my perspective as a conservator and researcher working in the conservation of software-based art and explain my view of the differences and similarities , and where I see space for close collaboration.
 
 Artist’s software is as varied as the artists themselves and their teams. Even a small collection like Tate’s, that at the moment contains less than 15 artworks, where the earliest  is from 2013, includes works created in and for 5 different Operating Systems, applications created using Java, Delphi or C++ and tools such as Director or Unity.

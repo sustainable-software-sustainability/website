@@ -1,7 +1,7 @@
 # On the Sustainability of Academic Software in Software Engineering
 **by Christina Von Flach Garcia Chavez**  
 
-## From session 3 - [Human factors and new development in preserving and sustaining research software](/wosss21-agenda#session-3)  
+## From session 3 - [Human factors and new development in preserving and sustaining research software](/wosss21/agenda#session-3)  
 The increasing adoption of academic software has made modern Science dependent on the technical sustainability of software. Unsustainable development of academic software hinders reproducibility, one of the Science pillars. In addition, according to Howison and colleagues, the non-sustainable development of academic software can lead to a “dysfunctional chaotic churn”, characterized by the existence of several similar projects, with disconnected communities, few users and a short life cycle, among other anomalies.
 
 There are few studies on the technical sustainability of academic software in Software Engineering, especially in the field of static analysis, with a long tradition in the development of tools to support research in different areas.

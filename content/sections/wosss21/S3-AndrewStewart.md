@@ -1,7 +1,7 @@
 # An Introduction to the UK Reproducibility Network
 **by Andrew Stewart**  
 
-## From session 3 - [Human factors and new development in preserving and sustaining research software](/wosss21-agenda#session-3)  
+## From session 3 - [Human factors and new development in preserving and sustaining research software](/wosss21/agenda#session-3)  
 In this talk, I will provide a brief history and overview of the structure of the UK Reproducibility Network (UKRN). I will cover the goals of UKRN’s recently funded Research England Development Fund bid, the activities that this funding will support over the next 5 years, and some of the challenges that UK institutions face in transitioning to a more open and transparent way of conducting research.
 
 The UK Reproducibility Network (UKRN) was launched in March 2019 by Marcus Munafò (University of Bristol), with activities coordinated by [the Steering Group](https://www.ukrn.org/steering-group/) and an [Advisory Board](https://www.ukrn.org/advisory-board/). At its inception, the UKRN brought together a number of individuals and pre-existing groups who had become increasingly focused on issues related to reproducibility, replicability, and transparency in research. Many of the early interactions took place via social media and revealed the extent to which there were overlapping concerns across disciplines and institutions around openness in research.
