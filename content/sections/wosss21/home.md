@@ -2,7 +2,7 @@
 ## 6-8 October 2021
 ## Open science, digital heritage and sustaining software
 
-[Draft programme](/agenda)
+[Draft programme](/wosss21/agenda)
 
 [Registration is open](https://www.eventbrite.co.uk/e/workshop-on-sustainable-software-sustainability-2021-wosss21-wosss21-tickets-165250271009)
 
