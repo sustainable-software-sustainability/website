@@ -79,11 +79,6 @@ export default {
     // Doc: https://github.com/nuxt/content
     '@nuxt/content',
     ['vue-scrollto/nuxt', { duration: 2000 }]
-    // ['@nuxtjs/redirect-module', [
-    //   // Redirect option here
-    //   { from: '/wosss21-home', to: '/wosss21/home' },
-    //   { from: '/wosss21-agenda', to: '/wosss21/agenda' }
-    // ]]
   ],
   generate: {
     fallback: '404.html' // for Netlify
