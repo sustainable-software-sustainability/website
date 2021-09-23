@@ -6,7 +6,7 @@
 The Workshop on Sustainable Software Sustainability (WoSSS) is a series of international workshops on the topic of software sustainability; it has a particular focus on bringing together different research communities and provisions for the long term.
 
 ## Upcoming events
-[WoSSS21](content/wosss21) is the next WoSSS event being organised for late 2021. [sign up](https://bit.ly/wosss21-expression-of-interest) to hear when more information is available.
+[WoSSS21](content/wosss21) is the next WoSSS event being organised for late 2021. [sign up](https://bit.ly/wosss21/expression-of-interest) to hear when more information is available.
 
 ## Reports
 Reports from previous WoSSS workshops:
