@@ -1,7 +1,7 @@
 # WoSSS21 Abstracts
 
 ## [Session 1 - Sustaining software in cultural heritage](/wosss21/agenda#session-1)
-[Patricia Falcão - Software Sustainability in the context of Software-based Art Conservation](/wosss21/S1-PatriciaFalcão)
+[Patricia Falcão - Software Sustainability in the context of Software-based Art Conservation](/wosss21/S1-PatriciaFalcão)  
 [Morane Gruenpeter - Software as a first class research output in a FAIR ecosystem](/wosss21/S1-MoraneGruenpeter)  
 
 ## [Session 2 - Open Science & applying the FAIR principles to software](/wosss21/agenda#session-2)  
