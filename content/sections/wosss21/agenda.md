@@ -55,7 +55,7 @@ All times stated are in BST which is UTC+1
 | [17:55-18:00](https://arewemeetingyet.com/London/2021-10-06/17:55)| Connecting and Social/Networking |
 
 ## Session 4
-**October 8, morning - Sustaining the community and promoting (human) infrastructures for software sustainability**
+**October 8, morning - [Sustaining the community and promoting (human) infrastructures for software sustainability](/wosss21/abstracts#session-4)**
 
 |   |   |
 |--:|---|
