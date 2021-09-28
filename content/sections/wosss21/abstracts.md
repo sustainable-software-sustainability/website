@@ -16,4 +16,4 @@
 
 ## Session 4
 ### [Sustaining the community and promoting (human) infrastructures for software sustainability](/wosss21/agenda#session-4)  
-Coming soon
+[Martin-Hammitzsch - The fundamental part of software: the human infrastructure](/wosss21/S4-MartinHammitzsch)  
