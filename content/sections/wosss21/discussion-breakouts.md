@@ -38,7 +38,7 @@ These key points can include (some or all of):
  - What the current solutions are
  - What’s unsolved and needs further work
  - Who is doing good work in this area
- - Are there any other data point of interest
+ - Are there any other data points of interest
  - Who should lead the promotion of the work
  - Who should lead the actual work
  - What critical support is missing
@@ -55,4 +55,4 @@ Each session will have a formal reporting back session (each of these sessions a
  - Session 3 -  Thursday 7th October 2021 - [10:25-10:40 BST](https://arewemeetingyet.com/London/2021-10-06/10:25)
 
 ## The final product
-In the time after WoSSS21 the content from the discussion session notes will be incorporated in the draft WoSSS21 report. If member of the discussion group contribute to the re-structuring and further elaboration of the text in the draft report than we are happy to include them as co-authors on the report; all contributors to the workshop will be acknowledged (so be sure to put your full name at the top of the notes documents under the participants heading). We won’t be publishing any of the raw notes documents.
+In the time after WoSSS21 the content from the discussion session notes will be incorporated in the draft WoSSS21 report. If members of the discussion group contribute to the re-structuring and further elaboration of the text in the draft report than we are happy to include them as co-authors on the report; all contributors to the workshop will be acknowledged (so be sure to put your full name at the top of the notes documents under the participants heading). We won’t be publishing any of the raw notes documents.
