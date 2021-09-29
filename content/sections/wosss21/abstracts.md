@@ -17,3 +17,5 @@
 ## Session 4
 ### [Sustaining the community and promoting (human) infrastructures for software sustainability](/wosss21/agenda#session-4)  
 [Martin-Hammitzsch - The fundamental part of software: the human infrastructure](/wosss21/S4-MartinHammitzsch)  
+[Konstantinos Repanas and Ignacio Blanquer - Research Software Sustainability in the EOSC](/wosss21/S4-KonstantinosRepanasAndIgnacioBlanquer)  
+[Michelle Barker - The People Roadmap: Mapping people-related initiatives in the research software community](/wosss21/S4-MichelleBarker)
