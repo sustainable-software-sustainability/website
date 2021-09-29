@@ -14,7 +14,7 @@ All times stated are in BST which is UTC+1
 | [15:45-15:50](https://arewemeetingyet.com/London/2021-10-06/15:45)| Break  |
 | [15:50-16:15](https://arewemeetingyet.com/London/2021-10-06/15:50)| Plenary session 1C<br> **Speakers**: Morane Gruenpeter |
 | [16:15-16:20](https://arewemeetingyet.com/London/2021-10-06/16:15)| Break  |
-| [16:20-16:25](https://arewemeetingyet.com/London/2021-10-06/16:20)| Introduction to breakout sessions  |
+| [16:20-16:25](https://arewemeetingyet.com/London/2021-10-06/16:20)| [Introduction to breakout sessions](/wosss21/discussion-breakouts)  |
 | [16:25-17:10](https://arewemeetingyet.com/London/2021-10-06/16:25)| Break-out discussions & note taking |
 | [17:10-17:40](https://arewemeetingyet.com/London/2021-10-06/17:10)| Networking |
 | [17:40-17:55](https://arewemeetingyet.com/London/2021-10-06/17:40)| Brief report back from break-outs |
