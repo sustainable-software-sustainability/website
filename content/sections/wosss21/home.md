@@ -10,6 +10,8 @@
 
 [Discussion breakouts](/wosss21/discussion-breakouts)
 
+Contact the organising committee via [WoSSS-workshop@listserv.manchester.ac.uk](mailto:WoSSS-workshop@listserv.manchester.ac.uk)
+
 ### Introduction and scope
 The Workshop on Sustainable Software Sustainability 2021 will be held online from Wednesday 6th October to Friday 9th October 2021. It is the 4th workshop in a series that started in Berlin in 2015. In 2017 and 2019 the event took place in The Hague. Reports on the previous workshops are available here: https://wosss.org
 
