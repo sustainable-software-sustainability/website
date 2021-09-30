@@ -2,11 +2,13 @@
 
 ## [Session 1 - Sustaining software in cultural heritage](/wosss21/agenda#session-1)
 [Patricia Falcão - Software Sustainability in the context of Software-based Art Conservation](/wosss21/S1-PatriciaFalcão)  
+[Otigbu Austine - Preserving our collective documentary heritage in bits, putting a step forward](/wosss21/S1-OtigbuAustine)  
 [Morane Gruenpeter - Software as a first class research output in a FAIR ecosystem](/wosss21/S1-MoraneGruenpeter)  
 
 ## [Session 2 - Open Science & applying the FAIR principles to software](/wosss21/agenda#session-2)  
 [Fakhereh (Sarah) Alidoost - Research software and beyond - ESMValTool: a community and FAIR software for evaluations of Earth system models](/wosss21/S2-FakherehAlidoost)   
-[Fotis Psomopoulos - Developing the ELIXIR Software Management Plan for Life Sciences](/wosss21/S2-FotisPsomopoulos)
+[Fotis Psomopoulos - Developing the ELIXIR Software Management Plan for Life Sciences](/wosss21/S2-FotisPsomopoulos)  
+[Carole Goble - FAIR Computational Workflows](/wosss21/S2-CaroleGoble)
 
 ## [Session 3 - Human factors and new development in preserving and sustaining research software](/wosss21/agenda#session-3)  
 [Stian Soiland-Reyes - Reproducibility; Research Objects (RO-Crate) and Common Workflow Language (CWL)](/wosss21/S3-StianSoiland-Reyes)  
