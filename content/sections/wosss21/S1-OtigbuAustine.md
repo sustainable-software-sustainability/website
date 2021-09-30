@@ -1,0 +1,28 @@
+# Preserving our collective documentary heritage in bits, putting a step forward
+**by Otigbu Austine**  
+
+## From session 1 - [Sustaining software in cultural heritage](/wosss21/agenda#session-1)  
+As the cornerstone of history, Archives are invaluable national heritage for human society. With proper storage, preservation and access, such records become veritable tools for appreciating the past, understanding and dealing with the present and projecting for the future. Archives constitute a vital part of the memory of a nation, its people and institutions for cultural growth and development. As the apex archival institution in Nigeria, the National Archives continues to make deliberate efforts to salvage and preserve these records of perpetual value for easy accessibility using different preservation techniques and methods.
+
+Prior to the Covid 19 pandemic, the National Archives of Nigeria deploys traditional methods of records management and archives administration which was essentially paper based  in  preserving and disseminating  information materials to its users. However, the covid 19 pandemic has driven the National Archives of Nigeria to rethink its archiving methods and processes, thus, embracing automation and digital preservation methods to facilitate records management and archival functions to ensure a more sustainable, simplified, and time saving process of preserving and disseminating our national documentary heritage to its local and foreign users who had limited access to this vital information resource during this pandemic period. While Automation involves understanding and integrating archival functions/task performed physically into electronic tool or machine, digitization requires the knowledge and professional use of electronic tools to salvage and preserve the documents in digital format for as long as necessary. However, both require technological and human resources to drive the process.
+
+## IMPLEMENTING THE PROJECT
+Saddled with the task to come up with a workable framework to implement this project, my team and I adopted the “Digital Preservation Management Model approach to ensure a robust and inclusive process of implementing the project. The Digital preservation management model is a 3-legged approach which clearly outlines three main area of work (Technology, Organisation and Resources) for the successful implementation of the automation and digital preservation process.
+
+## TECHNOLOGY:
+Apparently, technology is an integral part of automation and digital preservation, a good understanding of the tangible (hardware) and the intangible (software) aspects of technology to be adopted will be crucial to the success of this exercise. Considering the scarce resource of the National Archives of Nigeria, a greater consideration was given to open source softwares to ensure future sustainability of this project.
+
+## Software Deployed
+### ATOM (Access to Memory 2.4 version)
+The Access to Memory (ATOM) 2.4 version was considered suitable for the repository system.  This common information storage and retrieval software package was specifically developed by Artefactual Systems under the governance of the International Council on Archives for long-term archiving. It was developed as an open source web application with an idea to enable standardized and controllable creation of different levels of description of archival collections, holding all relevant information about the fonds. Hence, this software program contains general rules for archival descriptions regardless of the type or form of the archival records. Furthermore, it provides means for preparing very detailed description of records as whole and parts through the following basic entity types and their interactions: Access records, archival description, authority records and archival institutions. Please visit nationalarchivesofnigeria.org.ng for a better insight of work done so far. Also, software was deployed for security encryption and integrity check purposes.
+
+## ORGANISATION
+At the organisational level, the management is committed to the success of this project, to this end; the management is drafting a digital preservation policy framework to ensure legal and regulatory compliance.
+Resources
+Within the scarce capital resources of the National Archives of Nigeria little equipment where procured to start this project. The equipment is: (Desktop computers 2, Scanners 2, Server 1, Router device 1). Considering the volume of information documentary heritage to be digitally preserved, the sustainability of this project seems to be in doubt. Therefore, alternative source of funding is needed to ensure the continuity of this project.
+
+## Conclusion
+The immediate focus of this project is to digitize our collective national documentary heritage for digital preservation as long as necessary, key focus is on the endangered archives that may be lost forever if urgent actions are not taken to salvage them. Amid the funding and human resource shortage crisis faced by the National Archives of Nigeria over 1000 endangered archives have been digitized and waiting to be transferred to the digital repository for easy access by users. Lastly, we shall rely greatly on friends of the institution for support particularly in the equipment and financial support where necessary. This transition project is tentatively to last 24 months, after which would be reviewed.
+
+## Reference
+ISAD (G), (2000). General International Standard Archival Description. Stockholm, Sweden: International Council on Archives. Retrieved from www.ica.org/en/isadg-general international-standard-archival-description-second-edition
