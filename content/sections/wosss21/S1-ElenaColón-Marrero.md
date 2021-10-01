@@ -1,0 +1,16 @@
+# Software Preservation at the Computer History Museum
+**by Elena Colón-Marrero**  
+
+## From session 1 - [Sustaining software in cultural heritage](/wosss21/agenda#session-1)  
+The Computer History Museum has collected historic software since the museum’s founding in the 1979 by virtue of collecting computers. In 2017, the Software History Center was launched that allowed for more focused collecting of software materials. The museum’s collection contains everything from paper tape and punched cards to CD-ROMs, DVD-ROMs, and source code with a heavy emphasis on PC software totaling over 2,500 linear feet of material. The biggest limitation to CHM’s software preservation work is limited resources: monetary, people, and time.
+
+In 2016, there was very little intellectual control over the software collections. Lack of intellectual control makes it very difficult to do any work such as disk imaging or emulation. As you can imagine at 2,500+ linear feet a massive effort is really needed to describe the collection. Over the course of two years an inventory of the software collection and cataloging instructions for describing software were created.
+
+The software inventory focused on the items in the collection that were cataloged in some level to determine which items needed more focus. The review of those records informed the creation of an instruction manual for staff and volunteers to use when cataloging software materials. The software cataloging manual had to adapt to the limitations of the museum’s collections management system, as well as the fields in use by other object types. Due to these limitations no metadata standards were followed due to the lack of mapping abilities.
+
+Digital forensics workstations were created to help the collections department image software materials, but also process any other types of born-digital materials the museum may receive. Sample workflows, naming conventions for files, and folder structures to establish a process from cataloging to final ingestion of images into our Digital Repository were created.
+
+The collections department created an internal case-study to determine the viability of disk imaging and software emulation on our collection. It was found that on average the process of cataloging and disk imaging a software package took 2-3 hours of staff time. Software items with significantly less available metadata or number of disks would take less time, but still involved at least an hour’s worth of time. We also attempted emulate some of our software but found that with limited staff and time it was not something that we could feasibly do or expand on. It just took too much work when that work could be better spent on cataloging, reference, managing our digital repository, and more.
+
+However, with COVID-19 and the museum closed, a lot of the museum’s software preservation efforts are placed on hold. Without access to the building or materials it was difficult to catalog or image items. Increasing focus of the collection’s staff time shifted towards building a Digital Asset Management system and a new Collections Management system, including record clean-up efforts.
+At the current moment software preservation efforts at the Computer History Museum are stopped until new staff and/or the DAM and CMS migrations are completed.
