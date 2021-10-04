@@ -29,7 +29,7 @@ All times stated are in BST which is UTC+1
 | [07:45-08:00](https://arewemeetingyet.com/London/2021-10-06/07:45)| Connect to Zoom & informal time |
 | [08:00-08:10](https://arewemeetingyet.com/London/2021-10-06/08:00)| Welcome to WoSSS Session 2 |
 | [08:10-08:20](https://arewemeetingyet.com/London/2021-10-06/08:10)| Icebreaker |
-| [08:20-08:45](https://arewemeetingyet.com/London/2021-10-06/08:20)| Plenary session 2A<br> Nicholas Thiery <br> Tom Honeyman  |
+| [08:20-08:45](https://arewemeetingyet.com/London/2021-10-06/08:20)| Plenary session 2A<br> Nicholas Thiery <br> [Tom Honeyman - FAIR adoption](/wosss21/S2-TomHoneyman)  |
 | [08:45-08:50](https://arewemeetingyet.com/London/2021-10-06/08:45)| Break |
 | [08:50-09:15](https://arewemeetingyet.com/London/2021-10-06/08:50)| Plenary session 2B<br> [Carole Goble - FAIR Computational Workflows](/wosss21/S2-CaroleGoble) <br> [Fakhereh (Sarah) Alidoost - Research software and beyond <br> ESMValTool: a community and FAIR software for evaluations of Earth system models](/wosss21/S2-FakherehAlidoost) |
 | [09:15-09:20](https://arewemeetingyet.com/London/2021-10-06/09:15)| Break |
@@ -50,7 +50,7 @@ All times stated are in BST which is UTC+1
 | [14:15-14:30](https://arewemeetingyet.com/London/2021-10-06/14:15)| Connect to Zoom & informal time |
 | [14:30-14:40](https://arewemeetingyet.com/London/2021-10-06/14:30)| Welcome to WoSSS21 Session 3 |
 | [14:40-14:50](https://arewemeetingyet.com/London/2021-10-06/14:40)| Icebreaker |
-| [14:50-15:15](https://arewemeetingyet.com/London/2021-10-06/14:50)| Plenary session 3A<br> [Emma Irwin - Changing our ways: Making Inclusion a Core Feature](/wosss21/S3-EmmaIrwin) <br> Colin Venters |
+| [14:50-15:15](https://arewemeetingyet.com/London/2021-10-06/14:50)| Plenary session 3A<br> [Emma Irwin - Changing our ways: Making Inclusion a Core Feature](/wosss21/S3-EmmaIrwin) <br> [Colin Venters - The Lost Architectures of Scientific Software and How to Find Them](/wosss21/S3-ColinVenters) |
 | [15:15-15:20](https://arewemeetingyet.com/London/2021-10-06/15:15)| Break |
 | [15:20-15:45](https://arewemeetingyet.com/London/2021-10-06/15:20)| Plenary session 3B<br> Vicky Rampin <br> [Stian Soiland-Reyes - Reproducibility; Research Objects (RO-Crate) and <br>Common Workflow Language (CWL)](/wosss21/S3-StianSoiland-Reyes) |
 | [15:45-15:50](https://arewemeetingyet.com/London/2021-10-06/15:45)| Break |
@@ -70,14 +70,15 @@ All times stated are in BST which is UTC+1
 | [07:45-08:00](https://arewemeetingyet.com/London/2021-10-06/07:45)| Connect to Zoom & informal time |
 | [08:00-08:05](https://arewemeetingyet.com/London/2021-10-06/08:00)| Welcome to WoSSS Session 4 |
 | [08:05-08:15](https://arewemeetingyet.com/London/2021-10-06/08:05)| Icebreaker |
-| [08:15-08:40](https://arewemeetingyet.com/London/2021-10-06/08:15)| Plenary session 4A<br> [Michelle Barker - The People Roadmap: <br>Mapping people-related initiatives in the research software community](/wosss21/S4-MichelleBarker) <br> [Martin-Hammitzsch - The fundamental part of software: the human infrastructure](/wosss21/S4-MartinHammitzsch) |
-| [08:40-08:45](https://arewemeetingyet.com/London/2021-10-06/08:40)| Break |
-| [08:45-09:25](https://arewemeetingyet.com/London/2021-10-06/08:45)| Plenary session 4B<br> [Konstantinos Repanas and Ignacio Blanquer - <br>Research Software Sustainability in the EOSC](/wosss21/S4-KonstantinosRepanasAndIgnacioBlanquer) <br> [Alexander Struck - (Inter)National Community Efforts by the German Association <br>of Research Software Engineers (de-RSE)](/wosss21/S4-AlexanderStruck) <br> [Carly Strasser - Supporting the creators and maintainers of essential open source software](/wosss21/S4-CarlyStrasser) |
-| [09:25-09:30](https://arewemeetingyet.com/London/2021-10-06/09:25)| Break |
-| [09:30-10:30](https://arewemeetingyet.com/London/2021-10-06/09:30)| Panel Q & A |
-| [10:30-10:35](https://arewemeetingyet.com/London/2021-10-06/10:30)| Break |
-| [10:35-11:05](https://arewemeetingyet.com/London/2021-10-06/10:35)| Networking |
+| [08:15-08:55](https://arewemeetingyet.com/London/2021-10-06/08:15)| Plenary session 4A<br> [Michelle Barker - The People Roadmap: <br>Mapping people-related initiatives in the research software community](/wosss21/S4-MichelleBarker) <br> [Martin-Hammitzsch - The fundamental part of software: the human infrastructure](/wosss21/S4-MartinHammitzsch) <br> [Tom Honeyman - What we are doing towards software sustainability](/wosss21/S4-TomHoneyman) |
+| [08:55-09:00](https://arewemeetingyet.com/London/2021-10-06/08:55)| Break |
+| [09:00-09:40](https://arewemeetingyet.com/London/2021-10-06/09:00)| Plenary session 4B<br> [Konstantinos Repanas and Ignacio Blanquer - <br>Research Software Sustainability in the EOSC](/wosss21/S4-KonstantinosRepanasAndIgnacioBlanquer) <br> [Alexander Struck - (Inter)National Community Efforts by the German Association <br>of Research Software Engineers (de-RSE)](/wosss21/S4-AlexanderStruck) <br> [Carly Strasser - Supporting the creators and maintainers of essential open source software](/wosss21/S4-CarlyStrasser) |
+| [09:40-09:45](https://arewemeetingyet.com/London/2021-10-06/09:40)| Break |
+| [09:45-10:45](https://arewemeetingyet.com/London/2021-10-06/09:45)| Panel Q & A |
+| [10:45-10:50](https://arewemeetingyet.com/London/2021-10-06/10:45)| Break |
+| [10:50-11:05](https://arewemeetingyet.com/London/2021-10-06/10:50)| Networking |
 | [11:05-11:15](https://arewemeetingyet.com/London/2021-10-06/11:05)| Wrap up and close Session 4 |
 | [11:15-11:30](https://arewemeetingyet.com/London/2021-10-06/11:15)| Next steps and close of WoSSS21 |
+
 
 <schedule/>
