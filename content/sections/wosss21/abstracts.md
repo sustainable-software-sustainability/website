@@ -3,8 +3,8 @@
 ## [Session 1 - Sustaining software in cultural heritage](/wosss21/agenda#session-1)
 Jessica Meyerson - Software Sustainability as Collective Action  
 [Elena Colón-Marrero - Software Preservation at the Computer History Museum](/wosss21/S1-ElenaColón-Marrero)  
-[Patricia Falcão - Software Sustainability in the context of Software-based Art Conservation](/wosss21/S1-PatriciaFalcão)  
 [Otigbu Austine - Preserving our collective documentary heritage in bits, putting a step forward](/wosss21/S1-OtigbuAustine)  
+[Patricia Falcão - Software Sustainability in the context of Software-based Art Conservation](/wosss21/S1-PatriciaFalcão)  
 [Morane Gruenpeter - Software as a first class research output in a FAIR ecosystem](/wosss21/S1-MoraneGruenpeter)  
 
 ## [Session 2 - Open Science & applying the FAIR principles to software](/wosss21/agenda#session-2)  
