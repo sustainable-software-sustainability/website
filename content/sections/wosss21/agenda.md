@@ -9,7 +9,7 @@ All times stated are in BST which is UTC+1
 | [14:30-14:40](https://arewemeetingyet.com/London/2021-10-06/14:30)| Opening WoSSS21 & Session 1 |
 | [14:40-14:50](https://arewemeetingyet.com/London/2021-10-06/14:40)| Icebreaker |
 | [14:50-14:55](https://arewemeetingyet.com/London/2021-10-06/14:50)| Welcome to WoSSS21 |
-| [14:55-15:20](https://arewemeetingyet.com/London/2021-10-06/14:55)| Plenary session 1A<br> Jessica Meyerson <br>[Elena Colón-Marrero - Software Preservation at the Computer History Museum](/wosss21/S1-ElenaColón-Marrero) |
+| [14:55-15:20](https://arewemeetingyet.com/London/2021-10-06/14:55)| Plenary session 1A<br> Jessica Meyerson - Software Sustainability as Collective Action <br>[Elena Colón-Marrero - Software Preservation at the Computer History Museum](/wosss21/S1-ElenaColón-Marrero) |
 | [15:20-15:25](https://arewemeetingyet.com/London/2021-10-06/15:20)| Break |
 | [15:25-15:50](https://arewemeetingyet.com/London/2021-10-06/15:25)| Plenary session 1B<br> [Patricia Falcão - Software Sustainability in the context of Software-based Art Conservation](/wosss21/S1-PatriciaFalcão)  <br>[Otigbu Austine - Preserving our collective documentary heritage in bits, putting a step forward](/wosss21/S1-OtigbuAustine)   |
 | [15:50-15:55](https://arewemeetingyet.com/London/2021-10-06/15:50)| Break |
