@@ -54,7 +54,7 @@ All times stated are in BST which is UTC+1
 | [15:15-15:20](https://arewemeetingyet.com/London/2021-10-07/15:15)| Break |
 | [15:20-15:45](https://arewemeetingyet.com/London/2021-10-07/15:20)| Plenary session 3B<br> Vicky Rampin <br> [Stian Soiland-Reyes - Reproducibility; Research Objects (RO-Crate) and <br>Common Workflow Language (CWL)](/wosss21/S3-StianSoiland-Reyes) |
 | [15:45-15:50](https://arewemeetingyet.com/London/2021-10-07/15:45)| Break |
-| [15:50-16:30](https://arewemeetingyet.com/London/2021-10-07/15:50)| Plenary session 3C<br> [Christina Von Flach Garcia Chavez - On the Sustainability of Academic Software in Software Engineering](/wosss21/S3-ChristinaVonFlachGarciaChavez) <br> [Kelly Rosa Braghetto](/wosss21/S3-KellyRosaBraghetto) <br> [Andrew Stewart - An Introduction to the UK Reproducibility Network](/wosss21/S3-AndrewStewart) |
+| [15:50-16:30](https://arewemeetingyet.com/London/2021-10-07/15:50)| Plenary session 3C<br> [Christina Von Flach Garcia Chavez - On the Sustainability of Academic Software in Software Engineering](/wosss21/S3-ChristinaVonFlachGarciaChavez) <br> [Kelly Rosa Braghetto - The FLOSS Competence Center as an Enabler of High-Quality Open Research Software in Brazil](/wosss21/S3-KellyRosaBraghetto) <br> [Andrew Stewart - An Introduction to the UK Reproducibility Network](/wosss21/S3-AndrewStewart) |
 | [16:30-16:35](https://arewemeetingyet.com/London/2021-10-07/16:30)| Break |
 | [16:35-16:45](https://arewemeetingyet.com/London/2021-10-07/16:35)| Introduction to breakout discussions |
 | [16:45-17:30](https://arewemeetingyet.com/London/2021-10-07/16:45)| Break-out discussions & note taking |
