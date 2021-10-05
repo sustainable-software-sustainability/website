@@ -8,7 +8,7 @@ Jessica Meyerson - Software Sustainability as Collective Action
 [Morane Gruenpeter - Software as a first class research output in a FAIR ecosystem](/wosss21/S1-MoraneGruenpeter)  
 
 ## [Session 2 - Open Science & applying the FAIR principles to software](/wosss21/agenda#session-2)  
-Nicholas Thiery  
+[Nicholas Thiery - A glimpse at decades of FAIR struggles and practices in computational mathematics](/wosss21/S2-NicolasThiery)  
 [Tom Honeyman - FAIR adoption](/wosss21/S2-TomHoneyman)  
 [Carole Goble - FAIR Computational Workflows](/wosss21/S2-CaroleGoble)  
 [Fakhereh (Sarah) Alidoost - Research software and beyond - ESMValTool: a community and FAIR software for evaluations of Earth system models](/wosss21/S2-FakherehAlidoost)   
