@@ -20,6 +20,7 @@ Nicholas Thiery
 [Colin Venters - The Lost Architectures of Scientific Software and How to Find Them](/wosss21/S3-ColinVenters)  
 [Stian Soiland-Reyes - Reproducibility; Research Objects (RO-Crate) and Common Workflow Language (CWL)](/wosss21/S3-StianSoiland-Reyes)  
 [Christina Von Flach Garcia Chavez - On the Sustainability of Academic Software in Software Engineering](/wosss21/S3-ChristinaVonFlachGarciaChavez)  
+[Kelly Rosa Braghetto - The FLOSS Competence Center as an Enabler of High-Quality Open Research Software in Brazil](/wosss21/S3-KellyRosaBraghetto)  
 [Andrew Stewart - An Introduction to the UK Reproducibility Network](/wosss21/S3-AndrewStewart)
 
 ## Session 4
