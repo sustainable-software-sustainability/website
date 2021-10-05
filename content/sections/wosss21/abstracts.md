@@ -13,7 +13,7 @@ Nicholas Thiery
 [Carole Goble - FAIR Computational Workflows](/wosss21/S2-CaroleGoble)  
 [Fakhereh (Sarah) Alidoost - Research software and beyond - ESMValTool: a community and FAIR software for evaluations of Earth system models](/wosss21/S2-FakherehAlidoost)   
 [Fotis Psomopoulos - Developing the ELIXIR Software Management Plan for Life Sciences](/wosss21/S2-FotisPsomopoulos)  
-
+[Andy Terrel - The Role of Fiscal Sponsorship in Open Software](/wosss21/S2-AndyTerrel)  
 
 ## [Session 3 - Human factors and new development in preserving and sustaining research software](/wosss21/agenda#session-3)  
 [Emma Irwin - Changing our ways: Making Inclusion a Core Feature](/wosss21/S3-EmmaIrwin)  

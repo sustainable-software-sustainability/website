@@ -33,7 +33,7 @@ All times stated are in BST which is UTC+1
 | [08:45-08:50](https://arewemeetingyet.com/London/2021-10-07/08:45)| Break |
 | [08:50-09:15](https://arewemeetingyet.com/London/2021-10-07/08:50)| Plenary session 2B<br> [Carole Goble - FAIR Computational Workflows](/wosss21/S2-CaroleGoble) <br> [Fakhereh (Sarah) Alidoost - Research software and beyond <br> ESMValTool: a community and FAIR software for evaluations of Earth system models](/wosss21/S2-FakherehAlidoost) |
 | [09:15-09:20](https://arewemeetingyet.com/London/2021-10-07/09:15)| Break |
-| [09:20-09:45](https://arewemeetingyet.com/London/2021-10-07/09:20)| Plenary session 2C<br> [Fotis Psomopoulos - Developing the ELIXIR Software Management Plan for Life Sciences](/wosss21/S2-FotisPsomopoulos)   |
+| [09:20-09:45](https://arewemeetingyet.com/London/2021-10-07/09:20)| Plenary session 2C<br> [Fotis Psomopoulos - Developing the ELIXIR Software Management Plan for Life Sciences](/wosss21/S2-FotisPsomopoulos) <br> [Andy Terrel - The Role of Fiscal Sponsorship in Open Software](/wosss21/S2-AndyTerrel)  |
 | [09:45-09:50](https://arewemeetingyet.com/London/2021-10-07/09:45)| Break |
 | [09:50-10:00](https://arewemeetingyet.com/London/2021-10-07/09:50)| Introduction to breakout discussions |
 | [10:00-10:45](https://arewemeetingyet.com/London/2021-10-07/10:00)| Break-out discussions & note taking |
