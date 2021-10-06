@@ -66,7 +66,7 @@ All reports of Code of Conduct violations should be made directly to:
 *   Shoaib Sufi, WoSSS21 Lead and Co-Chair, Software Sustainability Institute Community Lead, [shoaib.sufi@software.ac.uk](mailto:shoaib.sufi@software.ac.uk)
 *   Carlos Martinez-Ortiz, WoSSS21 Co-Chair, Community Manager - Natural Sciences & Engineering Netherlands eScience Center, [c.martinez@esciencecenter.nl](mailto:c.martinez@esciencecenter.nl)
 *   Rachael Ainsworth, Research Software Community Manager, Software Sustainability Institute, [rachael.ainsworth@manchester.ac.uk](mailto:peter.doorn@dans.knaw.nl)
-*   Lieke de Boer, Community Manager - Social Sciences & Humanities, Netherlands eScience Centre, [l.deboer@esciencecenter.nl](mailto:l.deboer@esciencecenter.nl) 
+*   Sacha van Breugel, Event Manager,  Netherlands eScience Centre,  [s.vanbreugel@esciencecenter.nl](mailto:s.vanbreugel@esciencecenter.nl) 
 
 ## Acknowledgement
 
