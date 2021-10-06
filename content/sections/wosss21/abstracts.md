@@ -1,7 +1,7 @@
 # WoSSS21 Abstracts
 
 ## [Session 1 - Sustaining software in cultural heritage](/wosss21/agenda#session-1)
-Jessica Meyerson - Software Sustainability as Collective Action  
+Jessica Farrell - Software Sustainability as Collective Action  
 [Elena Colón-Marrero - Software Preservation at the Computer History Museum](/wosss21/S1-ElenaColón-Marrero)  
 [Otigbu Austine - Preserving our collective documentary heritage in bits, putting a step forward](/wosss21/S1-OtigbuAustine)  
 [Patricia Falcão - Software Sustainability in the context of Software-based Art Conservation](/wosss21/S1-PatriciaFalcão)  
