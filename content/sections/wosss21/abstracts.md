@@ -18,6 +18,7 @@ Jessica Meyerson - Software Sustainability as Collective Action
 ## [Session 3 - Human factors and new development in preserving and sustaining research software](/wosss21/agenda#session-3)  
 [Emma Irwin - Changing our ways: Making Inclusion a Core Feature](/wosss21/S3-EmmaIrwin)  
 [Colin Venters - The Lost Architectures of Scientific Software and How to Find Them](/wosss21/S3-ColinVenters)  
+[Vicky Rampin - Software preservation is necessary for reproducibility](/wosss21/S3-VickyRampin)  
 [Stian Soiland-Reyes - Reproducibility; Research Objects (RO-Crate) and Common Workflow Language (CWL)](/wosss21/S3-StianSoiland-Reyes)  
 [Christina Von Flach Garcia Chavez - On the Sustainability of Academic Software in Software Engineering](/wosss21/S3-ChristinaVonFlachGarciaChavez)  
 [Kelly Rosa Braghetto - The FLOSS Competence Center as an Enabler of High-Quality Open Research Software in Brazil](/wosss21/S3-KellyRosaBraghetto)  
