@@ -29,7 +29,7 @@ All times stated are in BST which is UTC+1
 | [07:45-08:00](https://arewemeetingyet.com/London/2021-10-07/07:45)| Connect to Zoom & informal time |
 | [08:00-08:10](https://arewemeetingyet.com/London/2021-10-07/08:00)| Welcome to WoSSS Session 2 |
 | [08:10-08:20](https://arewemeetingyet.com/London/2021-10-07/08:10)| Icebreaker |
-| [08:20-08:45](https://arewemeetingyet.com/London/2021-10-07/08:20)| Plenary session 2A<br> [Nicholas Thiery - A glimpse at decades of FAIR struggles and practices in computational mathematics](/wosss21/S2-NicolasThiery) <br> [Tom Honeyman - FAIR adoption](/wosss21/S2-TomHoneyman)  |
+| [08:20-08:45](https://arewemeetingyet.com/London/2021-10-07/08:20)| Plenary session 2A<br> [Nicolas M. Thiéry - A glimpse at decades of FAIR struggles and practices in computational mathematics](/wosss21/S2-NicolasThiery) <br> [Tom Honeyman - FAIR adoption](/wosss21/S2-TomHoneyman)  |
 | [08:45-08:50](https://arewemeetingyet.com/London/2021-10-07/08:45)| Break |
 | [08:50-09:15](https://arewemeetingyet.com/London/2021-10-07/08:50)| Plenary session 2B<br> [Carole Goble - FAIR Computational Workflows](/wosss21/S2-CaroleGoble) <br> [Fakhereh (Sarah) Alidoost - Research software and beyond <br> ESMValTool: a community and FAIR software for evaluations of Earth system models](/wosss21/S2-FakherehAlidoost) |
 | [09:15-09:20](https://arewemeetingyet.com/London/2021-10-07/09:15)| Break |

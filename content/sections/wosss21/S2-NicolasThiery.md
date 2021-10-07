@@ -1,5 +1,5 @@
 # A glimpse at decades of FAIR struggles and practices in computational mathematics
-**by Nicholas Thiery**  
+**by Nicolas M. Thiéry**  
 
 ## From session 2 - [Open Science & applying the FAIR principles to software](/wosss21/agenda#session-2)  
 Computing has always been one of the favorite tools in (pure)
