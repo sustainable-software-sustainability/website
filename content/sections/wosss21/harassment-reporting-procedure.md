@@ -7,7 +7,7 @@
     *   Rachael Ainsworth, Research Software Community Manager, Software Sustainability Institute, [rachael.ainsworth@manchester.ac.uk](mailto:peter.doorn@dans.knaw.nl)
     *   Sacha van Breugel, Event Manager,  Netherlands eScience Centre,  [s.vanbreugel@esciencecenter.nl](mailto:s.vanbreugel@esciencecenter.nl) 
 
-The CoC Committee is prepared to handle the incident. All of our Committee members are informed of the [Code of Conduct policy](/wosss21/participation-guidelines#code-of-conduct) and [guide for handling harassment](/wosss21/staff-procedure-handling-reported-harassment) at the workshop. There will be a mandatory CoC Committee meeting just prior to the workshop when this will be reiterated as well.
+The CoC Committee was prepared to handle the incident. All of our Committee members were informed of the [Code of Conduct policy](/wosss21/participation-guidelines#code-of-conduct) and [guide for handling harassment](/wosss21/staff-procedure-handling-reported-harassment) at the workshop. There was a mandatory CoC Committee meeting just prior to the workshop when this was reiterated as well.
 
 2.  Report the harassment incident via private message in Slack or as an email to a member of the CoC Committee. All reports are confidential.
 
