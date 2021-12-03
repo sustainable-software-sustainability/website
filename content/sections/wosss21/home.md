@@ -4,7 +4,7 @@
 
 [Programme](/wosss21/agenda)
 
-[Registration is open](https://www.eventbrite.co.uk/e/workshop-on-sustainable-software-sustainability-2021-wosss21-wosss21-tickets-165250271009)
+[Registration now closed](https://www.eventbrite.co.uk/e/workshop-on-sustainable-software-sustainability-2021-wosss21-wosss21-tickets-165250271009)
 
 [Participation guidelines](/wosss21/participation-guidelines)
 
@@ -13,14 +13,13 @@
 Contact the organising committee via [WoSSS-workshop@listserv.manchester.ac.uk](mailto:WoSSS-workshop@listserv.manchester.ac.uk)
 
 ### Introduction and scope
-The Workshop on Sustainable Software Sustainability 2021 will be held online from Wednesday 6th October to Friday 9th October 2021. It is the 4th workshop in a series that started in Berlin in 2015. In 2017 and 2019 the event took place in The Hague. Reports on the previous workshops are available here: https://wosss.org
+The Workshop on Sustainable Software Sustainability 2021 was be held online from Wednesday 6th October to Friday 9th October 2021. It was the 4th workshop in a series that started in Berlin in 2015. In 2017 and 2019 the event took place in The Hague. Reports on all past workshops are available here: https://wosss.org
 
-The overall aim of the series is to bring together participants from a broad range of communities that are interested in how to deal with software sustainability, primarily from the perspective of scholarly and scientific research. WoSSS provides a meeting place to identify and discuss the hurdles and challenges we are facing. After Open Access to publications and FAIR data, software as a research output worthy and in need of preserving and sharing is only recently receiving more attention from policy makers and research funding organisations. With the new Horizon Europe programme just starting, during WoSSS21 we will discuss how we can best organise and support the community and emerging infrastructure for software sustainability. This year we will pay special attention to software as heritage and compare the challenges of sustaining software in the domains of cultural heritage and research.
+The overall aim of the series is to bring together participants from a broad range of communities that are interested in how to deal with software sustainability, primarily from the perspective of scholarly and scientific research. WoSSS provides a meeting place to identify and discuss the hurdles and challenges we are facing. After Open Access to publications and FAIR data, software as a research output worthy and in need of preserving and sharing is only recently receiving more attention from policy makers and research funding organisations. With the new Horizon Europe programme just starting, during WoSSS21 we discussed how we could best organise and support the community and emerging infrastructure for software sustainability. This year we paid special attention to software as heritage and compared the challenges of sustaining software in the domains of cultural heritage and research.
 
-Heading
-WoSSS21 is not only oriented to research software developers, researchers who code,  and specialists in digital preservation and research infrastructure, but also to policy makers in open science, research funders, and others who want to learn about the issues at stake and who have something to contribute. This year we especially welcome participants involved in digital heritage.
+WoSSS21 was not only oriented to research software developers, researchers who code, and specialists in digital preservation and research infrastructure, but also to policy makers in open science, research funders, and others who wanted to learn about the issues at stake and who have something to contribute. We especially welcomed participants involved in digital heritage.
 
-There will be four sessions taking place of PM, AM, PM, AM slots , divided over three days to maintain focus and momentum while being structured to allow adequate breaks. Every session will address a subject and will be introduced by a presentation. The four topics are:
+There were four sessions taking place of PM, AM, PM, AM slots, divided over three days to maintain focus and momentum while being structured to allow adequate breaks. Every session addressed a subject and was introduced by a presentation. The four topics were:
 
 **Session 1**: [Sustaining software in cultural heritage](/wosss21/agenda#session-1) (October 6, [14:30 BST](https://arewemeetingyet.com/London/2021-10-06/14:30))  
 **Session 2**: [Open Science & applying the FAIR principles to software](/wosss21/agenda#session-2) (October 7, [08:00 BST](https://arewemeetingyet.com/London/2021-10-07/08:00))  

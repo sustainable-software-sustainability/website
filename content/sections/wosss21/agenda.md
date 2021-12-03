@@ -1,5 +1,5 @@
 # WoSSS21 programme
-All times stated are in BST which is UTC+1
+All times stated were in BST which is UTC+1
 ## Session 1
 **October 6, afternoon - [Sustaining software in Cultural Heritage](/wosss21/abstracts#session-1)**
 

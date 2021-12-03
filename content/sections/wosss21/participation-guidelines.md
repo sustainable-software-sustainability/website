@@ -1,12 +1,12 @@
 # WoSSS21 - Participation Guidelines
 
-The Software Sustainability Institute (SSI) is the [lead partner](/partners) in the delivery of the 2021 edition of the Workshop on Sustainable Software Sustainability 2021 ([WoSSS21](/wosss21/home/)). The workshop brings together participants from a broad range of communities that are interested in how to deal with software sustainability, primarily from the perspective of scholarly and scientific research. 
+The Software Sustainability Institute (SSI) was the [lead partner](/partners) in the delivery of the 2021 edition of the Workshop on Sustainable Software Sustainability 2021 ([WoSSS21](/wosss21/home/)). The workshop brought together participants from a broad range of communities that were interested in how to deal with software sustainability, primarily from the perspective of scholarly and scientific research. 
 
-We value the participation of each stakeholder and want all participants to have an enjoyable and fulfilling experience. Accordingly, all participants are expected to show respect and courtesy to other participants throughout the workshop and through all communication channels, including but not limited to the collaborative documents, Slack workspace and Zoom (and/or any additional platform used to facilitate the event). 
+We valued the participation of each stakeholder and wanted all participants to have an enjoyable and fulfilling experience. Accordingly, all participants were expected to show respect and courtesy to other participants throughout the workshop and through all communication channels, including but not limited to the collaborative documents, Slack workspace and Zoom (and/or any additional platform used to facilitate the event). 
 
-To make clear what is expected, all participants (including speakers, exhibitors, organisers and volunteers) at WoSSS21 are required to agree to and abide by the following set of Participation Guidelines. 
+To make clear what was expected, all participants (including speakers, exhibitors, organisers and volunteers) at WoSSS21 were required to agree to and abide by the following set of Participation Guidelines. 
 
-Please note that minor changes and additions may be made to these participation guidelines up until the event in the spirit of the existing guidelines (such as linking to an additional tool’s privacy policy or clarifying the response to different Code of Conduct scenarios). Changes will be documented in the Change Log at the bottom of the page.
+Please note that minor changes and additions were made to these participation guidelines up until the event in the spirit of the existing guidelines (such as linking to an additional tool’s privacy policy or clarifying the response to different Code of Conduct scenarios). Changes will be documented in the Change Log at the bottom of the page.
 
 If you have any questions about these Participation Guidelines, please contact WoSSS21 Lead - Shoaib Sufi at [shoaib.sufi@software.ac.uk](mailto:shoaib.sufi@software.ac.uk).
 
@@ -39,7 +39,7 @@ Thank you for helping make this a welcoming, friendly event for all.
 
 Harassment includes offensive communication related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
 
-Participants asked to stop any harassing behaviour are expected to comply immediately.
+Participants asked to stop any harassing behaviour were expected to comply immediately.
 
 Be careful in the words that you choose. Remember that words can be offensive to those around you. 
 
@@ -47,7 +47,7 @@ Examples of behaviour that is not welcome or appropriate at WoSSS workshops inc
 
 WoSSS takes Diversity and Inclusion seriously. We want to promote an open but respectful environment to help shift the research software community to be more inclusive and welcoming to people from different backgrounds. To this end, please be mindful of the language and tone that you use when discussing points of view and lived experiences.
 
-If a participant engages in behaviour that violates this Code of Conduct, the workshop organisers may take any action they deem appropriate, including warning the offender, removing speaking privileges, or expulsion from the workshop.
+If a participant engaged in behaviour that violated this Code of Conduct, the workshop organisers could take any action they deem appropriate, including warning the offender, removing speaking privileges, or expulsion from the workshop.
 
 ### Contact Information
 
@@ -58,7 +58,7 @@ If you are being harassed, notice that someone else is being harassed, or have a
 *   Rachael Ainsworth, Research Software Community Manager, Software Sustainability Institute, [rachael.ainsworth@manchester.ac.uk](mailto:peter.doorn@dans.knaw.nl)
 *   Sacha van Breugel, Event Manager,  Netherlands eScience Centre,  [s.vanbreugel@esciencecenter.nl](mailto:s.vanbreugel@esciencecenter.nl)
 
-The Code of Conduct Committee is happy to assist those experiencing harassment to feel safe for the duration of the workshop. We value your participation.
+The Code of Conduct Committee was happy to assist those experiencing harassment to feel safe for the duration of the workshop. We value your participation.
 
 ### Procedure for Reporting Harassment
 
@@ -100,7 +100,7 @@ This privacy statement is continued [here](https://www.ed.ac.uk/data-protection/
 
 ### Tools
 
-We will use a number of third party tools to facilitate the running of WoSSS21\. We include links to their privacy policies below for your convenience.
+We will use a number of third party tools to facilitate the running of WoSSS21. We include links to their privacy policies below for your convenience.
 
 | Platform             | Link to Privacy Statement |
 |----------------------|---------------------------|
@@ -115,21 +115,21 @@ We will use a number of third party tools to facilitate the running of WoSSS21\.
 
 ## Social Media Policy
 
-For plenary presentations, panel discussions and report backs, it is assumed by default that information and images can be published on social media unless the presenter expressly states otherwise.
+For plenary presentations, panel discussions and report backs, it wass assumed by default that information and images could be published on social media unless the presenter expressly stated otherwise.
 
-For discussion sessions, any publication on social media must first be checked with the rest of the group/team.
+For discussion sessions, any publication on social media was first checked with the rest of the group/team.
 
-Any conversations in workshop communication channels (such as the Slack workspace or Zoom chat) must not be published on social media without the express permission of those involved.
+Any conversations in workshop communication channels (such as the Slack workspace or Zoom chat) was not be published on social media without the express permission of those involved.
 
 Any conversations that take place within the social programme or networking time must not be published on social media without the express permission of those involved.
 
 ## Intellectual Property Policy
 
-The aim of this policy is to clarify how contributions from, and outputs generated by, participants at WoSSS21 are treated. The intention is to benefit the WoSSS21 community,  the research software community and the public at large, while respecting the legitimate rights of others.
+The aim of this policy was to clarify how contributions from, and outputs generated by, participants at WoSSS21 were treated. The intention was to benefit the WoSSS21 community,  the research software community and the public at large, while respecting the legitimate rights of others.
 
 ### Background intellectual property
 
-As a participant in the workshop you retain your rights and ownership of any background intellectual property (the intellectual property that you already own or have a license to use at the start of the event) you contribute to any part of the event. There must be no assumption of confidentiality - do not share information that you do not wish seen by others.
+As a participant in the workshop you retain your rights and ownership of any background intellectual property (the intellectual property that you already owned or had a license to use at the start of the event) you contributed to any part of the event. There was no assumption of confidentiality - information that you did not wish seen by others should not be shared.
 
 Material presented at the workshop are subject to the license applied by the authors.
 
@@ -137,9 +137,9 @@ All presentation slides and material from WoSSS21 organisers will be made availa
 
 ### Foreground intellectual property
 
-Foreground intellectual property generated at the event is owned by the individual authors but they are required to openly license the works so that others can make use of them, unless a specific exception is requested from the organisers before the end of the event. 
+Foreground intellectual property generated at the event is owned by the individual authors but they are required to openly license the works so that others can make use of them, unless a specific exception was requested from the organisers before the end of the event. 
 
-All documents produced during the workshop (including but not limited to meeting notes, discussion notes and any report back presentations) will be published after the event under a [Creative Commons - Attribution 4.0 International (CC-BY 4.0) license](https://creativecommons.org/licenses/by/4.0/). Please be mindful of what personal information you are willing to share in these.
+All documents produced during the workshop (including but not limited to meeting notes, discussion notes and any report back presentations) will be published after the event under a [Creative Commons - Attribution 4.0 International (CC-BY 4.0) license](https://creativecommons.org/licenses/by/4.0/).
 
 Video, audio and pictures taken of the event by the Institute team, or those working on their behalf, are the property of the Institute through the University of Edinburgh as lead partner.
 
@@ -147,7 +147,7 @@ Conversations in the communication channels (such as the Slack workspace or Zoom
 
 ### Exceptions
 
-Participants may request that the Institute does not publish outputs they have created (or remove the attribution to them) at the WoSSS21 workshop under various circumstances. These may include where the authors have a specific plan to exploit them, they believe that the output includes content that the authors do not have the rights to use, or the authors do not agree on what is expressed in the publication. Such an exception must be requested by contacting the WoSSS21 organisers before the end of the event.
+Participants may request that the Institute does not publish outputs they have created (or remove the attribution to them) at the WoSSS21 workshop under various circumstances. These may include where the authors had a specific plan to exploit them, they believed that the output includes content that the authors do not have the rights to use, or the authors did not agree on what is expressed in the publication. Such an exception should be requested by contacting the WoSSS21 organisers before the end of the event.
 
 ## Change Log
 
@@ -156,6 +156,7 @@ Any amendments to the Participation Guidelines will be logged here. 
 
 | Version | Date       | Changes made |
 |---------|------------|--------------|
+| 1.1.0   | 2021-12-03 | Changes after the workshop took place |
 | 1.0.0   | 2021-07-29 | First public published version |
 
 ## License
