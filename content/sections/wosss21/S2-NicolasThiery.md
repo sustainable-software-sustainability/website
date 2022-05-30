@@ -2,73 +2,20 @@
 **by Nicolas M. Thiéry**  
 
 ## From session 2 - [Open Science & applying the FAIR principles to software](/wosss21/agenda#session-2)  
-Computing has always been one of the favorite tools in (pure)
-mathematics to discover and explore new theories. Thus, as computing
-devices emerged, they were naturally adopted to compute examples, test
-conjectures or even prove theorem, like the classic four color
-theorem: computers became the telescope of mathematicians. A telescope
-made both of general purpose hardware **and** bespoke software.
 
-At first, it would take advanced skills to develop that software, but
-the scale was limited: for each project a dedicated program would
-typically be written by one or two persons. Starting from the 70's
-With computing capacities and computational mathematics blossoming,
-the range and the depth of mathematics that could be explored with the
-computer increased drastically. There was a price however: the
-software complexity and scale also increased drastically. Rewriting
-software for each occasion was not sustainable any more; it had to be
-**Reused**.
+The definitive write-up of this talk appears in the [WoSSS21 report](https://wosss.org/#reports).
 
-Many development models were explored in the 80's and 90's to achieve
-that aim, with two main archetypes emerging: in the first archetype --
-*developed by users for users* -- a mathematical community would get
-together and build a common system aggregating and structuring the
-development efforts of the community. Examples of such systems include
-for example GAP for Group Theory, PARI for Number Theory, Macaulay for
-Commutative Algebra, etc. Naturally these systems adopted -- when not
-preceding -- the four principles of Free Software. Indeed computer
-exploration is by nature a handicraft where the needs are ever
-changing. Hence the user needs a toolbox that he not only can **reuse
-as is**, but **observe** with a critical eye, **adapt** to his own
-hand and job, with the ability to **redistribute** is adaptations.  A
-major strength of the for-user-by-user development model is that
-codesign is at its root, ensuring that the software meets the user's
-needs and letting the user craft the tool to his own hand.
+### Resources
+A [video](https://www.youtube.com/watch?v=7C2ezaCrzJw&list=PLXAvKzjdTsrxFqbjWtxHjfJc0RN6jMwZg&index=10) is available.
 
-In the other archetype, the development was carried out by a dedicated
-team, the obvious challenge being to fund such a team in the long run.
-Thus, such systems usually ended up taking the commercial route, hence
-targeting by necessity a wide audience susceptible to draw enough
-revenue. These systems, including e.g. Maple, MuPAD or Mathematica,
-had a major impact making computational mathematics more accessible by
-putting it at the fingertip of casual researchers and teachers. At
-least when they could afford the licences.
+### Transcript
 
-At this point, it should really be emphasized that this text is no
-more than a glimpse into decades of work by hundreds. A proper history
-should highlight dozens of other systems of all scales and mixed
-development models that have supported mathematics over the years.
-Not counting that mechanizing mathematics goes far beyond computation:
-formal proofs, data bases, knowledge management, typesetting, etc.
+I'm just going to start with a few words about myself. Not that you should care in any way, except that I will be stating opinions. And when you hear opinions, it's good to see where they're coming from. So I've been a free software enthusiast for quite some time now, and also engaged early in my career in research and teaching in algebraic combinatorics which is just at the border between maths and computer science. Pretty soon I tried to join my two passions and started to develop Free Software for what I was doing: my research. And put in here the kind of software was being about our software like SageMath GAP and others, which can be millions of lines developed by hundreds of people. So it's kind of large software, open in open source. And later on in my career. So five years ago, I started to try to see how we could support the software communities with funding. So I've been coordinating an EU project, supporting sage gap and many of our software. 
 
-At the turn of the century there was a growing frustration in the
-community about the situation: through web searches, conferences, or
-hearsay you would **Find** many functionality that you would dream to
-use in your own computations, but more often than not they were not
-**Accessible**, either because they were provided by a system with a
-licence that you could not afford or that would not run on your computer,
-or by a bespoke system that was not **Interoperable** with
-yours. Many were dreaming of a system that would be simultaneously Free
-Software and general purpose. The community had tight
-resources to devote to such a system: minimal financial resources and very
-little research software engineer time; remained some time, skills and enthusiasm
-from many end users. The design had to adapt to this context and be
-very lean: reuse existing mathematical components; reuse an existing
-programming language (which one?), taking advantage of emergence of modern
-ones that did fit the strong requirements for mathematical programming.
+Alright, so I'm going to start with a very small anecdote, back in 99 as a free software enthusiast, I participated int the organisation of a free software conference in Lyon  since my father was developing software for science, I invited him to give a talk. His title was 40 years of scientific free software. he lesson I learned then is that, quite often, you get enthusiastic about ideas that seem to be just emerging. But in fact, these ideas have been in action for years, if not decades, way before they've been conceptualised and recognised widely. So what I'm going to try to do in this talk is the same thing about the FAIR principles. And I'm trying to say a few words about how we have these ideas, I've been an action for a long time in the math software community, it's actually it actually wouldn't be a long story. And I, when typing in my abstract became two, three pages text, which only shows a very small piece of the world, the whole story. And really, that my talk now is going to be the abstract for the story rather than the converse. So this is full story if you want to see it. So I just again, base myself on anecdote so that about the same time, I had a very good friend. And we were both doing a PhD thesis in algebraic combinatorics. So him here, on the left, was doing research in representation theory. And myself, I was doing inventory. And we are of course talking about natural time. And both of us loved computers. And so both of us were using quite a lot computer exploration and writing code. And so we discussed the specific algorithm that he was using the specific categories in the he was interested, but nothing much beyond discussion happened. And then at some point, after we did this, we started to actually, we decided to actually look at the code. And then we discovered something very interesting. Between his code and my code 90% was exactly the same, we had both very specific things about representation theory, I'd my specific algorithm about inventory, but 90% of the code was doing same kind of things, enabling to compute the same kind of algebra. So what had happened here? What did we learn them? Well, I could not find my best friend's code. Even if I had found it, I could not access it because well, first it was not published. And also, he was using Maple, I was using MuPAD. And I didn't have a Maple licence. And anyway, even if I had, I wanted to, what I would have liked to do is mix his code with mine, but Maple is not that well interoperable. And so at the end of the day, even if we were close friends, discussing a lot, and so on, we could not reuse each other's code. Now think what would have happened if we had actually shared the code, we could have actually saved 50% of the software development time, because most of the thing would have done together and then each of us would have done this little magic on specific field. And 50% more time means more research and of course modelling. So based on this, we decided to try to do better. And we started a project, which is about showing algebraic combinatorics and of course what you gain when you have two people get even better. So if you are more than this, so we try to apply indexing and go from two people to a community of about 30 people quite soon.
 
-## Messages for policy makers
+I won't say Don't get me started speaking more about this because this would last for quite a long time. I would just say that. So sorry, was quite long we first were using mupad. And then at some point about this general purpose system for mathematics called sage math that appeared and we were happy to join the system. And I now I'm going to just point at some of the best practices that are put in this ecosystem. And that made this this visual system viable. So I'm very least I'm not going to go through all of them, I'm just going to point some of the very important ones. So to promote findability, one of the very efficient mean is to organise a lot of training, you want people to be aware of software, you want people to, to learn about it. In particular, it's quite important to have dedicated software for women and minorities. Of course, we want tools and so on. Another thing that you might not think immediately findability is not only about finding the software itself, but making your way inside a huge software, when you have millions of lines, how do you find that specific feature that you're interested in. And something that is quite powerful is trying to have your, your system to try to model as closely as possible your business logic and you want your users not to be thinking about this specific algorithm, but they want to be speaking in their natural math language, so for us math. So you want them to be speaking well, math, language, and interact with the system in a way that is as close as possible from what they're wearing. And this will guide them through Oh, I want to complete this What is this called? Oh, there is. Documentation obviously, is very important. One nice project, I would like to suggest is something is very important, the recommendation is to have a strong network of cross links so that when you explore something into, oh, what can I do there, it points you to other things that you might not have discovered. Otherwise, the thing is, building this network of cross links, it takes a lot of work. And one thing I've been building is whether natural language processing cannot help cannot come to the rescue by analysing the huge body of little pieces of documentation that we have, and finding connections for us and doing the cross linking and suggesting Oh, maybe you would be interested in that particular link. So that's a few things about Findability, about accessibility. Essentially, it's all about making it easy to install your software on personal computers, computers and computing infrastructure. This is a lot of work. Because you have to take care of portability of packaging important and so on. I would point I would strongly suggest making sure your software is packaged. But it's not only about making the core software available, but it's also about making it easy for your users to make the extensions and their computational narratives. We have heard about Jupyter hub before. So make them accessible, easily accessible to support basic reproducibility, at least make it easy for someone to access software, the narrative and play with it. And also to support long term archival, for example, through software heritage. About interoperability, I won't go starts to be quite technical, I won't go deeply into there. But one of the main things that require a lot of work in our area is that all systems are based on hundreds of components. And you need to bring those components together and to fight all the silo effects that you tend to have between components. Finally, about reusability. And this is going to teach on sustainability. These are large pieces of software, we take a lot of work to develop, it's absolutely critical to save as much energy as you can and to save it by reusing existing things or using existing programming language, libraries computing environments like Jupyter deployment models and tools. And yeah, of course, you want to make your software reusable. And again, accessibility and generic code are quite important. One aspects is when you design a system, you often think about the technical sides, but it's actually the social aspects are as important as technical are
 
-- Foster FAIR practices, but don't impose them unless absolutely necessary to counter-balance other higher forces
-- Fund software maintenance
-- Research Software Engineers
+About sustainability. I would just point one part is we want to promote ecosystems. So nowadays we're not speaking about individual software, that really ecosystem of software. And one thing that we want to promote is ecosystem of software where features such as more granularity Features live, compete and die. Why should things die when they are not news anymore, because of technical debt and technical debt can really kill your project. It's not so bad if this thing to die, I actually archive. So competition at a very small granularity, yet at the same time at higher granularity. So when we are speaking about people and system there, we want to advocate for collaboration. So that we ???. I will conclude with just a few messages for policymakers. One of them is that software is not the same thing as data, specific challenges to we can just applies the principles. Luckily, the ideas have been in community for decades. So there is a lot of lot to learn by just looking at what different group of people have been, I've been doing. In general, I've seen around me that most of the time, if you give them mean scientists are really like open to the idea of open science and they will be enthusiastic. So it's really about encouraging them. So to our policy makers, please support and foster fair practices but don't impose them. Because there are so many different ways to apply them in the right way to apply them didn't so much from one way to be other than deciding on general rules that would apply for everyone. This  would be counterproductive. So support don't impose. We, this kind of love software I've been mentioning, can be developed by users or users most of the time. But it's absolutely critical to have access to research or software engineerings for training for advice and protecting high level highly technical tasks. So please make it easy to have flexible access at all timescales to research software engineers. And well we want to look for this. We need to have good software and research software engineers around so which is absolutely necessary to promote career paths, long term career path for research software engineers. So we need funding. And it's not just about funding this very fashionable, new thing. But it's really about funding software, long term software maintenance. That's that's the most important part. And I should say that when people think about funding, most of the time we think about project based funding. I've done my homework, I've been running certain projects, it can work, it can bring things but it has its limit because of predictability because of tension between project from the project base funding and career paths. And because of the huge overhead that project based funding impose on community in general and on coordinators in particular. So please promote not only project based funding, but also recurrent funding.
+
+
