@@ -3,27 +3,10 @@
 
 ## From session 1 - [Sustaining software in cultural heritage](/wosss21/agenda#session-1)  
 
+The definitive write-up of this talk appears in the [WoSSS21 report](https://wosss.org/#reports).
+
 ### Resources
 A [video](https://www.youtube.com/watch?v=MdcRrAIpI2s&list=PLXAvKzjdTsrxFqbjWtxHjfJc0RN6jMwZg&index=3) of the talk and associated [slides](https://docs.google.com/presentation/d/1rTp8wWDERBFpeBvRB7Bhw_laTHHtDQkK-zYcP4du-Ac/edit#slide=id.g35f391192_00) are available.
-
-
-### Summary
-
-As a framing, sustainability does tremendous work for the international community of stakeholders that care about software as both 1) a dependency to make meaning from existing data and scholarship, and 2) as an output in its own right, as a cultural heritage object. It does this work - because sustainability doesn’t just imply the maintenance of software over the longer term, sustainability is a way of thinking that begs us to see our relationship to software in multiple dimensions - social, environmental, and economic - as well as across time. In the communities that I facilitate, sustainability frames not just how we preserve software and born-digital records, but also how these goals can align with those of environmental sustainability, and how to sustain our own selves as humans with limited attention and capacity but a desire to relieve the tensions and barriers to software preservation.
-
-Drawing from information science, software sustainability practitioners operate within a “records continuum.” The records continuum model (RCM) holds both software’s active life (fulfilling its originally intended purpose) as well as its potentially long tail of reuse by resisting the false binary of active and archival in the first place. The continuum assumes that from the moment of creation, a record (in this case software) is both an active record and a historical one. Like sustainability, the records continuum model begs us to approach software as part of larger cultural, environmental, political, and legal processes. 
-
-Additionally (and importantly), the RCM asks us to consider our relationship to software at different scales of human life including individual, group, community, organisational, institutional, national, and international scales. 
-
-How does the growing landscape of software sustainability specialisations, tooling, and processes apply across the software continuum? How do we use the continuum model to inform software sustainability activities at each scale of human life? What are the tensions shaping software sustainability activities at the organisational and international scale? 
-
-In the Software Preservation Network, we believe that collective action is necessary to situate software and other born-digital material at the various scales in the RCM, and to address the tensions that we see around achieving that goal. But in our work on Emulation as a Service Infrastructure, we have now begun to map the boundaries of collective action - the boundary between what a consortia or a service or an interorganizational community of practice is in the best position to do versus what really needs to take place locally - informed by local user constituencies and institutional realities. Now that SPN has gathered model software preservation workflows/case studies, policies, and advocated for exemptions to US Copyright law -- and the EaaSI platform platform is real, wrapping up a pilot with additional cloud hosted emulation nodes - we are faced with a new challenge - how do we (re) situate these collective outputs back into the very local, very specific contexts of cultural heritage institutions in ways that enable those same institutions to provide useful, sustainable emulation services? 
-
-This is where field-level scale is de-emphasized and the local, interrelational scales come to the forefront. Participatory Archival Research & Development (PAR&D), an orientation/approach to cultural heritage work that speaks to how these communities work, emphasises - “There are more general ways and specific strategies/standards that help to cultivate trust (community archiving, post-custodial stewardship, trusted repository audit certification) but we sustain trust through reflexive practice, by making reflexivity business-as-usual: questioning our assumptions/our rationales, and critical evaluation, of documenting those rationales and making that documentation visible.”
-
-Collective action got us to where we are with the development of these resources and development of communities like the Software Preservation Network and BitCurator Consortium. But when we re-focus on the local context, that is the work of building power for future collective actions. Sustaining and preserving the world’s software requires the commitment of many, many individuals that hold various levels of influence and power.  We build power by building trust, and it’s not a very technical activity. It’s actually quite simple - from the constant activity of checking in, chatting with your colleagues, understanding where everyone is coming from, you build trust and collect the ingredients required for successful collective action later. I also see power built through sharing knowledge in spaces like this, in training efforts, and in sharing resources that can be re-used. 
-
-We must imagine the funding, capacity, and even knowledge that we want ourselves and our organisations to have in the future, in order to develop pathways to materialise these goals. So we imagine this future, and we are all collectively working to get there in small ways by sharing knowledge and enthusiasm with our colleagues, and in big ways by holding public events like this one to to amplify that activity many times over.
 
 ### Transcript
 
