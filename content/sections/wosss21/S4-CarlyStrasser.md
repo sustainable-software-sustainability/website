@@ -3,13 +3,11 @@
 
 ## From session 4 - [Sustaining the community and promoting (human) infrastructures for software sustainability](/wosss21/agenda#session-4)  
 
+The definitive write-up of this talk appears in the [WoSSS21 report](https://wosss.org/#reports).
+
 ### Resources
 
 A [video](https://www.youtube.com/watch?v=nIa4qPL7g-Q&list=PLXAvKzjdTsrxFqbjWtxHjfJc0RN6jMwZg&index=28) is available.
-
-### Summary
-
-The majority of open source software for science is undervalued and lacks funding for maintenance, growth, development, and community engagement—especially after the initial phase when it’s linked to original research. The Chan Zuckerberg Initiative's Essential Open Source Software for Science program supports open source projects that are important for biomedical research via funding for maintainers, community development, and software upkeep.
 
 ### Transcript
 
