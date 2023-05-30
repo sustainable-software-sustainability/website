@@ -14,6 +14,11 @@ allReports:
     year: 2019
     description: "Sustainable Software Sustainability - Workshop report" 
     link: https://zenodo.org/record/3922155
+
+  - title: Online
+    year: 2021
+    description: "Sustainable Software Sustainability - Workshop report" 
+    link: https://zenodo.org/record/7951155
 ---
 ### Workshops Reports
 
