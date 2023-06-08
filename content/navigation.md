@@ -1,6 +1,6 @@
 ---
   - path: "/wosss21/home"
-    title: "Workshops"
+    title: "WORKSHOPS"
     subitems:
     - path: "/wosss21/home"
       title: "WoSSS21"
