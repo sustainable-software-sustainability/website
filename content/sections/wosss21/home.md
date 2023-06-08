@@ -4,7 +4,7 @@
 
 [Programme](/wosss21/agenda)
 
-[The Event has now taken place](https://www.eventbrite.co.uk/e/workshop-on-sustainable-software-sustainability-2021-wosss21-wosss21-tickets-165250271009)
+[Abstracts](/wosss21/abstracts)
 
 [Participation guidelines](/wosss21/participation-guidelines)
 

@@ -1,15 +1,9 @@
 ---
   - path: "/wosss21/home"
-    title: "WoSSS21"
+    title: "Workshops"
     subitems:
     - path: "/wosss21/home"
-      title: "Event"
-    - path: "/wosss21/agenda"
-      title: "Agenda"
-    - path: "/wosss21/abstracts"
-      title: "Abstracts"
-    - path: "/wosss21/calendar"
-      title: "Calendar"
+      title: "WoSSS21"
     
   - path: "/"
     section: "#reports"
