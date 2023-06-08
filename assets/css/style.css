@@ -1283,6 +1283,7 @@ footer {
 	width: 100%;
 	margin-bottom: 50px;
 	margin-top: 35px;
+	text-transform: capitalize;
 }
 .mobile-menu ul li {
 	float: left;
